@@ -1,0 +1,994 @@
+cancion,artista,playlist,track_id,danceability,energy,key,loudness,speechiness,acousticness,instrumentalness,liveness,valence,Lista Rep,liked
+Immortal Rites,Morbid Angel,4tszLL7NTfLCoIz39Zsiy1,5hmek3mrSYvfSElBsPNbxo,0.19,0.934,1,-7.796,0.056,8.08e-06,0.107,0.363,0.36,Death Metal,1
+Chopped in Half,Obituary,4tszLL7NTfLCoIz39Zsiy1,01cGujYWGF7JchJLSgf6Ta,0.257,0.989,10,-5.918,0.0867,6.72e-06,0.521,0.263,0.385,Death Metal,1
+Left Hand Path,Entombed,4tszLL7NTfLCoIz39Zsiy1,5faD0zZ9fMa3J5ZN3lIWtp,0.166,0.927,7,-8.797,0.0736,3.94e-06,0.651,0.344,0.219,Death Metal,1
+Pull the Plug,Death,4tszLL7NTfLCoIz39Zsiy1,2l0h4aBFLp9HdoaNdCTlbW,0.226,0.978,9,-5.729,0.209,3.6e-06,0.533,0.0436,0.242,Death Metal,1
+Into The Grave,Grave,4tszLL7NTfLCoIz39Zsiy1,4bAIIhqJeOTDcyeo1GvIMo,0.295,0.915,1,-6.968,0.0954,3.28e-06,0.91,0.0772,0.343,Death Metal,1
+Slowly We Rot,Obituary,4tszLL7NTfLCoIz39Zsiy1,5F6ZrWLngDICyjazxM1gNq,0.275,0.947,0,-6.696,0.0835,1.08e-05,0.00968,0.124,0.0835,Death Metal,1
+Crystal Mountain,Death,4tszLL7NTfLCoIz39Zsiy1,0ItAcLSkUiePOmFGun3cSe,0.261,0.979,7,-6.218,0.221,4.48e-05,0.0014,0.374,0.362,Death Metal,1
+Once Upon the Cross,Deicide,4tszLL7NTfLCoIz39Zsiy1,3fsOBwBwxBB4j1IFhh3s9V,0.205,0.95,10,-8.498,0.132,1.93e-05,0.805,0.212,0.314,Death Metal,1
+Before the Creation of Time,Unleashed,4tszLL7NTfLCoIz39Zsiy1,1SvsK5tkR5R73DOAcsW8wz,0.265,0.944,6,-10.365,0.0598,5.78e-05,0.0243,0.492,0.397,Death Metal,1
+Chapel of Ghouls,Morbid Angel,4tszLL7NTfLCoIz39Zsiy1,7jok5zvxnrQuK2N7psZHyN,0.177,0.965,4,-7.14,0.0809,3.29e-06,0.548,0.11,0.203,Death Metal,1
+Redneck Stomp,Obituary,4tszLL7NTfLCoIz39Zsiy1,2fSYadDsbWMtIVqX7flKIc,0.245,0.861,2,-8.728,0.0415,0.000256,0.871,0.216,0.483,Death Metal,1
+Pierced from Within,Suffocation,4tszLL7NTfLCoIz39Zsiy1,6Z2McHf57ikVCiAkWvicg1,0.324,0.837,10,-10.142,0.101,1.83e-06,0.944,0.0882,0.635,Death Metal,1
+Hammer Smashed Face,Cannibal Corpse,4tszLL7NTfLCoIz39Zsiy1,4pFC6tuWErxbO61oFFq3BQ,0.357,0.98,6,-6.835,0.079,5.22e-05,0.843,0.0768,0.368,Death Metal,1
+Symbolic,Death,4tszLL7NTfLCoIz39Zsiy1,0dpFb4qv92TE9R00Lq4SAW,0.364,0.982,6,-7.034,0.195,6.65e-05,0.0124,0.163,0.127,Death Metal,1
+Fear Of Napalm,Terrorizer,4tszLL7NTfLCoIz39Zsiy1,3dfO5e6kvudYYQwWiLbBoo,0.219,0.94,2,-14.888,0.0569,1.06e-05,0.939,0.348,0.164,Death Metal,1
+Suffer The Children,Napalm Death,4tszLL7NTfLCoIz39Zsiy1,5oIHVkR1P4y277ftTPLpWj,0.289,0.887,1,-14.387,0.0963,5.03e-06,0.861,0.293,0.478,Death Metal,1
+Maze of Torment,Morbid Angel,4tszLL7NTfLCoIz39Zsiy1,7t5riom6kdqXkb1VzTlAaH,0.201,0.98,8,-6.507,0.125,5.71e-06,0.163,0.119,0.0958,Death Metal,1
+Twisted Truth,Pestilence,4tszLL7NTfLCoIz39Zsiy1,233N4WwgPBme5byY33723f,0.304,0.976,10,-5.41,0.114,4.05e-05,0.477,0.275,0.204,Death Metal,1
+Spirit Crusher,Death,4tszLL7NTfLCoIz39Zsiy1,3sSonVXqDeoEFj2lM7mpYT,0.289,0.968,2,-4.049,0.15,4.66e-05,0.0163,0.0569,0.284,Death Metal,1
+Sacrificial Suicide,Deicide,4tszLL7NTfLCoIz39Zsiy1,2kW45RgvG6cGkyAfq9ZlsZ,0.315,0.993,4,-5.458,0.209,0.000165,0.00359,0.0714,0.0371,Death Metal,1
+Override Of The Overture,Dismember,4tszLL7NTfLCoIz39Zsiy1,52EJuzU66QlmlpMD88dWEm,0.172,0.982,1,-5.664,0.186,2.58e-06,0.813,0.401,0.105,Death Metal,1
+The Exorcist,Possessed,4tszLL7NTfLCoIz39Zsiy1,5XnyWvKPVgJsVKmUjFbMv3,0.118,0.982,10,-5.349,0.231,2.26e-05,0.253,0.22,0.0345,Death Metal,1
+Fall from Grace,Morbid Angel,4tszLL7NTfLCoIz39Zsiy1,4swUCr7TH4vP1WYD8ohygv,0.348,0.867,4,-8.271,0.0566,0.000123,0.038,0.564,0.471,Death Metal,1
+I Cum Blood,Cannibal Corpse,4tszLL7NTfLCoIz39Zsiy1,3bQoMbPYOvvseHaSOWAQ3Q,0.338,0.988,8,-7.29,0.0865,8.35e-05,0.833,0.0377,0.449,Death Metal,1
+Dead by Dawn,Deicide,4tszLL7NTfLCoIz39Zsiy1,5316Jxdg95Bt9VeGuioYuf,0.248,0.993,11,-4.907,0.189,5.66e-05,0.0209,0.0978,0.0998,Death Metal,1
+Spiritual Healing,Death,4tszLL7NTfLCoIz39Zsiy1,7lylZyx3PtBVq9YpioPVMD,0.343,0.942,0,-4.756,0.0866,2.63e-05,0.0136,0.0701,0.369,Death Metal,1
+Liege of Inveracity,Suffocation,4tszLL7NTfLCoIz39Zsiy1,7qvTHdpc9qu4TMPur5vs9w,0.313,0.931,1,-7.951,0.113,8.67e-05,0.919,0.176,0.405,Death Metal,1
+Graves of the Fathers,Cryptopsy,4tszLL7NTfLCoIz39Zsiy1,774kFk9YCPyTYR7sSIDqum,0.261,0.982,7,-4.499,0.202,4.63e-06,0.856,0.24,0.292,Death Metal,1
+Stiff and Cold,Gorguts,4tszLL7NTfLCoIz39Zsiy1,4RWI06gvNPqEwnPNcMINK8,0.232,0.964,1,-8.173,0.122,1.15e-05,0.654,0.297,0.22,Death Metal,1
+Premature Burial,Malevolent Creation,4tszLL7NTfLCoIz39Zsiy1,45QRBDrfLXVvJn2VeGPQCn,0.393,0.913,9,-10.955,0.072,0.00036,0.0444,0.146,0.182,Death Metal,1
+Revel In Flesh,Entombed,4tszLL7NTfLCoIz39Zsiy1,48zi76YORvpiYO67liH70R,0.137,0.948,7,-7.632,0.102,2.97e-06,0.509,0.335,0.305,Death Metal,1
+Leprosy,Death,4tszLL7NTfLCoIz39Zsiy1,6QzjXmQ1mHNYHrwNurA9vJ,0.222,0.985,10,-5.484,0.136,1.97e-06,0.109,0.0592,0.0984,Death Metal,1
+Arise,Sepultura,4tszLL7NTfLCoIz39Zsiy1,1erRDf98WX0VllciGPYO1H,0.372,0.961,9,-6.765,0.0931,1.52e-05,0.0548,0.0916,0.159,Death Metal,1
+Out of the Body,Pestilence,4tszLL7NTfLCoIz39Zsiy1,0a2gTb30JwuM8Gi04u8rNo,0.306,0.989,2,-5.087,0.109,3.95e-05,0.00041,0.27,0.134,Death Metal,1
+The IVth Crusade,Bolt Thrower,4tszLL7NTfLCoIz39Zsiy1,00nhkvorbdardFjuIi2OOo,0.153,0.783,1,-10.76,0.066,0.0,0.922,0.102,0.109,Death Metal,1
+Drowned,Entombed,4tszLL7NTfLCoIz39Zsiy1,74sEzDFrgGFxaM7xrEyOkG,0.166,0.931,1,-7.042,0.0832,4.23e-06,0.171,0.276,0.236,Death Metal,1
+Death Metal,Possessed,4tszLL7NTfLCoIz39Zsiy1,4BIxY4hmAvaJJBqGGxfHdJ,0.204,0.989,11,-4.866,0.103,3.76e-05,0.000466,0.112,0.0312,Death Metal,1
+Dawn of Eternity,Massacre,4tszLL7NTfLCoIz39Zsiy1,6DRU8rSgDGMSapAZNLnI8D,0.323,0.974,10,-9.977,0.139,0.000356,0.553,0.155,0.146,Death Metal,1
+For Victory,Bolt Thrower,4tszLL7NTfLCoIz39Zsiy1,5ZZqPBNUHwGYVKS6ucjjNH,0.129,0.952,8,-7.295,0.0959,1.58e-06,0.827,0.0317,0.0808,Death Metal,1
+Lake of Fire,Nocturnus,4tszLL7NTfLCoIz39Zsiy1,1s9autQDbj0PrW9EZpGFJB,0.233,0.959,11,-12.165,0.323,8.51e-05,0.283,0.0589,0.036,Death Metal,1
+Into Everlasting Fire,Immolation,4tszLL7NTfLCoIz39Zsiy1,1YBsbab9FvYJiTjELEEIYA,0.213,0.903,1,-12.154,0.112,4.95e-05,0.842,0.151,0.265,Death Metal,1
+Mother Man,Atheist,4tszLL7NTfLCoIz39Zsiy1,0TjWvMNz5uKHpqKKr2Evua,0.292,0.869,11,-8.986,0.0653,1.51e-05,0.764,0.0801,0.468,Death Metal,1
+Soulless - remastered 2003,Grave,4tszLL7NTfLCoIz39Zsiy1,3JAdICKvCLPmbtKyufmHhM,0.346,0.911,7,-4.946,0.119,3.01e-06,0.193,0.0654,0.251,Death Metal,1
+From Beyond,Massacre,4tszLL7NTfLCoIz39Zsiy1,1XM1xWWhp0PvgAb9PthNPd,0.284,0.967,3,-9.553,0.132,0.000163,0.911,0.275,0.175,Death Metal,1
+Piece of Time,Atheist,4tszLL7NTfLCoIz39Zsiy1,6AJE8W6CbGorvhuX32TOfy,0.174,0.972,9,-8.831,0.387,2.46e-05,0.0534,0.356,0.184,Death Metal,1
+Cryptic Realms,Massacre,4tszLL7NTfLCoIz39Zsiy1,5OdWDaQELxXlOvu3prEb9W,0.296,0.859,10,-10.304,0.0867,8.92e-05,0.81,0.281,0.376,Death Metal,1
+Breeding Death,Bloodbath,4tszLL7NTfLCoIz39Zsiy1,3G1QJ5yuNw385SULJFEjzJ,0.236,0.916,1,-7.586,0.0686,9.01e-06,0.0079,0.199,0.297,Death Metal,1
+Furnace Funeral,Bloodbath,4tszLL7NTfLCoIz39Zsiy1,3KWXYiveuMHyGMOPQTdGbS,0.243,0.926,1,-7.867,0.06,3.47e-05,0.0399,0.154,0.166,Death Metal,1
+Body Bag,Obituary,4tszLL7NTfLCoIz39Zsiy1,5oXLtUCb5sEXR1lCuc1HVP,0.312,0.988,9,-6.347,0.146,1.96e-05,0.0319,0.223,0.0487,Death Metal,1
+Inner Self,Sepultura,4tszLL7NTfLCoIz39Zsiy1,3orEDNYiGeafDlFNSAZ2Lw,0.275,0.997,4,-5.216,0.0772,0.000164,0.0711,0.0737,0.0838,Death Metal,1
+Sinners Bleed,Entombed,4tszLL7NTfLCoIz39Zsiy1,5GdYxhRkVCIwRyZoVKjrvX,0.17,0.944,7,-7.078,0.142,2.02e-06,0.751,0.0804,0.171,Death Metal,1
+You'll Never See,Grave,4tszLL7NTfLCoIz39Zsiy1,6IADZk3d2snyZ02mg3217O,0.167,0.979,11,-4.677,0.128,2.97e-06,0.894,0.236,0.124,Death Metal,1
+Pleasure to Kill,Kreator,4tszLL7NTfLCoIz39Zsiy1,5PFhkQbjJge1h8k7wE1K5U,0.265,0.941,11,-6.569,0.18,1.64e-05,0.0342,0.313,0.331,Death Metal,1
+Infected,Obituary,4tszLL7NTfLCoIz39Zsiy1,2e83Z7NX9uVK6xtIcLNPT7,0.315,0.981,9,-5.868,0.164,0.000117,0.00685,0.639,0.0597,Death Metal,1
+After World Obliteration,Terrorizer,4tszLL7NTfLCoIz39Zsiy1,1B3EH5RE7LhigcjdBhlY5F,0.23,0.985,2,-14.46,0.0855,3.03e-06,0.894,0.0949,0.0365,Death Metal,1
+Pentagram,Possessed,4tszLL7NTfLCoIz39Zsiy1,5swTG5VU41Q7Bh4uriGjaM,0.109,0.985,1,-4.863,0.106,0.00105,0.0623,0.165,0.0344,Death Metal,1
+Land of Tears,Pestilence,4tszLL7NTfLCoIz39Zsiy1,4rTtPgdATny6k1PC8SrxJG,0.272,0.985,1,-6.451,0.2,5.67e-06,0.245,0.12,0.112,Death Metal,1
+Stench of Paradise Burning,Disincarnate,4tszLL7NTfLCoIz39Zsiy1,3ECuj3S0pDWrE4R046HeB5,0.139,0.953,8,-6.943,0.188,4.64e-06,0.692,0.0961,0.281,Death Metal,1
+Who Will Be Not Be Dead,Seance,4tszLL7NTfLCoIz39Zsiy1,46NuBcPN0BlWKzj7ZOYybq,0.262,0.937,1,-7.237,0.107,2.75e-05,0.668,0.51,0.318,Death Metal,1
+Dead Embryonic Cells,Sepultura,4tszLL7NTfLCoIz39Zsiy1,3erQAddOalef7tmVpAZ3BV,0.445,0.917,11,-6.776,0.0693,9.62e-06,0.175,0.108,0.439,Death Metal,1
+Chronic Infection,Pestilence,4tszLL7NTfLCoIz39Zsiy1,1elixVStkMvEVgwlpGHkLu,0.255,0.994,2,-4.965,0.142,1.73e-05,0.00205,0.0737,0.0964,Death Metal,1
+Eve of the Apocalypse,Malevolent Creation,4tszLL7NTfLCoIz39Zsiy1,6HAHmTe8oAi2AaKytaUliz,0.397,0.948,8,-10.405,0.081,0.000182,0.0536,0.0926,0.117,Death Metal,1
+Dead Shall Rise,Terrorizer,4tszLL7NTfLCoIz39Zsiy1,1WreTPLpISl7eIoykT9Y43,0.28,0.937,2,-14.091,0.113,7.89e-06,0.871,0.105,0.0513,Death Metal,1
+When the Sun Drank the Weight of Water,Demilich,4tszLL7NTfLCoIz39Zsiy1,0U6W8pajvbJhGSoCFnggWJ,0.179,0.936,2,-4.331,0.0827,0.000456,0.876,0.283,0.321,Death Metal,1
+These Walls Shall Be Your Grave,Brutality,4tszLL7NTfLCoIz39Zsiy1,3EjNZuQqmUUuEEM1rXBxcn,0.225,0.952,11,-10.497,0.11,1.67e-05,0.928,0.349,0.136,Death Metal,1
+Misanthrope,Death,4tszLL7NTfLCoIz39Zsiy1,1VzTXTV0LqoD8OJE14yD3E,0.39,0.988,7,-5.512,0.117,0.000223,0.00235,0.124,0.219,Death Metal,1
+Jealousy,Death,4tszLL7NTfLCoIz39Zsiy1,3G68xDDkriZr1xSAhFWv3X,0.153,0.988,9,-5.106,0.211,3.03e-06,0.639,0.112,0.135,Death Metal,1
+Flattening of Emotions,Death,4tszLL7NTfLCoIz39Zsiy1,1Qvdy7m0jSpVPQ3i6Vqvc3,0.389,0.902,1,-6.808,0.0975,1.57e-05,0.0725,0.05,0.322,Death Metal,1
+See Through Dreams,Death,4tszLL7NTfLCoIz39Zsiy1,0Ol4yC4mvESix1mkYoSsI9,0.272,0.932,10,-5.546,0.17,1.59e-05,0.0265,0.508,0.472,Death Metal,1
+Living Monstrosity,Death,4tszLL7NTfLCoIz39Zsiy1,6fTbZV7MNPMNpXzQMEcDZh,0.251,0.976,0,-4.359,0.168,3.8e-05,0.00171,0.0892,0.278,Death Metal,1
+Left to Die,Death,4tszLL7NTfLCoIz39Zsiy1,0BO5g7FXNhZgQuC8xIORDm,0.281,0.977,10,-5.737,0.133,1.69e-06,0.0728,0.263,0.276,Death Metal,1
+Infernal Death,Death,4tszLL7NTfLCoIz39Zsiy1,2kStAzBwEmYqwIRj2d8QkU,0.16,0.936,5,-5.933,0.0901,1.71e-06,0.695,0.0639,0.16,Death Metal,1
+Zombie Ritual,Death,4tszLL7NTfLCoIz39Zsiy1,6SjRA2uuTOwXxErnp3SfDZ,0.221,0.941,2,-6.662,0.0788,1.41e-06,0.117,0.351,0.189,Death Metal,1
+Evil Dead,Death,4tszLL7NTfLCoIz39Zsiy1,19fS3FJbmKvE6LVYVxSKZs,0.221,0.913,0,-5.578,0.0666,0.0,0.941,0.0464,0.0591,Death Metal,1
+Dead but Dreaming,Deicide,4tszLL7NTfLCoIz39Zsiy1,2Zzv1jZsOeo9aLahsAWdrF,0.301,0.937,11,-7.529,0.0833,5.76e-06,0.255,0.138,0.433,Death Metal,1
+Blaspherereion,Deicide,4tszLL7NTfLCoIz39Zsiy1,78F3P5j6pBli8hbYBNTbxS,0.235,0.997,11,-6.744,0.134,1.82e-05,0.042,0.0974,0.0372,Death Metal,1
+Wolverine Blues,Entombed,4tszLL7NTfLCoIz39Zsiy1,6WBdwdLLif4kuG3s6ot8uB,0.348,0.973,10,-4.818,0.0716,0.000457,0.781,0.135,0.374,Death Metal,1
+Slaughter of Innocence,Malevolent Creation,4tszLL7NTfLCoIz39Zsiy1,7aYLsLtbdjyCDKBI6VISU4,0.301,0.961,11,-9.456,0.161,8.32e-05,0.15,0.0786,0.236,Death Metal,1
+Blessed Are The Sick / Leading the Rats,Morbid Angel,4tszLL7NTfLCoIz39Zsiy1,5tkcDYuFIbljBOCgj9Bcru,0.35,0.698,11,-8.993,0.052,0.00324,0.00159,0.103,0.221,Death Metal,1
+"Stripped, Raped, And Strangled",Cannibal Corpse,4tszLL7NTfLCoIz39Zsiy1,1sWcWDgthOikmqaHdfTfW2,0.256,0.952,7,-8.631,0.103,2.19e-05,0.587,0.135,0.0724,Death Metal,1
+Disembowel,Autopsy,4tszLL7NTfLCoIz39Zsiy1,2R7KEJHuuXyxN3Jsf77ayC,0.191,0.871,1,-7.987,0.081,4.56e-06,0.358,0.225,0.222,Death Metal,1
+Dark Age,Vader,4tszLL7NTfLCoIz39Zsiy1,3xTOH7tS2WIuViDwVC1ohU,0.26,0.786,8,-11.605,0.0698,0.000177,0.485,0.112,0.186,Death Metal,1
+Testimony,Vader,4tszLL7NTfLCoIz39Zsiy1,3tzTEKqcNWuX7vm1gPEpYR,0.223,0.64,11,-12.617,0.0522,8.54e-06,0.789,0.091,0.0518,Death Metal,1
+Lack of Comprehension,Death,4tszLL7NTfLCoIz39Zsiy1,1OePro13vwG9uI5tdREYLU,0.293,0.954,5,-6.144,0.267,0.00117,0.00276,0.0636,0.151,Death Metal,1
+Cromlech - Studio,Darkthrone,4tszLL7NTfLCoIz39Zsiy1,7bTxVZKtDkOX95Q3UlSMwh,0.166,0.887,4,-9.109,0.106,3.02e-06,0.922,0.118,0.2,Death Metal,1
+M.S. Bismark,Asphyx,4tszLL7NTfLCoIz39Zsiy1,4hC7Sl95ZNteCDGmHWCZCL,0.268,0.919,9,-8.468,0.0744,3.97e-05,0.862,0.214,0.168,Death Metal,1
+The Krusher,Asphyx,4tszLL7NTfLCoIz39Zsiy1,6YE7EUgXnpK5wgWy9mGPRX,0.207,0.967,9,-9.437,0.118,0.000114,0.916,0.212,0.13,Death Metal,1
+Barra Edinazzu,Nile,4tszLL7NTfLCoIz39Zsiy1,0qzmXZxtu69FoL1yz3dhsb,0.223,0.938,2,-7.591,0.136,1.98e-06,0.738,0.0768,0.066,Death Metal,1
+Die Rache Krieg Lied Der Assyriche,Nile,4tszLL7NTfLCoIz39Zsiy1,4KaqmYXcjuaMH2zQW5BIFx,0.515,0.96,7,-10.01,0.0866,0.463,0.0853,0.105,0.0353,Death Metal,1
+Twisted Mass of Burnt Decay,Autopsy,4tszLL7NTfLCoIz39Zsiy1,4uDxt27CET6uPGg128m5Nu,0.172,0.984,8,-5.575,0.113,0.117,0.71,0.407,0.0964,Death Metal,1
+Earthly Love,Gorguts,4tszLL7NTfLCoIz39Zsiy1,2OajMeeRzF8erGYrJf32Sr,0.185,0.996,9,-2.001,0.178,2.01e-05,0.29,0.306,0.0389,Death Metal,1
+Nostalgia,Gorguts,4tszLL7NTfLCoIz39Zsiy1,7xAqgH0tsSbiV4wi5zExdo,0.177,0.99,10,-2.213,0.1,6.33e-06,0.157,0.162,0.0513,Death Metal,1
+Soon To Be Dead,Dismember,4tszLL7NTfLCoIz39Zsiy1,6isfIYVIGfIgoL6II5GbIq,0.271,0.962,1,-5.103,0.136,1.16e-06,0.851,0.41,0.174,Death Metal,1
+Oblivious to Evil,Deicide,4tszLL7NTfLCoIz39Zsiy1,2C3W424vvtwNPVA2o2aJXe,0.342,0.98,11,-7.412,0.17,0.000163,0.0246,0.117,0.115,Death Metal,1
+Brainstorm,Morbid Angel,4tszLL7NTfLCoIz39Zsiy1,0dayxk3bqrlkXaWtm5dRgJ,0.354,0.906,11,-8.482,0.0653,0.000261,4.57e-05,0.198,0.707,Death Metal,1
+When Life Has Ceased,Entombed,4tszLL7NTfLCoIz39Zsiy1,3cmEh49U5WRfPcFipIu7LY,0.183,0.986,1,-8.044,0.102,1.19e-06,0.895,0.248,0.178,Death Metal,1
+Morbid Devourment,Entombed,4tszLL7NTfLCoIz39Zsiy1,2CvtsZt7wGW1iIFniV5CAw,0.191,0.961,6,-7.339,0.106,1.07e-06,0.886,0.266,0.29,Death Metal,1
+Incarnated Solvent Abuse,Carcass,4tszLL7NTfLCoIz39Zsiy1,2pl6gnxrcbSxjxhAZgecZq,0.258,0.945,6,-5.505,0.202,2.5e-05,0.226,0.0971,0.294,Death Metal,1
+Corporal Jigsore Quandary,Carcass,4tszLL7NTfLCoIz39Zsiy1,4sEDY5mo2Zdq9Dz8s0LE6x,0.27,0.969,11,-4.801,0.205,4.76e-06,0.434,0.0712,0.16,Death Metal,1
+Staring Through The Eyes Of The Dead,Cannibal Corpse,4tszLL7NTfLCoIz39Zsiy1,4WZuTswubOiMnVt1rlG6sL,0.26,0.977,7,-7.414,0.12,5.16e-06,0.877,0.173,0.0732,Death Metal,1
+Lamberto Quintero,Los Cadetes De Linares,1oUgBxHbwjbscgj0vOWkJY,77TA2TMxXMRRAKL64m7Epq,0.708,0.641,8,-5.756,0.0799,0.489,6.48e-05,0.0486,0.847,Corridos para Pistear,0
+Chuy y Mauricio,Los Invasores De Nuevo León,1oUgBxHbwjbscgj0vOWkJY,36Ni5Z0OOmiDnOTIo4aJde,0.611,0.542,7,-6.392,0.121,0.564,0.0,0.0496,0.756,Corridos para Pistear,0
+A Mis Enemigos,Valentín Elizalde,1oUgBxHbwjbscgj0vOWkJY,6GjRzfOLFIKy3BPKoIchX3,0.819,0.485,3,-5.055,0.0476,0.752,3.48e-05,0.101,0.971,Corridos para Pistear,0
+Los Dos Amigos,Los Cadetes De Linares,1oUgBxHbwjbscgj0vOWkJY,6V6lgegjsKlcbBcJWmIz2S,0.625,0.459,8,-4.83,0.0352,0.748,6.88e-05,0.0697,0.842,Corridos para Pistear,0
+Las Tres Tumbas,Los Cadetes De Linares,1oUgBxHbwjbscgj0vOWkJY,3HCd4oEcqBbgqYQHEAIptu,0.771,0.371,10,-7.618,0.0384,0.74,1.97e-06,0.0809,0.887,Corridos para Pistear,0
+No Hay Novedad,Los Cadetes De Linares,1oUgBxHbwjbscgj0vOWkJY,1cvuESXANPuTV27IFPRtPu,0.517,0.433,8,-8.817,0.0655,0.574,0.0,0.121,0.89,Corridos para Pistear,0
+Una Pagina Mas,Los Cadetes De Linares,1oUgBxHbwjbscgj0vOWkJY,0vjefNvtMdFmw7LOBA2NOp,0.626,0.578,8,-5.92,0.0271,0.451,0.0,0.17,0.728,Corridos para Pistear,0
+Mi Casa Nueva,Los Invasores De Nuevo León,1oUgBxHbwjbscgj0vOWkJY,0YqxST7jMa8B4Ecr1675u6,0.865,0.531,8,-12.379,0.366,0.208,0.000234,0.103,0.932,Corridos para Pistear,0
+Mis Tres Animales,Los Tucanes De Tijuana,1oUgBxHbwjbscgj0vOWkJY,3bDjUO2LwwEOZsTQotZ1in,0.852,0.719,9,-5.15,0.0459,0.145,0.0,0.385,0.961,Corridos para Pistear,0
+Si Yo Fuera Ladrón,El Chapo De Sinaloa,1oUgBxHbwjbscgj0vOWkJY,1tFespnE7zi4m6B9SxTxrT,0.744,0.593,7,-3.051,0.0395,0.667,4.13e-06,0.288,0.872,Corridos para Pistear,0
+Pedro Y Pablo,Los Tigres Del Norte,1oUgBxHbwjbscgj0vOWkJY,5XgIkYlSVby03NmqREd5Sf,0.86,0.444,0,-9.294,0.151,0.454,0.0,0.0347,0.957,Corridos para Pistear,0
+La Caspa Del Diablo,Los Originales De San Juan,1oUgBxHbwjbscgj0vOWkJY,2n4F4KH34FujRuaNmFILv7,0.77,0.773,7,-5.743,0.223,0.358,0.0,0.0478,0.827,Corridos para Pistear,0
+Billete Grande (En Vivo),Fuerza Regida,37i9dQZF1DX2shzuwwKw0y,3XfUFGzbr0LmwFVoLXd9cO,0.751,0.601,5,-5.912,0.0828,0.533,0.0,0.377,0.56,Corridos Perrones,0
+Equipo RR,El Fantasma,37i9dQZF1DX2shzuwwKw0y,01OAhZvrPcUBko04aEy1Hh,0.755,0.55,7,-6.102,0.107,0.618,2.66e-06,0.0868,0.926,Corridos Perrones,0
+El Rescate,Grupo Marca Registrada,37i9dQZF1DX2shzuwwKw0y,4w273WCBXwM4P3jTX5HkB2,0.794,0.594,7,-8.698,0.139,0.283,0.000381,0.109,0.637,Corridos Perrones,0
+Siempre Pendientes,Peso Pluma,37i9dQZF1DX2shzuwwKw0y,5PfFHceiEv61KldMOuVrv8,0.774,0.748,0,-7.086,0.0352,0.331,0.0057,0.126,0.714,Corridos Perrones,0
+Ni Diablo Ni Santo,Julión Álvarez y su Norteño Banda,37i9dQZF1DX2shzuwwKw0y,2OmVUVVx3pWjNWHxgbliCe,0.833,0.608,5,-4.804,0.0824,0.439,0.0,0.296,0.965,Corridos Perrones,0
+El Buho,Luis R Conriquez,37i9dQZF1DX2shzuwwKw0y,1quaoU1wjFHLkDXC3bNghk,0.917,0.54,0,-6.27,0.0578,0.702,0.0,0.0753,0.935,Corridos Perrones,0
+El Doctor,Grupo Marca Registrada,37i9dQZF1DX2shzuwwKw0y,2g12ZAzSIybDe6QC3w9DYl,0.864,0.765,8,-3.604,0.11,0.432,0.0,0.386,0.724,Corridos Perrones,0
+"La Muchacha del Salado ""la Nicholette"" - En Vivo",Grupo Arriesgado,37i9dQZF1DX2shzuwwKw0y,1CIm69POXMEVdDhT1tmE2I,0.597,0.74,10,-7.614,0.282,0.177,0.00024,0.421,0.883,Corridos Perrones,0
+Un Suspiró,JR Torres,37i9dQZF1DX2shzuwwKw0y,3nD8VUJphfkoxSjy4lmeP1,0.821,0.822,2,-5.565,0.0424,0.0884,2.02e-06,0.026,0.955,Corridos Perrones,0
+El Gabito,Gerardo Ortiz,37i9dQZF1DX2shzuwwKw0y,4irQHeQLap1F8Roqj3xJXW,0.689,0.811,11,-2.499,0.0399,0.362,0.0,0.353,0.91,Corridos Perrones,0
+Me Acostumbre A Lo Bueno,Fuerza Regida,37i9dQZF1DX2shzuwwKw0y,1hHnCReCPe1FUkGLTeuCaC,0.715,0.739,6,-3.779,0.041,0.578,0.0,0.0887,0.963,Corridos Perrones,0
+Fumando Mota,Los Lara,37i9dQZF1DX2shzuwwKw0y,2ytQws1jfyFcY2K2MDUfzd,0.599,0.499,7,-6.549,0.0685,0.49,1.64e-06,0.0897,0.562,Corridos Perrones,0
+Fuga Pa Cali 2,Grupo Los de la O,37i9dQZF1DX2shzuwwKw0y,5IdyvWCaUa7AgTxMsFj0wB,0.743,0.89,7,-5.451,0.0837,0.366,0.0,0.0966,0.809,Corridos Perrones,0
+Desde Morro,Justin Morales,37i9dQZF1DX2shzuwwKw0y,5u6lAvdS8mmHHTHQlC3TtN,0.79,0.688,2,-5.476,0.0319,0.0994,0.0,0.111,0.816,Corridos Perrones,0
+Me Metí En El Ruedo,Luis R Conriquez,37i9dQZF1DX2shzuwwKw0y,7KNSQcLwrl3bNEuV1OVHtv,0.805,0.614,9,-6.845,0.137,0.615,0.0,0.0915,0.633,Corridos Perrones,0
+Señor Miedo,Fuerza Regida,37i9dQZF1DX2shzuwwKw0y,1FnswOpXkrROzW2mFCF1BE,0.648,0.746,8,-5.11,0.0924,0.459,0.0,0.0918,0.908,Corridos Perrones,0
+Por Clave el 13,Betillo Guerrero,37i9dQZF1DX2shzuwwKw0y,5xwP3VbM3eBKOeFF3fwn6Z,0.786,0.67,7,-4.086,0.0389,0.787,1.04e-05,0.0357,0.973,Corridos Perrones,0
+Aerolínea Carrillo,T3R Elemento,37i9dQZF1DX2shzuwwKw0y,0xYTyyfV767E2Vn3hz56kL,0.669,0.561,1,-6.613,0.0318,0.337,0.0,0.198,0.867,Corridos Perrones,0
+Gente De Accionar,Grupo Codiciado,37i9dQZF1DX2shzuwwKw0y,3ZpajXo0KgjHw5WSMMIDfy,0.586,0.823,0,-5.368,0.232,0.224,0.0,0.174,0.79,Corridos Perrones,0
+El Jami,Grupo 3030,37i9dQZF1DX2shzuwwKw0y,05DOiyiRvyed2Kd5Z1sV7S,0.798,0.639,5,-6.53,0.0473,0.382,0.0,0.29,0.81,Corridos Perrones,0
+Si Fuera Fácil,Grupo Marca Registrada,37i9dQZF1DX2shzuwwKw0y,7Jph6HJbfURt4Fea19IED3,0.794,0.677,10,-9.969,0.0713,0.446,0.0313,0.076,0.611,Corridos Perrones,0
+Soy Buen Amigo,El Fantasma,37i9dQZF1DX2shzuwwKw0y,1Z0auW1yEy6Dq9hsRdeIV3,0.699,0.55,10,-4.539,0.0568,0.523,0.0,0.158,0.969,Corridos Perrones,0
+El Ruddy,Edgardo Nuñez,37i9dQZF1DX2shzuwwKw0y,0vNtFN67TIMgDokyyuUUwA,0.736,0.593,7,-9.364,0.184,0.117,2.5e-06,0.189,0.785,Corridos Perrones,0
+La Escuela No Me Gustó,Adriel Favela,37i9dQZF1DX2shzuwwKw0y,4qArKIA7dnmdushoBlkV94,0.836,0.766,7,-6.229,0.0371,0.323,1.18e-06,0.091,0.844,Corridos Perrones,0
+El Chino (En Vivo),Luis R Conriquez,37i9dQZF1DX2shzuwwKw0y,4b148u8CHf38OU1yW5Xf1F,0.657,0.538,0,-5.831,0.124,0.637,0.0,0.104,0.832,Corridos Perrones,0
+El Fat Tony,Grupo Los de la O,37i9dQZF1DX2shzuwwKw0y,3viZLBs5sOsNFL9JMfuqZN,0.709,0.805,8,-5.361,0.0495,0.509,0.0,0.167,0.737,Corridos Perrones,0
+Andamos Mejor,Los Gemelos De Sinaloa,37i9dQZF1DX2shzuwwKw0y,3K56RPWS4q200IwHiIZcUD,0.855,0.59,9,-8.55,0.0751,0.28,0.0982,0.149,0.283,Corridos Perrones,0
+El Güero (Feat. Marca MP),Grupo Firme,37i9dQZF1DX2shzuwwKw0y,2MeEuwplwbbjZ7hxRI6viw,0.625,0.554,10,-5.531,0.0618,0.417,0.0,0.305,0.846,Corridos Perrones,0
+Una Raya Más al Tigre,Banda Elemental de Mazatlán Sinaloa,37i9dQZF1DX2shzuwwKw0y,3fzC9A2azykZmtSHuXt0kg,0.877,0.656,9,-3.363,0.0521,0.597,5.78e-05,0.24,0.965,Corridos Perrones,0
+Mi Pasado y Mi Presente,Traviezoz de la Zierra,37i9dQZF1DX2shzuwwKw0y,588ROs3NuPqlPSYpIuitKS,0.796,0.555,7,-7.295,0.0583,0.494,0.0,0.317,0.889,Corridos Perrones,0
+Híbrido,Virlan Garcia,37i9dQZF1DX2shzuwwKw0y,5iBBLeUl4UfynWgcJWVGsU,0.65,0.542,6,-6.016,0.0434,0.61,0.0,0.15,0.972,Corridos Perrones,0
+Belico El Asunto (En Vivo),Codiciado,37i9dQZF1DX2shzuwwKw0y,7kIDShjwKNfhXv1dNfT9ec,0.761,0.477,5,-4.32,0.0514,0.805,0.0,0.163,0.967,Corridos Perrones,0
+Backpack,Edicion Especial,37i9dQZF1DX2shzuwwKw0y,4Yrl7HbCo4xgkalAG985RF,0.836,0.788,5,-3.929,0.0422,0.338,8.93e-05,0.0606,0.937,Corridos Perrones,0
+A Lo Lejos Me Veran,El de La Guitarra,37i9dQZF1DX2shzuwwKw0y,3VHtIuKm8MvOTo81Usu2f5,0.694,0.414,7,-12.117,0.0401,0.0285,0.00992,0.535,0.941,Corridos Perrones,0
+Como Jordan,Junior H,37i9dQZF1DX2shzuwwKw0y,2q7DY7bBua9e9Aygmz8XmB,0.714,0.873,6,-2.39,0.0311,0.028,0.0,0.191,0.628,Corridos Perrones,0
+El Karma,Ariel Camacho y Los Plebes Del Rancho,37i9dQZF1DX2shzuwwKw0y,34eVjAbZ5CzAtZIVMDHL1C,0.687,0.484,2,-6.511,0.0325,0.694,7.12e-05,0.0931,0.815,Corridos Perrones,0
+Soy El Ratón,Código FN,37i9dQZF1DX2shzuwwKw0y,4NQa7zNbJtY2QvnGpzM8Gz,0.818,0.734,2,-5.644,0.036,0.265,0.0,0.119,0.774,Corridos Perrones,0
+El Bélico,El Fantasma,37i9dQZF1DX2shzuwwKw0y,50pkO56KXHoH53sVPRSbZ3,0.707,0.567,10,-4.091,0.0492,0.597,1.28e-06,0.0668,0.964,Corridos Perrones,0
+Hablando Claro (En Vivo),Grupo Firme,37i9dQZF1DX2shzuwwKw0y,5hRFjooNvZWb9gdnXjrv2j,0.547,0.715,10,-4.682,0.0489,0.199,0.0,0.11,0.724,Corridos Perrones,0
+JGL,La Adictiva Banda San José de Mesillas,37i9dQZF1DX2shzuwwKw0y,5kpxVMDvYGRmNqawPqDTYR,0.702,0.586,8,-5.317,0.118,0.55,0.0,0.27,0.965,Corridos Perrones,0
+La Barda,Grupo 360,37i9dQZF1DX2shzuwwKw0y,0pi1spZ3Upm2gXb1OVDq5y,0.841,0.567,7,-6.079,0.34,0.406,0.0,0.0899,0.925,Corridos Perrones,0
+300 Locos - En Vivo,Panchito Arredondo,37i9dQZF1DX2shzuwwKw0y,4PjeItnxK4Ht94FFxYoPXf,0.795,0.781,10,-4.654,0.0812,0.296,0.0,0.0966,0.864,Corridos Perrones,0
+El Hijo Mayor,Junior H,37i9dQZF1DX2shzuwwKw0y,1RGlfmdvcfatN0ZLOmzanS,0.571,0.567,8,-6.873,0.0994,0.431,0.0,0.129,0.967,Corridos Perrones,0
+El Paciente,Alfredo Olivas,37i9dQZF1DX2shzuwwKw0y,2Nk3gXgekore0lfB7PCnub,0.706,0.713,3,-3.609,0.0367,0.319,0.0,0.114,0.973,Corridos Perrones,0
+Si Me Ven,Los Gemelos De Sinaloa,37i9dQZF1DX2shzuwwKw0y,5SkLd0qWWqYtv3Ry0dIyIh,0.767,0.666,7,-4.951,0.13,0.427,3.71e-06,0.243,0.532,Corridos Perrones,0
+El Fugitivo - En Vivo,Grupo Arriesgado,37i9dQZF1DX2shzuwwKw0y,0qyofIr6dHSb8AcEVnywBY,0.633,0.812,1,-5.874,0.14,0.359,1.76e-06,0.228,0.954,Corridos Perrones,0
+En El Radio Un Cochinero,Victor Cibrian,37i9dQZF1DX2shzuwwKw0y,2NWaWZZLFMcr5P4uI2KvWy,0.696,0.623,6,-8.738,0.0438,0.466,8.61e-06,0.0983,0.965,Corridos Perrones,0
+Déjenme Hacer Dinero,Edicion Especial,37i9dQZF1DX2shzuwwKw0y,4LdopLerbbhZxY6cBQyRsP,0.776,0.724,2,-6.332,0.0504,0.145,0.0,0.0943,0.634,Corridos Perrones,0
+La Mb,Panchito Arredondo,37i9dQZF1DX2shzuwwKw0y,3FfCRdvFfPA93T8zT2dGqV,0.625,0.863,0,-3.862,0.124,0.209,0.0,0.109,0.899,Corridos Perrones,0
+Yo Fui El Elegante,Los Nuevos Ilegales,37i9dQZF1DX2shzuwwKw0y,6dJJT9h7FzjenIaa31bw8p,0.785,0.831,9,-4.439,0.193,0.296,0.0,0.176,0.581,Corridos Perrones,0
+Hublot,Los Farmerz,37i9dQZF1DX2shzuwwKw0y,5qKsIal7JJZ2bqXHPKdyVb,0.824,0.672,2,-7.679,0.126,0.133,1.97e-06,0.114,0.797,Corridos Perrones,0
+Tranquilito,Gerardo Ortiz,37i9dQZF1DX2shzuwwKw0y,2LJRoFOtMGLnSxJqlJuhge,0.858,0.634,0,-4.058,0.0286,0.518,0.0,0.236,0.909,Corridos Perrones,0
+Corrido De Juanito,Calibre 50,37i9dQZF1DX2shzuwwKw0y,0ehx1p1HMn7NMKisZaO9oL,0.774,0.603,3,-4.424,0.0409,0.455,0.0,0.0901,0.759,Corridos Perrones,0
+Fuera de Servicio - En Vivo,Grupo Firme,37i9dQZF1DX2shzuwwKw0y,03XQEYWR7q7aQUGp43Pwah,0.523,0.677,10,-4.505,0.157,0.475,0.0,0.402,0.654,Corridos Perrones,0
+Se Fue La Pantera (En Vivo),Grupo Firme,37i9dQZF1DX2shzuwwKw0y,6Yard5LK4aXEn0kBKtHSob,0.557,0.66,3,-4.467,0.0768,0.118,0.0,0.085,0.907,Corridos Perrones,0
+El Baleado,Larry Hernández,37i9dQZF1DX2shzuwwKw0y,75Rim2x8dZP6BDjAaSbfhp,0.776,0.782,1,-3.665,0.0531,0.258,7.77e-06,0.104,0.825,Corridos Perrones,0
+Vida Ventajosa,Los Dos Carnales,37i9dQZF1DX2shzuwwKw0y,72kaj3MRKcGnv2dbukJQRA,0.735,0.524,10,-6.656,0.0684,0.535,0.0,0.066,0.813,Corridos Perrones,0
+El Belicon,Peso Pluma,37i9dQZF1DX2shzuwwKw0y,15UfWisTMmHsMjkUUEAoAa,0.409,0.713,8,-6.713,0.03,0.434,0.000719,0.206,0.725,Corridos Perrones,0
+Javier El De Los Llanos,Calibre 50,37i9dQZF1DX2shzuwwKw0y,7kyK2NSDfRE1612vdYuqIx,0.783,0.658,8,-5.413,0.0434,0.464,0.0,0.265,0.933,Corridos Perrones,0
+Yo Soy Rico,Los Dos Carnales,37i9dQZF1DX2shzuwwKw0y,6ueysvoc0nj7piSJXEJGJx,0.54,0.719,8,-3.102,0.166,0.615,0.0,0.0501,0.856,Corridos Perrones,0
+Ando Bien Al Tiro,Código FN,37i9dQZF1DX2shzuwwKw0y,4CxU88d7ZT6op81SOYlrOg,0.881,0.811,7,-4.655,0.0726,0.269,0.0,0.108,0.846,Corridos Perrones,0
+No Le Aflojo,Los Gemelos De Sinaloa,37i9dQZF1DX2shzuwwKw0y,7ifMxHITc3NIipJO4R5NGb,0.698,0.687,5,-4.115,0.0501,0.195,0.0,0.0829,0.773,Corridos Perrones,0
+El Chaman,Aldo Trujillo,37i9dQZF1DX2shzuwwKw0y,3yE8qL9HNfyzAbpqoMnUr8,0.636,0.619,9,-7.742,0.145,0.395,0.0,0.145,0.746,Corridos Perrones,0
+Se Amerita,Junior H,37i9dQZF1DX2shzuwwKw0y,3pQYf90V5idOGrXzosm9rt,0.752,0.719,6,-4.399,0.0285,0.264,7.96e-05,0.126,0.544,Corridos Perrones,0
+Serafín Zambada,La Receta,37i9dQZF1DX2shzuwwKw0y,2Qh9GkEx3EnFd7v8QzaFjW,0.806,0.892,8,-5.118,0.0757,0.566,0.0,0.11,0.862,Corridos Perrones,0
+Rolling One,Lenin Ramírez,37i9dQZF1DX2shzuwwKw0y,40hjNYfeyudUJU3QHGW0t1,0.768,0.773,7,-3.582,0.0325,0.619,2.1e-06,0.213,0.804,Corridos Perrones,0
+Brillo,Natanael Cano,37i9dQZF1DX2shzuwwKw0y,5gS11pL9yQcnKrzbmliOwh,0.69,0.762,5,-6.738,0.0329,0.756,0.0,0.319,0.972,Corridos Perrones,0
+El Flaquito,Enigma Norteño,37i9dQZF1DX2shzuwwKw0y,5NmlPbM72H4Q1yKwKzIdHY,0.668,0.726,2,-5.206,0.135,0.258,0.0,0.0567,0.86,Corridos Perrones,0
+Los Botones Azules,Junior H,37i9dQZF1DX2shzuwwKw0y,3ZGkdrigbWXLgHungXfZkt,0.784,0.737,5,-2.174,0.0758,0.0877,0.0,0.1,0.623,Corridos Perrones,0
+El Vago De Los Nike,Tito Torbellino Jr,37i9dQZF1DX2shzuwwKw0y,3MdhvQ8BprBhd4lYlgtPt2,0.762,0.627,7,-7.142,0.0557,0.165,3.35e-06,0.289,0.668,Corridos Perrones,0
+Mi Porvenir,Victor Cibrian,37i9dQZF1DX2shzuwwKw0y,1qOAfH6GJZ7IVuOkOsDit9,0.69,0.657,9,-6.377,0.19,0.368,0.0,0.0968,0.947,Corridos Perrones,0
+Sencillo Soy,Polo Gonzalez,37i9dQZF1DX2shzuwwKw0y,5XWPoQ2lS8qgaf5aeDwBmh,0.67,0.632,4,-8.823,0.0579,0.274,0.0,0.137,0.707,Corridos Perrones,0
+Denver Ruleteamos,Javier Rosas Y Su Artillería Pesada,37i9dQZF1DX2shzuwwKw0y,0uJ9kGk1Pf5Nv2mbojVdkN,0.852,0.609,9,-6.903,0.0588,0.251,0.0,0.0635,0.848,Corridos Perrones,0
+De Ladrillo a Ladrillo,Nueva Marca,37i9dQZF1DX2shzuwwKw0y,2V3zb4cQ9uUUlD1817CKLH,0.854,0.729,10,-6.547,0.06,0.461,1.07e-06,0.107,0.918,Corridos Perrones,0
+El Cuestionario,LEGADO 7,37i9dQZF1DX2shzuwwKw0y,4jySARaQ60WkXe4JO3EKUA,0.497,0.913,9,-2.625,0.134,0.282,0.0,0.0717,0.778,Corridos Perrones,0
+Smells Like Teen Spirit,Nirvana,37i9dQZF1DWXRqgorJj26U,5ghIJDpPoe3CfHMGu71E6T,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,Classic Rock,1
+Another One Bites The Dust - Remastered 2011,Queen,37i9dQZF1DWXRqgorJj26U,57JVGBtBLCfHw2muk5416J,0.933,0.528,5,-6.472,0.162,0.112,0.329,0.163,0.756,Classic Rock,1
+Sweet Child O' Mine,Guns N' Roses,37i9dQZF1DWXRqgorJj26U,7snQQk1zcKl8gZ92AnueZW,0.446,0.952,6,-5.321,0.0523,0.0901,0.0857,0.112,0.624,Classic Rock,1
+Back In Black,AC/DC,37i9dQZF1DWXRqgorJj26U,08mG3Y1vljYA6bvDt4Wqkj,0.31,0.7,9,-5.678,0.047,0.011,0.00965,0.0828,0.763,Classic Rock,1
+Creep,Radiohead,37i9dQZF1DWXRqgorJj26U,70LcF31zb1H0PyJoS1Sx1r,0.515,0.43,7,-9.935,0.0372,0.0097,0.000133,0.129,0.104,Classic Rock,1
+Whole Lotta Love - 1990 Remaster,Led Zeppelin,37i9dQZF1DWXRqgorJj26U,0hCB0YR03f6AmQaHbwWDe8,0.412,0.902,9,-11.6,0.405,0.0484,0.131,0.405,0.422,Classic Rock,1
+Livin' On A Prayer,Bon Jovi,37i9dQZF1DWXRqgorJj26U,37ZJ0p5Jm13JPevGcx4SkF,0.532,0.887,0,-3.757,0.0335,0.0778,0.000214,0.294,0.795,Classic Rock,1
+La Grange - 2005 Remaster,ZZ Top,37i9dQZF1DWXRqgorJj26U,70YvYr2hGlS01bKRIho1HM,0.545,0.64,4,-9.937,0.224,0.00249,0.0304,0.196,0.606,Classic Rock,1
+Gimme Shelter,The Rolling Stones,37i9dQZF1DWXRqgorJj26U,6H3kDe7CGoWYBabAeVWGiD,0.634,0.63,1,-8.277,0.031,0.447,0.039,0.17,0.489,Classic Rock,1
+Hotel California - 2013 Remaster,Eagles,37i9dQZF1DWXRqgorJj26U,40riOy7x9W7GXjyGp4pjAv,0.579,0.508,2,-9.484,0.027,0.00574,0.000494,0.0575,0.609,Classic Rock,1
+All Along the Watchtower,Jimi Hendrix,37i9dQZF1DWXRqgorJj26U,2aoo2jlRnM3A0NyLQqMN2f,0.438,0.805,8,-6.237,0.0624,0.00255,5.69e-05,0.0842,0.564,Classic Rock,1
+Detroit Rock City,KISS,37i9dQZF1DWXRqgorJj26U,3uz0O62HqYoyRiWZjS61KK,0.479,0.847,0,-11.036,0.0984,0.00884,0.000206,0.144,0.317,Classic Rock,1
+Wish You Were Here,Pink Floyd,37i9dQZF1DWXRqgorJj26U,6mFkJmJqdDVQ1REhVfGgd1,0.481,0.262,7,-15.73,0.0414,0.735,0.0114,0.832,0.375,Classic Rock,1
+Let's Go Crazy,Prince,37i9dQZF1DWXRqgorJj26U,0QeI79sp1vS8L3JgpEO7mD,0.309,0.93,11,-6.399,0.125,0.0192,0.0022,0.106,0.376,Classic Rock,1
+Master of Puppets (Remastered),Metallica,37i9dQZF1DWXRqgorJj26U,54bm2e3tk8cliUz3VSdCPZ,0.539,0.828,4,-9.108,0.035,0.00067,0.421,0.154,0.562,Classic Rock,1
+Southern Cross - 2005 Remaster,"Crosby, Stills & Nash",37i9dQZF1DWXRqgorJj26U,5AoZknxgY6F25gAcVahO41,0.668,0.447,2,-11.124,0.0312,0.48,2.89e-06,0.153,0.588,Classic Rock,1
+Highway to Hell,AC/DC,37i9dQZF1DWXRqgorJj26U,2zYzyRzz6pRmhPzyfMEC8s,0.574,0.913,6,-4.793,0.133,0.061,0.00158,0.156,0.423,Classic Rock,1
+I Love Rock 'N Roll,Joan Jett & the Blackhearts,37i9dQZF1DWXRqgorJj26U,2Cdvbe2G4hZsnhNMKyGrie,0.535,0.716,4,-5.025,0.0431,0.326,0.0,0.659,0.901,Classic Rock,1
+Something In The Way,Nirvana,37i9dQZF1DWXRqgorJj26U,1nFtiJxYdhtFfFtfXBv06s,0.427,0.201,8,-13.044,0.0317,0.745,0.263,0.109,0.0668,Classic Rock,1
+Dream On,Aerosmith,37i9dQZF1DWXRqgorJj26U,5MxNLUsfh7uzROypsoO5qe,0.307,0.433,1,-10.057,0.029,0.388,9.08e-05,0.332,0.224,Classic Rock,1
+The Boys Are Back In Town,Thin Lizzy,37i9dQZF1DWXRqgorJj26U,43DeSV93pJPT4lCZaWZ6b1,0.445,0.706,8,-9.803,0.0461,0.234,0.000252,0.205,0.768,Classic Rock,1
+Don't Stop Believin',Journey,37i9dQZF1DWXRqgorJj26U,4bHsxqR3GMrXTxEPLuK5ue,0.5,0.748,4,-9.072,0.0363,0.127,0.0,0.447,0.514,Classic Rock,1
+Seven Nation Army,The White Stripes,37i9dQZF1DWXRqgorJj26U,3dPQuX8Gs42Y7b454ybpMR,0.743,0.446,4,-7.807,0.0683,0.0039,0.118,0.337,0.278,Classic Rock,1
+Paradise City,Guns N' Roses,37i9dQZF1DWXRqgorJj26U,6eN1f9KNmiWEhpE2RhQqB5,0.268,0.98,11,-5.958,0.103,0.0192,0.00709,0.182,0.395,Classic Rock,1
+Heroes - 2017 Remaster,David Bowie,37i9dQZF1DWXRqgorJj26U,7Jh1bpe76CNTCgdgAdBw4Z,0.489,0.758,7,-6.491,0.0297,0.000678,0.49,0.092,0.435,Classic Rock,1
+Tom Sawyer,Rush,37i9dQZF1DWXRqgorJj26U,3QZ7uX97s82HFYSmQUAN1D,0.536,0.901,9,-7.211,0.0374,0.00145,0.0186,0.06,0.666,Classic Rock,1
+Are You Gonna Go My Way,Lenny Kravitz,37i9dQZF1DWXRqgorJj26U,45Ia1U4KtIjAPPU7Wv1Sea,0.619,0.67,11,-10.322,0.0353,0.00165,0.0109,0.331,0.777,Classic Rock,1
+Killing In The Name,Rage Against The Machine,37i9dQZF1DWXRqgorJj26U,59WN2psjkt1tyaxjspN8fp,0.466,0.833,7,-4.215,0.304,0.0266,0.0,0.0327,0.661,Classic Rock,1
+Baba O'Riley,The Who,37i9dQZF1DWXRqgorJj26U,3qiyyUfYe7CRYLucrPmulD,0.489,0.724,5,-8.367,0.0352,0.313,0.185,0.287,0.15,Classic Rock,1
+Hold the Line,TOTO,37i9dQZF1DWXRqgorJj26U,4aVuWgvD0X63hcOCnZtNFA,0.473,0.898,6,-4.797,0.0561,0.00783,0.0618,0.173,0.808,Classic Rock,1
+For What It's Worth,Buffalo Springfield,37i9dQZF1DWXRqgorJj26U,1qRA5BS78u3gME0loMl9AA,0.653,0.519,2,-10.164,0.0497,0.406,0.0209,0.101,0.822,Classic Rock,1
+While My Guitar Gently Weeps,Tom Petty,37i9dQZF1DWXRqgorJj26U,7DzktdAh3zTT5Li8vam9tt,0.21,0.85,7,-3.694,0.0587,0.287,0.00607,0.912,0.382,Classic Rock,1
+Paranoid - 2012 - Remaster,Black Sabbath,37i9dQZF1DWXRqgorJj26U,1Y373MqadDRtclJNdnUXVc,0.412,0.658,4,-12.051,0.0708,4.52e-05,0.000774,0.176,0.454,Classic Rock,1
+Police & Thieves - Remastered,The Clash,37i9dQZF1DWXRqgorJj26U,6IMlcKjsIM3l3yXWykTa3y,0.721,0.488,4,-10.294,0.067,0.0289,0.038,0.18,0.884,Classic Rock,1
+Under the Bridge,Red Hot Chili Peppers,37i9dQZF1DWXRqgorJj26U,3d9DChrdc6BOeFsbrZ3Is0,0.559,0.345,4,-13.496,0.0459,0.0576,0.000105,0.141,0.458,Classic Rock,1
+Everlong,Foo Fighters,37i9dQZF1DWXRqgorJj26U,5UWwZ5lm5PKu6eKsHAGxOk,0.413,0.881,11,-5.541,0.0367,5.99e-05,0.000308,0.0805,0.364,Classic Rock,1
+(I Can't Get No) Satisfaction - Mono Version,The Rolling Stones,37i9dQZF1DWXRqgorJj26U,2PzU4IB8Dr6mxV3lHuaG34,0.723,0.863,2,-7.89,0.0338,0.0383,0.0317,0.128,0.931,Classic Rock,1
+Paradise By the Dashboard Light,Meat Loaf,37i9dQZF1DWXRqgorJj26U,2g7gviEeJr6pyxO7G35EWQ,0.326,0.872,2,-7.602,0.122,0.214,0.0,0.461,0.492,Classic Rock,1
+Dreams - 2004 Remaster,Fleetwood Mac,37i9dQZF1DWXRqgorJj26U,0ofHAoxe9vBkTCp2UQIavz,0.828,0.492,0,-9.744,0.0276,0.0644,0.00428,0.128,0.789,Classic Rock,1
+We Will Rock You - Remastered 2011,Queen,37i9dQZF1DWXRqgorJj26U,54flyrjcdnQdco7300avMJ,0.693,0.497,2,-7.316,0.119,0.679,0.0,0.258,0.473,Classic Rock,1
+Enter Sandman (Remastered),Metallica,37i9dQZF1DWXRqgorJj26U,3VqHuw0wFlIHcIPWkhIbdQ,0.566,0.834,6,-8.412,0.0298,0.00277,0.008,0.0625,0.621,Classic Rock,1
+Sweet Home Alabama,Lynyrd Skynyrd,37i9dQZF1DWXRqgorJj26U,7e89621JPkKaeDSTQ3avtg,0.596,0.605,7,-12.145,0.0255,0.181,0.000331,0.0863,0.886,Classic Rock,1
+Have You Ever Seen The Rain,Creedence Clearwater Revival,37i9dQZF1DWXRqgorJj26U,2LawezPeJhN4AWuSB0GtAU,0.741,0.697,0,-7.028,0.0277,0.0664,2.28e-05,0.133,0.774,Classic Rock,1
+Cult of Personality,Living Colour,37i9dQZF1DWXRqgorJj26U,5e3YOg6fIkP0wD5TyxcHOH,0.504,0.918,0,-3.463,0.0517,0.00164,2.12e-05,0.78,0.539,Classic Rock,1
+Welcome To The Jungle,Guns N' Roses,37i9dQZF1DWXRqgorJj26U,0G21yYKMZoHa30cYVi1iA8,0.453,0.987,8,-4.485,0.0889,0.0195,0.283,0.268,0.316,Classic Rock,1
+Born To Be Wild - Single Version,Steppenwolf,37i9dQZF1DWXRqgorJj26U,3lN8PP6R2IxbLP05QpYXng,0.439,0.734,2,-12.168,0.097,0.262,0.333,0.244,0.54,Classic Rock,1
+Moonage Daydream - 2012 Remaster,David Bowie,37i9dQZF1DWXRqgorJj26U,6mib3N4E8PZHAGQ3xy7bho,0.56,0.605,11,-11.209,0.0348,0.0408,0.000162,0.0585,0.756,Classic Rock,1
+Every Breath You Take,The Police,37i9dQZF1DWXRqgorJj26U,1JSTJqkT5qHq8MDJnJbRE1,0.82,0.452,1,-9.796,0.0348,0.543,0.00294,0.0714,0.74,Classic Rock,1
+I Wanna Rock,Twisted Sister,37i9dQZF1DWXRqgorJj26U,70Z9t1qhytWtG4cCmmi7mU,0.504,0.911,2,-2.97,0.0738,0.00512,0.0123,0.355,0.671,Classic Rock,1
+You Really Got Me,The Kinks,37i9dQZF1DWXRqgorJj26U,29SyMC0plk6qw8NMF7lfRL,0.573,0.939,8,-6.441,0.0808,0.493,0.0,0.0994,0.963,Classic Rock,1
+Limelight,Rush,37i9dQZF1DWXRqgorJj26U,0K6yUnIKNsFtfIpTgGtcHm,0.581,0.854,1,-8.485,0.0428,0.00197,0.0013,0.111,0.788,Classic Rock,1
+Black Dog - Remaster,Led Zeppelin,37i9dQZF1DWXRqgorJj26U,3qT4bUD1MaWpGrTwcvguhb,0.437,0.864,4,-7.842,0.0904,0.396,0.0314,0.242,0.749,Classic Rock,1
+London Calling - Remastered,The Clash,37i9dQZF1DWXRqgorJj26U,5jzma6gCzYtKB1DbEwFZKH,0.651,0.801,0,-7.34,0.0514,0.123,0.0,0.0825,0.776,Classic Rock,1
+Come Together - Remastered 2009,The Beatles,37i9dQZF1DWXRqgorJj26U,2EqlS6tkEnglzr7tkKAAYD,0.533,0.376,9,-11.913,0.0393,0.0302,0.248,0.0926,0.187,Classic Rock,1
+House Of The Rising Sun,The Animals,37i9dQZF1DWXRqgorJj26U,61Q9oJNd9hJQFhSDh6Qlap,0.315,0.534,9,-7.552,0.031,0.000825,0.108,0.101,0.283,Classic Rock,1
+Purple Haze,Jimi Hendrix,37i9dQZF1DWXRqgorJj26U,0wJoRiX5K5BxlqZTolB2LD,0.533,0.905,2,-5.27,0.0754,0.00876,0.578,0.0698,0.486,Classic Rock,1
+Sultans of Swing,Dire Straits,37i9dQZF1DWXRqgorJj26U,6cr6UDpkjEaMQ80OjWqEBQ,0.73,0.868,5,-7.325,0.0288,0.0632,0.0661,0.318,0.923,Classic Rock,1
+Wonderwall - Remastered,Oasis,37i9dQZF1DWXRqgorJj26U,7ygpwy2qP3NbrxVkHvUhXY,0.375,0.893,2,-4.097,0.0406,0.000509,0.0,0.187,0.434,Classic Rock,1
+One Way Or Another - Remastered,Blondie,37i9dQZF1DWXRqgorJj26U,5Th6EdNVhxp0TPX41ZLZk6,0.45,0.877,9,-6.403,0.0532,0.0118,4.95e-05,0.0699,0.896,Classic Rock,1
+Song 2 - 2012 Remaster,Blur,37i9dQZF1DWXRqgorJj26U,1FTSo4v6BOZH9QxKc3MbVM,0.674,0.789,8,-6.903,0.0676,0.00178,0.00708,0.0753,0.918,Classic Rock,1
+Heart-Shaped Box,Nirvana,37i9dQZF1DWXRqgorJj26U,11LmqTE2naFULdEP94AUBa,0.256,0.641,1,-10.283,0.0552,0.199,0.0329,0.0853,0.382,Classic Rock,1
+American Girl,Tom Petty and the Heartbreakers,37i9dQZF1DWXRqgorJj26U,7MRyJPksH3G2cXHN8UKYzP,0.55,0.824,2,-5.988,0.0334,0.448,0.000127,0.366,0.777,Classic Rock,1
+Edge of Seventeen - 2016 Remaster,Stevie Nicks,37i9dQZF1DWXRqgorJj26U,5LNiqEqpDc8TuqPy79kDBu,0.591,0.804,0,-7.299,0.0454,0.327,5.98e-06,0.0818,0.658,Classic Rock,1
+Jailbreak,Thin Lizzy,37i9dQZF1DWXRqgorJj26U,4qbiCq2xkNPyojuZFeNeqx,0.616,0.761,3,-9.199,0.126,0.196,0.0025,0.374,0.708,Classic Rock,1
+Basket Case,Green Day,37i9dQZF1DWXRqgorJj26U,6L89mwZXSOwYl76YXfX13s,0.442,0.943,3,-3.205,0.0602,0.00293,8.71e-06,0.091,0.781,Classic Rock,1
+Jump - 2015 Remaster,Van Halen,37i9dQZF1DWXRqgorJj26U,5FqYA8KfiwsQvyBI4IamnY,0.572,0.835,0,-6.219,0.0317,0.171,0.000377,0.0702,0.795,Classic Rock,1
+Stairway to Heaven - Remaster,Led Zeppelin,37i9dQZF1DWXRqgorJj26U,0RO9W1xJoUEpq5MEelddFb,0.338,0.34,9,-12.049,0.0339,0.58,0.0032,0.116,0.197,Classic Rock,1
+Sheena Is a Punk Rocker - 2017 Remaster,Ramones,37i9dQZF1DWXRqgorJj26U,61MZN0yyMWSEwrLPUUGfgJ,0.42,0.965,0,-1.986,0.0403,0.0981,0.000335,0.0784,0.846,Classic Rock,1
+Starman - 2012 Remaster,David Bowie,37i9dQZF1DWXRqgorJj26U,0pQskrTITgmCMyr85tb9qq,0.486,0.449,5,-10.298,0.0267,0.166,2.23e-06,0.54,0.549,Classic Rock,1
+Purple Rain,Prince,37i9dQZF1DWXRqgorJj26U,54X78diSLoUDI3joC2bjMz,0.367,0.452,10,-10.422,0.0307,0.0353,0.00228,0.689,0.189,Classic Rock,1
+Bohemian Rhapsody - Remastered 2011,Queen,37i9dQZF1DWXRqgorJj26U,7tFiyTwD0nx5a1eklYtX2J,0.392,0.402,0,-9.961,0.0536,0.288,0.0,0.243,0.228,Classic Rock,1
+We Got The Beat - 2011 Remaster,The Go-Go's,37i9dQZF1DWXRqgorJj26U,5o37x6LpNSec4jSfPIChsQ,0.595,0.996,2,-3.418,0.0599,0.195,0.0345,0.0351,0.376,Classic Rock,1
+With Or Without You - Remastered,U2,37i9dQZF1DWXRqgorJj26U,6ADSaE87h8Y3lccZlBJdXH,0.54,0.429,2,-11.822,0.0285,0.000202,0.355,0.141,0.113,Classic Rock,1
+Crazy On You,Heart,37i9dQZF1DWXRqgorJj26U,5zH710lFSLtkHbMkslLDjR,0.427,0.459,9,-12.442,0.0332,0.116,0.000103,0.132,0.383,Classic Rock,1
+Mountain Song,Jane's Addiction,37i9dQZF1DWXRqgorJj26U,5fKZJHzJ9d3MADArbm9muW,0.324,0.931,9,-6.803,0.0837,0.0155,0.0252,0.277,0.313,Classic Rock,1
+Kickstart My Heart,Mötley Crüe,37i9dQZF1DWXRqgorJj26U,6imjJij6aCM0IbbODUzJQn,0.465,0.977,7,-3.839,0.175,0.00111,0.00298,0.201,0.233,Classic Rock,1
+Zombie,The Cranberries,37i9dQZF1DWXRqgorJj26U,7EZC6E7UjZe63f1jRmkWxt,0.309,0.649,7,-8.994,0.035,0.0158,0.00591,0.367,0.312,Classic Rock,1
+More Than a Feeling,Boston,37i9dQZF1DWXRqgorJj26U,1QEEqeFIZktqIpPI4jSVSF,0.377,0.681,7,-8.039,0.0298,0.00088,0.0023,0.0504,0.285,Classic Rock,1
+Saturday Night’s Alright (For Fighting) - Remastered 2014,Elton John,37i9dQZF1DWXRqgorJj26U,12yHvSYFXI7PGzNecUvIDu,0.513,0.979,0,-6.362,0.0425,0.0195,0.0951,0.0906,0.94,Classic Rock,1
+In The Air Tonight - 2015 Remastered,Phil Collins,37i9dQZF1DWXRqgorJj26U,18AXbzPzBS8Y3AkgSxzJPb,0.446,0.239,0,-13.945,0.0316,0.551,4.1e-06,0.0697,0.298,Classic Rock,1
+Thunderstruck,AC/DC,37i9dQZF1DWXRqgorJj26U,57bgtoPSgt236HzfBOd8kj,0.502,0.89,4,-5.175,0.0364,0.000147,0.0117,0.217,0.259,Classic Rock,1
+Back on the Chain Gang - 2007 Remaster,Pretenders,37i9dQZF1DWXRqgorJj26U,4cMHCRLPNoEbpnl2rz6GS9,0.598,0.901,2,-6.081,0.0359,0.116,0.0401,0.178,0.814,Classic Rock,1
+Rebel Rebel - 2016 Remaster,David Bowie,37i9dQZF1DWXRqgorJj26U,2EC9IJj7g0mN1Q5VrZkiYY,0.635,0.686,9,-15.648,0.053,0.209,0.0176,0.282,0.464,Classic Rock,1
+Crosstown Traffic,Jimi Hendrix,37i9dQZF1DWXRqgorJj26U,1ntxpzIUbSsizvuAy6lTYY,0.486,0.963,0,-5.586,0.129,0.248,2.39e-06,0.158,0.533,Classic Rock,1
+Break on Through (To the Other Side),The Doors,37i9dQZF1DWXRqgorJj26U,6ToM0uwxtPKo9CMpbPGYvM,0.421,0.751,9,-9.584,0.0472,0.2,0.0,0.17,0.789,Classic Rock,1
+Born in the U.S.A.,Bruce Springsteen,37i9dQZF1DWXRqgorJj26U,0dOg1ySSI7NkpAe89Zo0b9,0.398,0.952,4,-6.042,0.061,0.000373,7.75e-05,0.1,0.584,Classic Rock,1
+Bitter Sweet Symphony,The Verve,37i9dQZF1DWXRqgorJj26U,57iDDD9N9tTWe75x6qhStw,0.356,0.917,9,-6.006,0.0479,0.0335,0.0,0.406,0.518,Classic Rock,1
+Won't Get Fooled Again - Original Album Version,The Who,37i9dQZF1DWXRqgorJj26U,0cJPLFrlV7TTCyPLupHzcH,0.686,0.92,2,-6.231,0.0566,0.301,0.27,0.0807,0.225,Classic Rock,1
+White Wedding - Pt. 1,Billy Idol,37i9dQZF1DWXRqgorJj26U,1gzIbdFnGJ226LTl0Cn2SX,0.673,0.814,9,-5.411,0.0367,0.0133,0.00293,0.343,0.728,Classic Rock,1
+The Spirit Of Radio,Rush,37i9dQZF1DWXRqgorJj26U,4e9hUiLsN4mx61ARosFi7p,0.365,0.924,4,-7.066,0.0488,0.0144,0.000254,0.423,0.632,Classic Rock,1
+Carry on Wayward Son,Kansas,37i9dQZF1DWXRqgorJj26U,4DMKwE2E2iYDKY01C335Uw,0.482,0.786,7,-5.735,0.032,0.00321,8.88e-05,0.446,0.793,Classic Rock,1
+Mr. Brightside,The Killers,37i9dQZF1DWXRqgorJj26U,003vvx7Niy0yvhvHt4a68B,0.352,0.911,1,-5.23,0.0747,0.00121,0.0,0.0995,0.236,Classic Rock,1
+Where Is My Mind? - Remastered,Pixies,37i9dQZF1DWXRqgorJj26U,7wCmS9TTVUcIhRalDYFgPy,0.519,0.441,4,-14.178,0.0353,0.0204,0.000453,0.076,0.25,Classic Rock,1
+Rock And Roll All Nite,KISS,37i9dQZF1DWXRqgorJj26U,6KTv0Z8BmVqM7DPxbGzpVC,0.654,0.929,1,-5.906,0.0998,0.0468,0.0,0.0539,0.902,Classic Rock,1
+Last Nite,The Strokes,37i9dQZF1DWXRqgorJj26U,3SUusuA9jH1v6PVwtYMbdv,0.624,0.899,0,-5.709,0.0296,0.0221,0.000137,0.0975,0.79,Classic Rock,1
+Hit Me With Your Best Shot,Pat Benatar,37i9dQZF1DWXRqgorJj26U,0vOkmmJEtjuFZDzrQSFzEE,0.741,0.58,4,-9.05,0.0304,0.117,3.31e-05,0.212,0.944,Classic Rock,1
+Under Pressure - Remastered 2011,Queen,37i9dQZF1DWXRqgorJj26U,2aSFLiDPreOVP6KHiWk4lF,0.663,0.712,2,-7.268,0.0479,0.524,0.0,0.0804,0.527,Classic Rock,1
+Alive,Pearl Jam,37i9dQZF1DWXRqgorJj26U,1L94M3KIu7QluZe63g64rv,0.284,0.875,11,-6.069,0.0422,0.00752,0.000461,0.402,0.595,Classic Rock,1
+Rock You Like A Hurricane,Scorpions,37i9dQZF1DWXRqgorJj26U,58XWGx7KNNkKneHdprcprX,0.482,0.617,4,-12.931,0.0458,0.00543,0.000146,0.284,0.718,Classic Rock,1
+You Give Love A Bad Name,Bon Jovi,37i9dQZF1DWXRqgorJj26U,0rmGAIH9LNJewFw7nKzZnc,0.541,0.96,0,-2.947,0.0505,0.0663,2.25e-06,0.344,0.812,Classic Rock,1
+Un Monton De Estrellas,Polo Montañez,1DeVya9cgtEGZJ0eiREWJJ,6aRaqc6pTMrm530rf7uL0S,0.499,0.649,10,-6.828,0.0399,0.168,0.0,0.0819,0.615,Salsas Ching@nas,0
+El Gran Varon,Willie Colón,1DeVya9cgtEGZJ0eiREWJJ,27n9VDbbjFnEJsgjYTnwTM,0.645,0.665,7,-5.519,0.0384,0.581,0.0,0.0391,0.369,Salsas Ching@nas,0
+La Negra Tiene Tumbao,Celia Cruz,1DeVya9cgtEGZJ0eiREWJJ,78UZRdq9Wl3fkFoT12zA4g,0.811,0.867,11,-4.255,0.0442,0.0366,5.13e-05,0.219,0.962,Salsas Ching@nas,0
+Tu Cariñito,Luisito Ayala Y La Puerto Rican Power,1DeVya9cgtEGZJ0eiREWJJ,5uRd1tmUAvfFGSPR5266Xp,0.667,0.873,5,-8.751,0.0469,0.337,2.24e-06,0.0338,0.92,Salsas Ching@nas,0
+Gracias Amor,Matecana Orquesta,1DeVya9cgtEGZJ0eiREWJJ,5IjiNGXfuAxpsqYL54mZk3,0.723,0.808,10,-4.052,0.0442,0.714,0.0,0.362,0.733,Salsas Ching@nas,0
+Talento De Televisión,Willie Colón,1DeVya9cgtEGZJ0eiREWJJ,3fRIuTih8bzc0vtY9fHhvF,0.779,0.796,2,-6.675,0.0434,0.701,3.99e-05,0.0636,0.938,Salsas Ching@nas,0
+Yo No Sé Mañana (salsa),Luis Enrique,1DeVya9cgtEGZJ0eiREWJJ,1nZziTuPRwCfJe1XvVC760,0.64,0.83,4,-3.197,0.0427,0.665,0.0,0.178,0.74,Salsas Ching@nas,0
+Eres Mi Sueño,Septeto Acarey,1DeVya9cgtEGZJ0eiREWJJ,5ZA9ItQp7DyG6pPkSsq3Bn,0.626,0.801,3,-5.144,0.0342,0.261,2.46e-05,0.203,0.903,Salsas Ching@nas,0
+Te Va a Doler,Maelo Ruiz,1DeVya9cgtEGZJ0eiREWJJ,2h6WIOkTPvHSAD7vR6lMSS,0.61,0.849,8,-4.382,0.0461,0.407,0.0,0.28,0.742,Salsas Ching@nas,0
+Problemas de Ciudad,Los Kassino de Chucho Pinto,1DeVya9cgtEGZJ0eiREWJJ,2FgpQD2l8VprtAgiFPyx7R,0.63,0.612,6,-10.694,0.0533,0.436,4.57e-05,0.0928,0.882,Salsas Ching@nas,0
+Que Locura Enamorarme De Ti,Eddie Santiago,1DeVya9cgtEGZJ0eiREWJJ,1TMxv8sfUhU55AC6Ul1PU5,0.746,0.786,10,-7.273,0.0428,0.538,8e-06,0.0656,0.968,Salsas Ching@nas,0
+Citas Clandestinas,Guayacán Orquesta,1DeVya9cgtEGZJ0eiREWJJ,0uRvViYnZWTRxwODPtwfn5,0.704,0.802,5,-5.49,0.0752,0.241,0.0,0.102,0.62,Salsas Ching@nas,0
+Lloraras,Oscar D'León,1DeVya9cgtEGZJ0eiREWJJ,6QJ1F9DrlsRSmKDcdVS0Oy,0.706,0.751,9,-8.368,0.0452,0.517,0.000701,0.0445,0.962,Salsas Ching@nas,0
+Me Tengo Que Ir,Adolescent's Orquesta,1DeVya9cgtEGZJ0eiREWJJ,3AK05RIuu30jqJ40cfOxLD,0.451,0.785,2,-4.701,0.0362,0.258,0.0,0.12,0.846,Salsas Ching@nas,0
+Un Sueño Y Nada Mas,Grupo Polo Montañes,1DeVya9cgtEGZJ0eiREWJJ,2bVisOYbfWI29XxWEdTKSX,0.607,0.542,9,-10.392,0.0353,0.325,0.0,0.161,0.808,Salsas Ching@nas,0
+Fabricando Fantasías - Salsa Version,Tito Nieves,1DeVya9cgtEGZJ0eiREWJJ,5bkWgrKyNhMcriQP3CrHEA,0.726,0.857,9,-3.264,0.0424,0.244,0.0,0.108,0.928,Salsas Ching@nas,0
+Dime Cómo Hago,Nelson Arrieta,1DeVya9cgtEGZJ0eiREWJJ,5SQMbspeEIYJPkXDWeiOJH,0.428,0.823,8,-5.628,0.0445,0.384,0.0,0.0882,0.844,Salsas Ching@nas,0
+Conteo Regresivo - Salsa Version,Gilberto Santa Rosa,1DeVya9cgtEGZJ0eiREWJJ,37nXsqE1XW0cxOQvIMsmFc,0.777,0.72,8,-6.162,0.0803,0.778,0.0,0.069,0.96,Salsas Ching@nas,0
+Amores Como el Nuestro,Jerry Rivera,1DeVya9cgtEGZJ0eiREWJJ,1RpCXjlxFGS6LfPOvqSJ7M,0.679,0.62,0,-10.943,0.0469,0.549,0.0189,0.0774,0.619,Salsas Ching@nas,0
+Ven Devórame Otra Vez,Lalo Rodriguez,1DeVya9cgtEGZJ0eiREWJJ,2HbmLkHkkI15eES8kpWRuI,0.643,0.602,5,-9.28,0.0438,0.667,8.62e-05,0.276,0.961,Salsas Ching@nas,0
+Dame Una Noche - Remix,Nacho,1DeVya9cgtEGZJ0eiREWJJ,3yBOBCEkm1E2dPhWhgH3cx,0.711,0.95,9,-4.009,0.0974,0.377,0.0,0.292,0.725,Salsas Ching@nas,0
+Aquel Lugar,Adolescent's Orquesta,1DeVya9cgtEGZJ0eiREWJJ,2vHNqDJe1qvt1sroQfNHSI,0.747,0.619,7,-4.706,0.036,0.36,0.0,0.132,0.652,Salsas Ching@nas,0
+Regálame una Noche,Maelo Ruiz,1DeVya9cgtEGZJ0eiREWJJ,6F3YJ3vWzatHA3nz6GwDoA,0.627,0.673,9,-5.291,0.0569,0.17,0.0,0.0948,0.499,Salsas Ching@nas,0
+Lluvia,Eddie Santiago,1DeVya9cgtEGZJ0eiREWJJ,5Ba4YFq13YdsTosd7mwqzi,0.653,0.748,10,-7.895,0.0378,0.503,3.43e-05,0.0787,0.77,Salsas Ching@nas,0
+Cachondea,Fruko Y Sus Tesos,1DeVya9cgtEGZJ0eiREWJJ,51IJiRXRYjU8eZw32lhCbz,0.818,0.922,7,-6.647,0.049,0.176,0.000771,0.31,0.896,Salsas Ching@nas,0
+Sobredosis,Los Titanes,1DeVya9cgtEGZJ0eiREWJJ,3EpEMEdNdgCBDLOtSLFAyh,0.524,0.857,7,-6.468,0.0396,0.472,0.00149,0.138,0.958,Salsas Ching@nas,0
+Rumba Callejera - En Vivo,Gonzalo Rubalcaba,1DeVya9cgtEGZJ0eiREWJJ,4TjXXjrJ58bpAzctqozBci,0.611,0.867,8,-5.896,0.0728,0.485,0.00101,0.85,0.88,Salsas Ching@nas,0
+Casi Te Envidio,Andy Montañez,1DeVya9cgtEGZJ0eiREWJJ,3lfWaQLyg71Uar9gAgFVWV,0.67,0.567,7,-10.418,0.0888,0.496,0.0,0.0703,0.883,Salsas Ching@nas,0
+Una Aventura,Grupo Niche,1DeVya9cgtEGZJ0eiREWJJ,26ucR33snMkRD6JExhoD6I,0.699,0.83,0,-10.935,0.0365,0.275,0.00241,0.121,0.731,Salsas Ching@nas,0
+Pequeñas Cosas,Willie Gonzalez,1DeVya9cgtEGZJ0eiREWJJ,36T4XY4vbxmw40XMJPe3zw,0.688,0.614,9,-9.247,0.0378,0.585,0.0,0.0978,0.852,Salsas Ching@nas,0
+Isla para Dos,Los Kassino de Chucho Pinto,1DeVya9cgtEGZJ0eiREWJJ,2i1as20OdPRQxDegXAFcXL,0.623,0.529,10,-11.603,0.0663,0.488,2.89e-05,0.288,0.751,Salsas Ching@nas,0
+Mia,Eddie Santiago,1DeVya9cgtEGZJ0eiREWJJ,3x4oECarDKCZxecqOYis52,0.655,0.714,2,-6.996,0.0466,0.495,6.4e-06,0.0893,0.942,Salsas Ching@nas,0
+Quien Entiende Este Amor,Galy Galiano,1DeVya9cgtEGZJ0eiREWJJ,5MVbhLRhOLCifhbjwVyZPX,0.728,0.905,0,-5.3,0.0358,0.216,0.000781,0.329,0.685,Salsas Ching@nas,0
+Virgen,Adolescent's Orquesta,1DeVya9cgtEGZJ0eiREWJJ,4ae223xfO5QUzbDWqLJMag,0.64,0.796,10,-4.571,0.0437,0.653,0.00021,0.115,0.807,Salsas Ching@nas,0
+Será Que Si,Maelo Ruiz,1DeVya9cgtEGZJ0eiREWJJ,1hAxMwmqRk0hCbbXOLn4IV,0.649,0.882,11,-5.335,0.0472,0.493,0.0,0.182,0.732,Salsas Ching@nas,0
+Pedro Navaja,Willie Colón,1DeVya9cgtEGZJ0eiREWJJ,7aKs8kWKKau0SDgaeyZMAX,0.595,0.574,2,-7.411,0.11,0.789,9.53e-05,0.209,0.825,Salsas Ching@nas,0
+Mi Manera de Amarte,Lirow,1DeVya9cgtEGZJ0eiREWJJ,4bwvN9cIRg1PL9F2usqUag,0.807,0.636,0,-5.962,0.0491,0.291,7.91e-06,0.168,0.805,Salsas Ching@nas,0
+Soledad (2021 Remastered Version),Daniel Peña,1DeVya9cgtEGZJ0eiREWJJ,5xShfAK40XbtOgeDx8zwso,0.778,0.639,5,-9.903,0.0522,0.505,0.0005,0.145,0.886,Salsas Ching@nas,0
+Gotas De Lluvia,Grupo Niche,1DeVya9cgtEGZJ0eiREWJJ,6sna5KCgNbt1ciZtVJCjzx,0.635,0.856,4,-3.946,0.0375,0.701,0.00019,0.0565,0.688,Salsas Ching@nas,0
+La Agarro Bajando,Gilberto Santa Rosa,1DeVya9cgtEGZJ0eiREWJJ,3GgI4QQWvsqqdKCvnNN0UM,0.807,0.768,5,-6.745,0.0427,0.332,3.09e-06,0.251,0.962,Salsas Ching@nas,0
+Busca Por Dentro,Grupo Niche,1DeVya9cgtEGZJ0eiREWJJ,2uJyG7lhmZ8bFrbVVlc6AH,0.69,0.666,5,-10.211,0.0348,0.213,0.000373,0.309,0.842,Salsas Ching@nas,0
+Si Volveras a Mí,Maelo Ruiz,1DeVya9cgtEGZJ0eiREWJJ,1PSD7RIsoOGQPgzmV7B2f6,0.636,0.809,7,-5.278,0.0368,0.406,0.0,0.23,0.81,Salsas Ching@nas,0
+Se Va a Beber,Lirow,1DeVya9cgtEGZJ0eiREWJJ,7nthB8BE4K8aTYJcw1M1iV,0.817,0.729,0,-3.24,0.0336,0.394,0.0,0.0986,0.965,Salsas Ching@nas,0
+Acurrucaito,Daniel Santacruz,1DeVya9cgtEGZJ0eiREWJJ,1GFY1FEYuedkyHKc5VF5yj,0.715,0.812,2,-2.598,0.101,0.46,0.0,0.131,0.794,Salsas Ching@nas,0
+Las Heridas,Nelson Martínez El sonero De Hoy,1DeVya9cgtEGZJ0eiREWJJ,4eFOdmbzMpvKWUscIAetWV,0.735,0.91,7,-6.197,0.0394,0.285,0.000534,0.0562,0.874,Salsas Ching@nas,0
+Anhelo,Adolescent's Orquesta,1DeVya9cgtEGZJ0eiREWJJ,4HIeIbJeQMUurTM57KVQU7,0.75,0.827,8,-4.936,0.0432,0.363,0.0,0.116,0.752,Salsas Ching@nas,0
+Ese,Jerry Rivera,1DeVya9cgtEGZJ0eiREWJJ,23gGTtWSjeTx4HEnAfdCgW,0.528,0.714,5,-7.282,0.246,0.326,2.62e-06,0.158,0.603,Salsas Ching@nas,0
+Conciencia,Gilberto Santa Rosa,1DeVya9cgtEGZJ0eiREWJJ,5bccusEjEtnC5cDfWXQ8rf,0.7,0.693,10,-6.878,0.0367,0.539,4.62e-06,0.089,0.891,Salsas Ching@nas,0
+Si No La Tengo,Diablos Locos,1DeVya9cgtEGZJ0eiREWJJ,5BSYu3CEg0L9sDBNXOwKTk,0.681,0.634,11,-6.885,0.0349,0.122,0.0,0.106,0.779,Salsas Ching@nas,0
+Extrañándote,Rubby Perez,1DeVya9cgtEGZJ0eiREWJJ,2pxB0ARGd64PgJlLqLRUqB,0.711,0.825,2,-3.095,0.0365,0.662,0.0,0.177,0.885,Salsas Ching@nas,0
+Setenta y Mas,Willie Rodriguez,1DeVya9cgtEGZJ0eiREWJJ,3U2CiVX5lAXG0qz6s7YdNW,0.768,0.614,7,-8.709,0.1,0.451,0.000239,0.294,0.9,Salsas Ching@nas,0
+Hazme Olvidarla,Willie Gonzalez,1DeVya9cgtEGZJ0eiREWJJ,752aNrC43L3ZCIuPoK8YTK,0.732,0.729,0,-5.319,0.035,0.535,2.53e-05,0.0842,0.795,Salsas Ching@nas,0
+Silbando,Los Kassino de Chucho Pinto,1DeVya9cgtEGZJ0eiREWJJ,6R2oE5bYPHzLs77RFqfjej,0.727,0.57,2,-9.047,0.0364,0.475,0.00564,0.555,0.887,Salsas Ching@nas,0
+Sin Sentimientos,Grupo Niche,1DeVya9cgtEGZJ0eiREWJJ,4ubwzNjqHGaZZ5k06PDx1H,0.607,0.622,2,-9.433,0.0354,0.414,0.0,0.176,0.66,Salsas Ching@nas,0
+Contigo Nada Fluye,Daniel Simo,1DeVya9cgtEGZJ0eiREWJJ,7mZqFi1YdWEoqrfbVg0CRK,0.803,0.813,9,-7.18,0.031,0.221,0.00329,0.0923,0.87,Salsas Ching@nas,0
+Apiádate de Mi,Víctor Manuelle,1DeVya9cgtEGZJ0eiREWJJ,4ZVgDysve5dcNK6TX84t8e,0.722,0.629,10,-7.233,0.0406,0.273,0.0,0.0796,0.844,Salsas Ching@nas,0
+Dominicano Alza La Mano,Henry Jiménez,1DeVya9cgtEGZJ0eiREWJJ,0h07pBb2z7suzZbB3nJBoq,0.784,0.802,11,-4.733,0.177,0.434,0.0,0.0684,0.699,Salsas Ching@nas,0
+Desde El Fondo De Mi Corazon,Hildemaro,1DeVya9cgtEGZJ0eiREWJJ,5IM5EJb4UVzLu552ZtgEry,0.722,0.668,9,-6.686,0.0358,0.623,0.00025,0.206,0.784,Salsas Ching@nas,0
+Si Me Ves Llorar,David Pabon,1DeVya9cgtEGZJ0eiREWJJ,0vMywJjFDTF7fhUxTBD3a3,0.63,0.855,10,-5.544,0.0345,0.434,0.000607,0.109,0.57,Salsas Ching@nas,0
+Qué Hay de Malo,Jerry Rivera,1DeVya9cgtEGZJ0eiREWJJ,4b55fVKJprjWWj4KhKgxMf,0.733,0.603,1,-8.673,0.044,0.592,0.0,0.0556,0.817,Salsas Ching@nas,0
+Quiero Morir En Tu Piel,Willie Gonzalez,1DeVya9cgtEGZJ0eiREWJJ,3t3jGDeU3t1ro51C3x2pPR,0.688,0.658,11,-9.962,0.0421,0.682,1.82e-05,0.328,0.907,Salsas Ching@nas,0
+Mala jujer,La Sonora Matancera,1DeVya9cgtEGZJ0eiREWJJ,4ItkEkRhVjPdBDO7lT4hRH,0.531,0.579,9,-10.642,0.0425,0.712,1.02e-05,0.0645,0.862,Salsas Ching@nas,0
+Mi Media Mitad,Rey Ruiz,1DeVya9cgtEGZJ0eiREWJJ,64QyipABOzDwoUFqaEnCvU,0.74,0.674,0,-5.818,0.033,0.404,1.28e-06,0.278,0.827,Salsas Ching@nas,0
+Dia Tras Dia,Cheo Andujar,1DeVya9cgtEGZJ0eiREWJJ,6EJadbufi05YD8vQb98Poq,0.721,0.68,2,-4.366,0.0344,0.242,6.6e-05,0.226,0.823,Salsas Ching@nas,0
+Si Supiera,Willie Gonzalez,1DeVya9cgtEGZJ0eiREWJJ,6edMEekESIWsXZrs8GRoOb,0.774,0.478,0,-9.277,0.0321,0.783,0.0,0.145,0.799,Salsas Ching@nas,0
+Dime Qué Paso,The Latin Brothers,1DeVya9cgtEGZJ0eiREWJJ,7mt78Kqk6pkb4K4vD0kioS,0.684,0.828,2,-4.554,0.0375,0.396,4.92e-06,0.0865,0.822,Salsas Ching@nas,0
+El Carnaval del Sabor,Los Tropicalisimos Compadres,1DeVya9cgtEGZJ0eiREWJJ,50tSIMItOS0AgotgtZzv3l,0.862,0.626,7,-8.9,0.138,0.273,1.14e-05,0.0876,0.803,Salsas Ching@nas,0
+Cara de Niño,Jerry Rivera,1DeVya9cgtEGZJ0eiREWJJ,4qsrxXxk4GCGih80VGmaAl,0.752,0.663,5,-9.019,0.0459,0.547,0.0,0.068,0.961,Salsas Ching@nas,0
+Y Tú Te Vas,El Combo Revelación,1DeVya9cgtEGZJ0eiREWJJ,2AwDll0ISQGGmfZ8xfdYxM,0.58,0.475,1,-6.525,0.0376,0.331,0.0,0.065,0.843,Salsas Ching@nas,0
+Déjame Un Beso,Salsa Kids,1DeVya9cgtEGZJ0eiREWJJ,533gQEec1M9rfipUWJq3GP,0.725,0.834,10,-4.557,0.0479,0.474,0.0,0.0828,0.581,Salsas Ching@nas,0
+Vuelvo A Sentir,Grupo Cañaveral De Humberto Pabón,1DeVya9cgtEGZJ0eiREWJJ,7mjrsSbmQfubagRLXUTVWR,0.694,0.658,0,-9.215,0.0368,0.414,0.000483,0.0485,0.746,Salsas Ching@nas,0
+No Podrán Separarnos,Andreina,1DeVya9cgtEGZJ0eiREWJJ,7LrMrWEVwPY6JL4YOkp4Z3,0.674,0.476,1,-5.118,0.0321,0.563,0.0,0.236,0.617,Salsas Ching@nas,0
+Detalles,Oscar D'León,1DeVya9cgtEGZJ0eiREWJJ,4SFp4XMwAOCpUK9Vs4UmiH,0.728,0.735,4,-5.252,0.0497,0.194,1.57e-05,0.262,0.94,Salsas Ching@nas,0
+Ella Feat. Luis Enrique,Hansel Y Raul,1DeVya9cgtEGZJ0eiREWJJ,3CXhO7ZR4kZ0n5dW3v3ACK,0.614,0.764,1,-5.201,0.139,0.496,0.0,0.261,0.782,Salsas Ching@nas,0
+Ojitos Hechiceros,Master Kumbia,1DeVya9cgtEGZJ0eiREWJJ,4ZdTTYuI1RPYozqv6lnxaq,0.82,0.864,5,-5.013,0.0366,0.195,1.91e-06,0.249,0.795,Salsas Ching@nas,0
+¿Qué Pasó?,Hansel,1DeVya9cgtEGZJ0eiREWJJ,4rU0PHummLWtI4Y1IhP7WQ,0.506,0.621,7,-9.176,0.033,0.339,0.0,0.0559,0.9,Salsas Ching@nas,0
+Dímelo,Tito Rojas,1DeVya9cgtEGZJ0eiREWJJ,0QqXnxupeSJDamWFXcFu2s,0.659,0.893,5,-3.693,0.0547,0.553,3.12e-05,0.236,0.735,Salsas Ching@nas,0
+Corazon de Acero,Yiyo Sarante,1DeVya9cgtEGZJ0eiREWJJ,2fM9D3e5pyVBzqOBgMC8ap,0.715,0.721,5,-5.654,0.0435,0.464,2.83e-06,0.0613,0.944,Salsas Ching@nas,0
+Entre La Espada y La Pared,Nino Segarra,1DeVya9cgtEGZJ0eiREWJJ,2UpoA15YFW9ItA8BjXUOJg,0.782,0.726,0,-4.752,0.0363,0.302,2.74e-06,0.0664,0.945,Salsas Ching@nas,0
+Evitare,N'Klabe,1DeVya9cgtEGZJ0eiREWJJ,4x3UI8rOSSYjqq4ACLRCbI,0.607,0.739,7,-5.238,0.0732,0.527,0.0,0.12,0.96,Salsas Ching@nas,0
+De Punta a Punta,Grupo Caneo,1DeVya9cgtEGZJ0eiREWJJ,1nB9ydATeeVCG3wrre1jcH,0.628,0.649,8,-12.064,0.0421,0.358,0.000152,0.053,0.965,Salsas Ching@nas,0
+Sombra Loca,Gilberto Santa Rosa,1DeVya9cgtEGZJ0eiREWJJ,7hqI73OXybfZ6FV9O4WrNs,0.761,0.686,0,-8.283,0.0498,0.586,0.0,0.06,0.837,Salsas Ching@nas,0
+Rosa Rosa,Daniel Villalobos y Su Grupo,1DeVya9cgtEGZJ0eiREWJJ,77YvZVOItRgzGXxlZRvWU7,0.756,0.848,5,-4.972,0.0311,0.31,0.0,0.065,0.972,Salsas Ching@nas,0
+La Cita,Galy Galiano,1DeVya9cgtEGZJ0eiREWJJ,54eCgeI2qOXjAbKwnZ2UK0,0.741,0.887,0,-6.156,0.0448,0.735,0.000815,0.0905,0.899,Salsas Ching@nas,0
+Todo Contigo,Los Originales Pappys de Cancun,1DeVya9cgtEGZJ0eiREWJJ,5jSHPgJKZnwX4unzUlcREv,0.565,0.662,7,-5.899,0.0456,0.45,1.26e-06,0.182,0.77,Salsas Ching@nas,0
+Le Hace Falta un Beso,Danny Daniel,1DeVya9cgtEGZJ0eiREWJJ,22qvTz7I5Wx0EbuGH9iW6e,0.536,0.816,4,-3.131,0.0485,0.72,0.0,0.4,0.755,Salsas Ching@nas,0
+He Creído,Química Perfecta,1DeVya9cgtEGZJ0eiREWJJ,3rglIamVaA5vqYIw3tnLmq,0.649,0.534,7,-12.517,0.0397,0.331,1.42e-06,0.484,0.961,Salsas Ching@nas,0
+Caricias Prohibidas,Viti Ruiz,1DeVya9cgtEGZJ0eiREWJJ,6ygcsyNINY8tSvzKzHiKkJ,0.556,0.704,1,-5.036,0.0337,0.779,1.12e-05,0.109,0.843,Salsas Ching@nas,0
+Te Regalo Todo,Los Originales Pappys de Cancun,1DeVya9cgtEGZJ0eiREWJJ,4pQRH4O4wVOpFPBAVZST0F,0.669,0.867,6,-5.798,0.0335,0.683,0.00831,0.108,0.854,Salsas Ching@nas,0
+Porque Te Amo,Nino Segarra,1DeVya9cgtEGZJ0eiREWJJ,0DrNa6Ol75djsKlw67TABQ,0.701,0.668,2,-7.822,0.0568,0.162,4.37e-05,0.0324,0.711,Salsas Ching@nas,0
+Tú Me Haces Falta,Eddie Santiago,1DeVya9cgtEGZJ0eiREWJJ,36831vgWmRrE5GaiwgjIwJ,0.641,0.763,2,-7.218,0.0313,0.211,0.000113,0.212,0.916,Salsas Ching@nas,0
+Todo Empezó,Eddie Santiago,1DeVya9cgtEGZJ0eiREWJJ,6faGpo3Xe5R4ZCDNQovfcv,0.729,0.699,7,-8.409,0.0384,0.619,0.000467,0.105,0.881,Salsas Ching@nas,0
+Cada Vez Otra Vez,Eddie Santiago,1DeVya9cgtEGZJ0eiREWJJ,7j3KTmge5VaTBQyHOV4gDw,0.691,0.654,0,-7.604,0.0402,0.677,0.000442,0.0696,0.875,Salsas Ching@nas,0
+Aquél Viejo Motel,David Pabon,1DeVya9cgtEGZJ0eiREWJJ,1qLtpRyYUzii9GeR1ZP7Ty,0.673,0.808,2,-4.172,0.0283,0.615,0.00011,0.092,0.721,Salsas Ching@nas,0
+Y Nos Amamos,David Pabon,1DeVya9cgtEGZJ0eiREWJJ,0vAA0c6zf8pCWgmIj4Oggx,0.66,0.88,0,-4.326,0.0364,0.621,0.00176,0.084,0.604,Salsas Ching@nas,0
+Desnúdate Mujer,Frankie Ruiz,1DeVya9cgtEGZJ0eiREWJJ,5gH9swPA4CDuuRrXeKkvPX,0.659,0.849,7,-4.315,0.0328,0.353,1.16e-05,0.31,0.932,Salsas Ching@nas,0
+La Rueda,Frankie Ruiz,1DeVya9cgtEGZJ0eiREWJJ,48bPNZwVNRpmyk9OASd6Yo,0.733,0.772,5,-6.923,0.0365,0.608,3.71e-05,0.0627,0.937,Salsas Ching@nas,0
+Tu Con El,Frankie Ruiz,1DeVya9cgtEGZJ0eiREWJJ,6jCo1ni2ikRL8DWuegc92I,0.827,0.791,7,-5.647,0.0498,0.181,0.000691,0.298,0.947,Salsas Ching@nas,0
+Tú Me Vuelves Loco,Frankie Ruiz,1DeVya9cgtEGZJ0eiREWJJ,1hiy2Mm4Xw57Vh6tiWbyam,0.786,0.752,7,-6.481,0.0323,0.384,0.0,0.0801,0.943,Salsas Ching@nas,0
+Enamorado,Daniel Villalobos y Su Grupo,1DeVya9cgtEGZJ0eiREWJJ,2yXWqU0ZxDOSCPYzDlBa26,0.667,0.818,2,-3.392,0.0343,0.241,0.0,0.316,0.914,Salsas Ching@nas,0
+Master of Puppets (Remastered),Metallica,37i9dQZF1DWWOaP4H0w5b0,54bm2e3tk8cliUz3VSdCPZ,0.539,0.828,4,-9.108,0.035,0.00067,0.421,0.154,0.562,Metal Essentials,1
+Chop Suey!,System Of A Down,37i9dQZF1DWWOaP4H0w5b0,2DlHlPMa4M17kufBvI2lEN,0.417,0.934,7,-3.908,0.119,0.000278,0.0015,0.132,0.287,Metal Essentials,1
+Duality,Slipknot,37i9dQZF1DWWOaP4H0w5b0,61mWefnWQOLf90gepjOCb3,0.354,0.982,4,-3.026,0.168,0.000237,0.000294,0.204,0.194,Metal Essentials,1
+Crazy Train,Ozzy Osbourne,37i9dQZF1DWWOaP4H0w5b0,7ACxUo21jtTHzy7ZEV56vU,0.454,0.913,9,-4.008,0.107,0.408,0.000271,0.248,0.521,Metal Essentials,1
+Freak On a Leash,Korn,37i9dQZF1DWWOaP4H0w5b0,6W21LNLz9Sw7sUSNWMSHRu,0.353,0.898,2,-5.877,0.052,2.23e-05,0.105,0.39,0.525,Metal Essentials,1
+Enter Sandman (Remastered),Metallica,37i9dQZF1DWWOaP4H0w5b0,3VqHuw0wFlIHcIPWkhIbdQ,0.566,0.834,6,-8.412,0.0298,0.00277,0.008,0.0625,0.621,Metal Essentials,1
+Hail to the King,Avenged Sevenfold,37i9dQZF1DWWOaP4H0w5b0,5anCkDvJ17aznvK5TED5uo,0.58,0.916,3,-4.358,0.0387,0.000297,0.0259,0.126,0.683,Metal Essentials,1
+My Own Summer (Shove It),Deftones,37i9dQZF1DWWOaP4H0w5b0,1158ckiB5S4cpsdYHDB9IF,0.443,0.781,1,-4.277,0.0377,1.33e-05,0.205,0.166,0.372,Metal Essentials,1
+Bodies,Drowning Pool,37i9dQZF1DWWOaP4H0w5b0,7CpbhqKUedOIrcvc94p60Y,0.656,0.932,4,-3.405,0.0708,0.00347,0.00147,0.144,0.544,Metal Essentials,1
+Dragula,Rob Zombie,37i9dQZF1DWWOaP4H0w5b0,6Nm8h73ycDG2saCnZV8poF,0.591,0.963,0,-6.489,0.0531,8.74e-05,0.000107,0.0781,0.609,Metal Essentials,1
+Ace of Spades,Motörhead,37i9dQZF1DWWOaP4H0w5b0,6EPRKhUOdiFSQwGBRBbvsZ,0.342,0.91,4,-7.748,0.0758,4.02e-05,0.000121,0.0823,0.547,Metal Essentials,1
+Walk,Pantera,37i9dQZF1DWWOaP4H0w5b0,7fcfNW0XxTWlwVlftzfDOR,0.43,0.704,1,-8.008,0.0804,0.000155,0.00221,0.0933,0.703,Metal Essentials,1
+Symphony Of Destruction,Megadeth,37i9dQZF1DWWOaP4H0w5b0,51TG9W3y9qyO8BY5RXKgnZ,0.61,0.891,4,-5.452,0.0587,0.000805,0.0928,0.0657,0.51,Metal Essentials,1
+I Wanna Rock,Twisted Sister,37i9dQZF1DWWOaP4H0w5b0,70Z9t1qhytWtG4cCmmi7mU,0.504,0.911,2,-2.97,0.0738,0.00512,0.0123,0.355,0.671,Metal Essentials,1
+Sugar,System Of A Down,37i9dQZF1DWWOaP4H0w5b0,31RTFPrB7wmYBhlkM2ILXG,0.451,0.889,1,-2.693,0.261,0.00167,0.00215,0.258,0.586,Metal Essentials,1
+Paranoid - 2012 - Remaster,Black Sabbath,37i9dQZF1DWWOaP4H0w5b0,1Y373MqadDRtclJNdnUXVc,0.412,0.658,4,-12.051,0.0708,4.52e-05,0.000774,0.176,0.454,Metal Essentials,1
+Cum on Feel the Noize,Quiet Riot,37i9dQZF1DWWOaP4H0w5b0,3vV3cr2TpPqFk07zxYUbla,0.409,0.92,11,-5.439,0.12,0.00719,0.00105,0.0823,0.37,Metal Essentials,1
+Wait and Bleed,Slipknot,37i9dQZF1DWWOaP4H0w5b0,2gscB6kDOmrv1P6qs2KXE3,0.382,0.996,7,-4.119,0.104,0.00208,0.0,0.417,0.327,Metal Essentials,1
+Cowboys from Hell,Pantera,37i9dQZF1DWWOaP4H0w5b0,2SgbR6ttzoNlCRGQOKjrop,0.415,0.908,2,-9.701,0.0765,0.00437,0.0345,0.082,0.437,Metal Essentials,1
+Breaking the Law,Judas Priest,37i9dQZF1DWWOaP4H0w5b0,2RaA6kIcvomt77qlIgGhCT,0.362,0.961,2,-5.664,0.0857,0.024,9.35e-06,0.159,0.491,Metal Essentials,1
+Nothin' But A Good Time - Remastered 2006,Poison,37i9dQZF1DWWOaP4H0w5b0,2V8KvnD5LVeeDChMWEkSzC,0.576,0.974,1,-2.785,0.0828,0.0202,0.0,0.348,0.531,Metal Essentials,1
+Du hast,Rammstein,37i9dQZF1DWWOaP4H0w5b0,6uEvFCaOqXyEidoO8BZbyh,0.64,0.922,9,-6.283,0.0385,0.00369,0.055,0.332,0.716,Metal Essentials,1
+Bad Company,Five Finger Death Punch,37i9dQZF1DWWOaP4H0w5b0,7uIF6RDrW2PwvvYEMkanr8,0.558,0.886,11,-4.196,0.0482,0.000595,9.91e-05,0.0904,0.171,Metal Essentials,1
+Thunder Kiss '65,White Zombie,37i9dQZF1DWWOaP4H0w5b0,4tvBoSWeIW0bjhKNre5mod,0.684,0.851,9,-9.792,0.0407,0.000613,0.0029,0.535,0.512,Metal Essentials,1
+School's Out,Alice Cooper,37i9dQZF1DWWOaP4H0w5b0,5Z8EDau8uNcP1E8JvmfkZe,0.294,0.745,5,-9.138,0.0461,0.05,0.125,0.676,0.347,Metal Essentials,1
+Shout At The Devil,Mötley Crüe,37i9dQZF1DWWOaP4H0w5b0,6VZivrPxu9MJ5rIPIERg56,0.5,0.946,5,-5.428,0.072,0.0221,4.21e-05,0.068,0.45,Metal Essentials,1
+No One Like You,Scorpions,37i9dQZF1DWWOaP4H0w5b0,26fZwf1ImE4aUJ4XaqOkUg,0.505,0.631,9,-10.433,0.038,0.0203,2.21e-05,0.141,0.835,Metal Essentials,1
+"Mama, I'm Coming Home",Ozzy Osbourne,37i9dQZF1DWWOaP4H0w5b0,0S3gpZzlT9Hb7CCSV2owX7,0.282,0.656,8,-6.557,0.0302,0.0105,0.0,0.0892,0.242,Metal Essentials,1
+A Warrior's Call,Volbeat,37i9dQZF1DWWOaP4H0w5b0,4o6k1XHlrIZay8v1m5VU83,0.373,0.903,10,-4.49,0.083,0.00077,5.86e-06,0.244,0.43,Metal Essentials,1
+To Hell and Back,Sabaton,37i9dQZF1DWWOaP4H0w5b0,1BrgjqSg9du0lj3TUMLluL,0.536,0.849,0,-4.702,0.0616,0.00318,0.00197,0.104,0.305,Metal Essentials,1
+Your Betrayal,Bullet For My Valentine,37i9dQZF1DWWOaP4H0w5b0,25GC50HslaaruyrKjdu0lP,0.569,0.883,2,-4.41,0.0748,8.07e-05,7.74e-05,0.0883,0.373,Metal Essentials,1
+My Curse,Killswitch Engage,37i9dQZF1DWWOaP4H0w5b0,6zKF4293k44ItKWJJgrhXv,0.197,0.956,10,-2.908,0.0663,7.61e-05,0.00992,0.261,0.209,Metal Essentials,1
+Shadow Moses,Bring Me The Horizon,37i9dQZF1DWWOaP4H0w5b0,68osIGtVjM7QWVe6pazLHj,0.456,0.985,6,-2.949,0.207,0.000235,0.00368,0.103,0.183,Metal Essentials,1
+Painkiller,Judas Priest,37i9dQZF1DWWOaP4H0w5b0,0L7zm6afBEtrNKo6C6Gj08,0.435,0.987,1,-4.667,0.16,0.000195,0.0847,0.268,0.101,Metal Essentials,1
+Looking Down the Barrel of Today,Hatebreed,37i9dQZF1DWWOaP4H0w5b0,5IVA7WzOlWrmZh8EqZqMaw,0.486,0.986,1,-4.71,0.0818,0.000662,0.048,0.29,0.501,Metal Essentials,1
+I Stand Alone,Godsmack,37i9dQZF1DWWOaP4H0w5b0,44NRdYQw7P0GWuiunRv3hr,0.217,0.92,8,-4.479,0.0628,2.86e-05,0.0,0.102,0.376,Metal Essentials,1
+Die MF Die,Dope,37i9dQZF1DWWOaP4H0w5b0,5bU4KX47KqtDKKaLM4QCzh,0.657,0.96,5,-3.524,0.07,0.00169,0.000997,0.109,0.567,Metal Essentials,1
+Iron Man - 2012 - Remaster,Black Sabbath,37i9dQZF1DWWOaP4H0w5b0,3IOQZRcEkplCXg6LofKqE9,0.336,0.792,9,-10.875,0.084,0.00351,0.00175,0.0437,0.427,Metal Essentials,1
+Bark at the Moon,Ozzy Osbourne,37i9dQZF1DWWOaP4H0w5b0,2E7W1X4maFFcjHrVrFA7Vs,0.303,0.961,9,-5.333,0.243,0.00253,6.2e-05,0.132,0.305,Metal Essentials,1
+Down with the Sickness,Disturbed,37i9dQZF1DWWOaP4H0w5b0,4ImIJRZNJhNQLLdUFSYJoS,0.649,0.896,10,-2.704,0.056,0.000319,1.19e-05,0.102,0.924,Metal Essentials,1
+Stinkfist,TOOL,37i9dQZF1DWWOaP4H0w5b0,0pwObEOHolQZSldJ2q1wpy,0.286,0.728,0,-6.608,0.0616,0.000174,0.836,0.133,0.467,Metal Essentials,1
+Laid to Rest,Lamb of God,37i9dQZF1DWWOaP4H0w5b0,1yc53HK08sDab7PDFgnLWk,0.366,0.956,10,-3.725,0.108,0.000293,0.00447,0.449,0.159,Metal Essentials,1
+Blood and Thunder,Mastodon,37i9dQZF1DWWOaP4H0w5b0,3jagGO7eHHuaD53ibehkux,0.364,0.935,2,-6.548,0.0724,8.58e-06,0.729,0.0317,0.478,Metal Essentials,1
+The Trooper - 2015 Remaster,Iron Maiden,37i9dQZF1DWWOaP4H0w5b0,1Ab3hhOw1TJWDgO10vlxNZ,0.285,0.908,4,-4.601,0.0705,0.0318,0.00909,0.311,0.669,Metal Essentials,1
+Rainbow in the Dark,Dio,37i9dQZF1DWWOaP4H0w5b0,2PpNgmrS9mAyrkRAwn6YPq,0.512,0.947,9,-5.659,0.0401,0.000692,0.114,0.0283,0.612,Metal Essentials,1
+I Want Out,Helloween,37i9dQZF1DWWOaP4H0w5b0,5VZwMq6yaFb04PCTfdNY3K,0.477,0.859,0,-8.625,0.0387,0.000333,0.000155,0.265,0.629,Metal Essentials,1
+Cirice,Ghost,37i9dQZF1DWWOaP4H0w5b0,3ZXZ9RMsznqgyHnyq0K5FL,0.555,0.798,3,-5.658,0.0279,0.00254,1.5e-05,0.171,0.284,Metal Essentials,1
+Raining Blood,Slayer,37i9dQZF1DWWOaP4H0w5b0,01Mpj13vURSO3cCLprPt5T,0.294,0.995,1,-4.383,0.168,0.000489,0.331,0.128,0.0379,Metal Essentials,1
+Dig,Mudvayne,37i9dQZF1DWWOaP4H0w5b0,7vrLphPq4yjaX7jiDdd2Nc,0.623,0.983,11,-3.548,0.151,9.62e-05,0.0617,0.261,0.271,Metal Essentials,1
+Push It,Static-X,37i9dQZF1DWWOaP4H0w5b0,6O7pihLJgeqxUnG7u9oYL2,0.557,0.978,0,-3.965,0.0493,0.000393,4.42e-06,0.287,0.499,Metal Essentials,1
+Redneck,Lamb of God,37i9dQZF1DWWOaP4H0w5b0,04EtBLFIxbcVt9NdYgcrpF,0.512,0.996,2,-2.1,0.114,5.63e-05,0.000167,0.347,0.0601,Metal Essentials,1
+Nobody's Fool,Cinderella,37i9dQZF1DWWOaP4H0w5b0,01Q4wU19hamqnhNjtuvTyI,0.367,0.445,9,-13.615,0.0286,0.0478,0.00284,0.163,0.149,Metal Essentials,1
+South Of Heaven,Slayer,37i9dQZF1DWWOaP4H0w5b0,3U9gogDStAfWxSm91PJuxb,0.31,0.991,5,-3.769,0.316,0.000132,0.085,0.0969,0.0395,Metal Essentials,1
+Twilight Of The Thunder God,Amon Amarth,37i9dQZF1DWWOaP4H0w5b0,5u3l2TONYacJgmRPQVaF9y,0.374,0.92,6,-4.653,0.0501,1.62e-05,0.026,0.0802,0.278,Metal Essentials,1
+Only for the Weak,In Flames,37i9dQZF1DWWOaP4H0w5b0,0JBQnLKfLXmlkquabLtAgd,0.418,0.835,0,-4.824,0.0449,2.33e-06,0.766,0.289,0.549,Metal Essentials,1
+Holy Diver,Dio,37i9dQZF1DWWOaP4H0w5b0,57fqmDaokbxZ3TaB0jp39q,0.476,0.901,8,-6.751,0.0975,0.0642,0.158,0.0557,0.109,Metal Essentials,1
+Pull Me Under,Dream Theater,37i9dQZF1DWWOaP4H0w5b0,5CPXR6lDTvngxtmMZxnWmC,0.532,0.941,9,-9.025,0.0465,0.000579,0.0527,0.15,0.278,Metal Essentials,1
+Roots Bloody Roots,Sepultura,37i9dQZF1DWWOaP4H0w5b0,6ursmCnbc9oDRGa2yHKkoZ,0.428,0.874,4,-6.664,0.128,0.000337,0.0419,0.311,0.261,Metal Essentials,1
+I Wanna Be Somebody,W.A.S.P.,37i9dQZF1DWWOaP4H0w5b0,6w8dBm5KlXxWejYrbGS1EJ,0.285,0.825,1,-7.049,0.0466,0.000826,0.0,0.268,0.516,Metal Essentials,1
+Under and Over It,Five Finger Death Punch,37i9dQZF1DWWOaP4H0w5b0,7DyCmfT0WNViykLTHGT3yO,0.473,0.996,11,-3.027,0.173,1.41e-05,0.0,0.26,0.0952,Metal Essentials,1
+Balls to the Wall,Accept,37i9dQZF1DWWOaP4H0w5b0,2dbOYFfS7r7NAzquRvji9A,0.544,0.739,9,-7.383,0.0517,0.00392,0.000143,0.168,0.328,Metal Essentials,1
+Are You Dead Yet?,Children Of Bodom,37i9dQZF1DWWOaP4H0w5b0,2T2vudIHfVMA5ychWTU3KA,0.461,0.961,8,-3.011,0.0479,6.39e-06,0.14,0.308,0.416,Metal Essentials,1
+Ritual,Ghost,37i9dQZF1DWWOaP4H0w5b0,5ZiTzbMB53mIiP3I4uQCmt,0.671,0.867,0,-5.194,0.0503,0.0882,3.29e-05,0.119,0.698,Metal Essentials,1
+Carrion,Parkway Drive,37i9dQZF1DWWOaP4H0w5b0,0xfWKcNu13xxXQ2GT0P09M,0.228,0.969,6,-4.07,0.1,0.000275,0.0,0.0982,0.428,Metal Essentials,1
+Madhouse,Anthrax,37i9dQZF1DWWOaP4H0w5b0,76BYv24CcZt2u94JRjmATX,0.329,0.885,9,-10.661,0.0904,0.0242,0.00433,0.735,0.481,Metal Essentials,1
+War Eternal,Arch Enemy,37i9dQZF1DWWOaP4H0w5b0,0WZZENH0kt3O2cBE8q5IRq,0.445,0.98,5,-4.369,0.0731,2.45e-05,0.163,0.129,0.285,Metal Essentials,1
+You Only Live Once,Suicide Silence,37i9dQZF1DWWOaP4H0w5b0,4Ku3OOZWR4tpKNCVFXILY8,0.613,0.953,6,-4.936,0.153,0.00018,0.0614,0.116,0.213,Metal Essentials,1
+Black No. 1 (Little Miss Scare -All),Type O Negative,37i9dQZF1DWWOaP4H0w5b0,710B9xFjNOisQtKtppZE9p,0.348,0.7,4,-8.885,0.0611,0.0397,0.00228,0.106,0.416,Metal Essentials,1
+In Waves,Trivium,37i9dQZF1DWWOaP4H0w5b0,1yYr4D1KjhhyDD5bZIiFQy,0.477,0.94,9,-3.435,0.103,0.000211,0.0518,0.346,0.338,Metal Essentials,1
+The Number of the Beast - 2015 Remaster,Iron Maiden,37i9dQZF1DWWOaP4H0w5b0,139RwLyp7r8F9ojvhGF5lC,0.409,0.89,0,-6.839,0.0558,0.088,0.107,0.0935,0.268,Metal Essentials,1
+Highway Star,Deep Purple,37i9dQZF1DWWOaP4H0w5b0,4gVTozEmzwAUXpwj3jEetX,0.298,0.895,9,-7.647,0.0547,0.0283,0.00574,0.305,0.544,Metal Essentials,1
+Hammer Smashed Face,Cannibal Corpse,37i9dQZF1DWWOaP4H0w5b0,4pFC6tuWErxbO61oFFq3BQ,0.357,0.98,6,-6.835,0.079,5.22e-05,0.843,0.0768,0.368,Metal Essentials,1
+Kings of Metal,Manowar,37i9dQZF1DWWOaP4H0w5b0,28TcG73tbc4iGrGBFjiBnR,0.575,0.881,9,-13.012,0.0357,0.000117,2.69e-05,0.147,0.699,Metal Essentials,1
+Wild Eyes,Parkway Drive,37i9dQZF1DWWOaP4H0w5b0,4G8EhnfKvBQVlOJ4xXCHpQ,0.299,0.99,6,-3.498,0.156,0.000732,0.000405,0.165,0.197,Metal Essentials,1
+Heaven and Hell - 2008 Remaster,Black Sabbath,37i9dQZF1DWWOaP4H0w5b0,3Jl5GohfNwozDmpzmQBLDI,0.329,0.673,3,-8.465,0.0296,0.0239,0.109,0.138,0.323,Metal Essentials,1
+Panic Attack,Dream Theater,37i9dQZF1DWWOaP4H0w5b0,5axwj3ekvw85989jjO8Ov8,0.494,0.96,1,-5.478,0.126,3.93e-05,0.00519,0.113,0.127,Metal Essentials,1
+"Snap Your Fingers, Snap Your Neck",Prong,37i9dQZF1DWWOaP4H0w5b0,7hgtn706RqLE5q1mWe8aQx,0.668,0.788,5,-6.752,0.0424,7.48e-05,0.108,0.0792,0.692,Metal Essentials,1
+L'enfant sauvage,Gojira,37i9dQZF1DWWOaP4H0w5b0,4PWxt9Fy949kUtkEi2GI5V,0.143,0.995,8,-5.698,0.185,0.000146,0.438,0.364,0.079,Metal Essentials,1
+Davidian,Machine Head,37i9dQZF1DWWOaP4H0w5b0,3qHlBxD3acw5nrl7Padt0v,0.278,0.937,7,-6.952,0.168,0.000535,0.118,0.227,0.29,Metal Essentials,1
+Stone the Crow,DOWN,37i9dQZF1DWWOaP4H0w5b0,7DuRbuweGD2cpGN74cpPAF,0.444,0.911,11,-6.117,0.0398,0.0139,0.00955,0.0868,0.556,Metal Essentials,1
+The Motherload,Mastodon,37i9dQZF1DWWOaP4H0w5b0,6EF0xhfKtQNqUPz2mnE5BD,0.363,0.971,5,-2.974,0.0776,7.1e-06,0.00358,0.0797,0.347,Metal Essentials,1
+Breaking the Chains,Dokken,37i9dQZF1DWWOaP4H0w5b0,2W7CvGjipq3EmHqNGN7lN9,0.526,0.9,4,-4.76,0.0531,0.00914,0.0,0.277,0.458,Metal Essentials,1
+Halo,Soil,37i9dQZF1DWWOaP4H0w5b0,1QixTwDZCcfBzA7QMyont0,0.529,0.92,3,-4.168,0.0649,2.87e-05,0.00202,0.0582,0.438,Metal Essentials,1
+Freezing Moon,Mayhem,37i9dQZF1DWWOaP4H0w5b0,4AP3a7eEOlz5sTJiWnv2C6,0.168,0.974,4,-9.116,0.112,3.05e-05,0.641,0.0752,0.0943,Metal Essentials,1
+I Will Be Heard,Hatebreed,37i9dQZF1DWWOaP4H0w5b0,4Lxn1JlGJwmmXpODrNvPA6,0.585,0.907,1,-4.787,0.102,7.21e-05,0.0,0.0682,0.573,Metal Essentials,1
+Hellraiser - 30th Anniversary Edition,Ozzy Osbourne,37i9dQZF1DWWOaP4H0w5b0,7iD5t0YgWvIIrvZtw6IIxQ,0.624,0.934,4,-3.229,0.0436,0.00232,2.67e-05,0.106,0.411,Metal Essentials,1
+Let It Go,Def Leppard,37i9dQZF1DWWOaP4H0w5b0,1aR6W01r094onPc4O2avEp,0.409,0.915,2,-7.205,0.0667,0.00444,0.0022,0.342,0.409,Metal Essentials,1
+You Can't Bring Me Down,Suicidal Tendencies,37i9dQZF1DWWOaP4H0w5b0,203xxdlledLFnkqrUleD72,0.272,0.958,0,-10.797,0.381,0.00195,4.63e-05,0.0915,0.0382,Metal Essentials,1
+Arise,Sepultura,37i9dQZF1DWWOaP4H0w5b0,1erRDf98WX0VllciGPYO1H,0.372,0.961,9,-6.765,0.0931,1.52e-05,0.0548,0.0916,0.159,Metal Essentials,1
+Stand My Ground,Within Temptation,37i9dQZF1DWWOaP4H0w5b0,7Chqf4yGnQlLWAWic9b0ET,0.271,0.866,5,-4.072,0.0578,0.0489,0.000762,0.116,0.127,Metal Essentials,1
+The Toxic Waltz,Exodus,37i9dQZF1DWWOaP4H0w5b0,5ZOOjqoCaUydmo8bxSdosj,0.262,0.988,11,-4.922,0.253,0.00655,0.897,0.132,0.227,Metal Essentials,1
+Slave to the Grind,Skid Row,37i9dQZF1DWWOaP4H0w5b0,49IA4BhFCOWZQ7A7wxfa4e,0.487,0.976,7,-7.567,0.105,6.8e-06,0.352,0.242,0.305,Metal Essentials,1
+Return to Serenity,Testament,37i9dQZF1DWWOaP4H0w5b0,5awljpWNO5TpXCyjpvCBbs,0.294,0.613,1,-10.527,0.0384,0.235,0.000494,0.139,0.228,Metal Essentials,1
+Symbolic,Death,37i9dQZF1DWWOaP4H0w5b0,0dpFb4qv92TE9R00Lq4SAW,0.364,0.982,6,-7.034,0.195,6.65e-05,0.0124,0.163,0.127,Metal Essentials,1
+Evil,Mercyful Fate,37i9dQZF1DWWOaP4H0w5b0,5pH1BecbNktYDbYw0XCEWn,0.288,0.904,0,-9.455,0.114,0.000273,0.382,0.0894,0.556,Metal Essentials,1
+Princess of the Night - 2009 Remastered Version,Saxon,37i9dQZF1DWWOaP4H0w5b0,2QpP8SyXrumYR5BlcdJgTV,0.362,0.797,3,-8.824,0.0424,0.00328,2e-06,0.0668,0.753,Metal Essentials,1
+Raise Your Horns,Amon Amarth,37i9dQZF1DWWOaP4H0w5b0,6ypKaenmVXMCXvlkfYOpjf,0.458,0.873,5,-5.336,0.0439,6.05e-05,0.737,0.0664,0.551,Metal Essentials,1
+Just One Fix,Ministry,37i9dQZF1DWWOaP4H0w5b0,0Vcpo9El50PNNbZXfKbNti,0.539,0.982,0,-4.495,0.0592,1.42e-05,0.462,0.371,0.145,Metal Essentials,1
+Replica,Fear Factory,37i9dQZF1DWWOaP4H0w5b0,5YeQoMo5py82YmqXMTjM5S,0.574,0.943,11,-5.238,0.0769,3.69e-05,0.0317,0.366,0.72,Metal Essentials,1
+Brotherhood of the Snake,Testament,37i9dQZF1DWWOaP4H0w5b0,4VcN84ZdC7doe4yoIarJUA,0.289,0.989,1,-4.006,0.11,6e-06,0.179,0.122,0.198,Metal Essentials,1
+Llorar,Los Socios Del Ritmo,0EfZGNw0JHvoCkNfnMDYAU,7d00W7wOsi1V9nKxcedEi7,0.783,0.59,5,-6.917,0.113,0.0577,0.0,0.0524,0.962,Cumbias de Microbusero,0
+El Paso del Gigante,Sonador,0EfZGNw0JHvoCkNfnMDYAU,1fATLOTF1CZR7ZM6EVNmUN,0.564,0.785,9,-6.47,0.188,0.0924,0.0,0.0965,0.78,Cumbias de Microbusero,0
+Tiene Espinas El Rosal,Grupo Cañaveral De Humberto Pabón,0EfZGNw0JHvoCkNfnMDYAU,1PZ3QsCFec05Ls3PwOqKXZ,0.68,0.423,11,-11.112,0.136,0.0343,0.0,0.0925,0.822,Cumbias de Microbusero,0
+Que Bello,Sonora Tropicana,0EfZGNw0JHvoCkNfnMDYAU,5rOayjEJlBGkkoKb1Ye3eo,0.654,0.42,7,-9.866,0.0927,0.237,3.3e-05,0.0651,0.931,Cumbias de Microbusero,0
+Procura,ChiChi Peralta,0EfZGNw0JHvoCkNfnMDYAU,7xmp7f74I0rxUOPjVuIOE8,0.805,0.758,8,-7.418,0.0352,0.308,0.000661,0.12,0.974,Cumbias de Microbusero,0
+Tiburon,Proyecto Uno,0EfZGNw0JHvoCkNfnMDYAU,2eBYC1iZC73kwUISPAWrB1,0.887,0.727,0,-12.506,0.0514,0.324,0.00637,0.0532,0.871,Cumbias de Microbusero,0
+Cómo Te Voy A Olvidar,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,6lCmtkhR22o2jTsuOtB0Bs,0.647,0.469,2,-7.63,0.0617,0.263,4.4e-06,0.213,0.673,Cumbias de Microbusero,0
+17 Años,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,5BXsVmMTDq5Oa1DiRDUdUN,0.739,0.549,0,-7.045,0.0431,0.463,0.0,0.0951,0.787,Cumbias de Microbusero,0
+Mi Niña Mujer,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,46OaRk0AuUsmCeUV661SKr,0.651,0.51,7,-6.457,0.0575,0.37,3.56e-06,0.0379,0.78,Cumbias de Microbusero,0
+El Listón De Tu Pelo,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,07MBmy5faHoRNPLXkJIqNi,0.707,0.479,11,-6.18,0.056,0.308,0.0,0.219,0.802,Cumbias de Microbusero,0
+Todo Me Gusta De Ti,Aaron Y Su Grupo Ilusion,0EfZGNw0JHvoCkNfnMDYAU,2E1os5dJ46vZVUUe6w6zps,0.761,0.486,10,-6.122,0.032,0.178,0.0,0.144,0.762,Cumbias de Microbusero,0
+Se Me Perdio La Cadenita,La Sonora Dinamita,0EfZGNw0JHvoCkNfnMDYAU,5VUR4MhJWAbp2ZHtSDvwJ7,0.532,0.682,9,-8.79,0.0495,0.0253,0.0,0.0822,0.715,Cumbias de Microbusero,0
+Escándalo,La Sonora Dinamita,0EfZGNw0JHvoCkNfnMDYAU,4Vehb6usMDULCgEgBgRePa,0.801,0.794,5,-3.921,0.029,0.444,0.000914,0.0635,0.689,Cumbias de Microbusero,0
+Baila Esta Cumbia,Selena,0EfZGNw0JHvoCkNfnMDYAU,3lFGBrRWUxpTfhhq6lGBRw,0.711,0.803,0,-4.58,0.124,0.52,8.37e-06,0.0987,0.787,Cumbias de Microbusero,0
+El Chico Del Apartamento 512,Selena,0EfZGNw0JHvoCkNfnMDYAU,1lh3TnDpfNBNfLfOWghNnp,0.762,0.654,10,-10.392,0.0335,0.481,2.8e-06,0.0791,0.925,Cumbias de Microbusero,0
+Bidi Bidi Bom Bom - 1994 Version,Selena,0EfZGNw0JHvoCkNfnMDYAU,7bZtI85x9Vw2t6EkvILqkr,0.58,0.527,10,-11.505,0.0441,0.332,2.96e-06,0.101,0.905,Cumbias de Microbusero,0
+Amor Prohibido,Selena,0EfZGNw0JHvoCkNfnMDYAU,1kCewNSs909Xj1naXr36X8,0.681,0.504,7,-11.099,0.0284,0.669,0.0,0.142,0.705,Cumbias de Microbusero,0
+La Carcacha,Selena,0EfZGNw0JHvoCkNfnMDYAU,0ob3zPIGXWwg2hyXJNs3Ct,0.696,0.8,8,-5.635,0.0671,0.13,0.0,0.361,0.93,Cumbias de Microbusero,0
+"Suavecito, Suavecito",Laura Leon,0EfZGNw0JHvoCkNfnMDYAU,09f8vU5alUL2QmIZMlCQ6A,0.751,0.528,0,-9.147,0.0428,0.637,0.0,0.06,0.899,Cumbias de Microbusero,0
+Oye Mujer,Raymix,0EfZGNw0JHvoCkNfnMDYAU,34abOeHT29w2v6ynkeBXVQ,0.85,0.572,4,-6.155,0.0359,0.147,0.0,0.316,0.929,Cumbias de Microbusero,0
+Fiestiña,Los Master Plus,0EfZGNw0JHvoCkNfnMDYAU,6vwig1R4togaapCEXxg32P,0.701,0.938,2,-2.572,0.0341,0.0326,0.0083,0.0653,0.969,Cumbias de Microbusero,0
+Mi Cucu,La Sonora Dinamita,0EfZGNw0JHvoCkNfnMDYAU,18VUI387C1ku2GtJtgyrRF,0.743,0.858,7,-5.836,0.0369,0.142,5.78e-06,0.311,0.917,Cumbias de Microbusero,0
+Que nadie sepa mi sufrir (Amor de mis amores),Margarita la diosa de la cumbia,0EfZGNw0JHvoCkNfnMDYAU,6azC9WCgqehMj2tHoaa10b,0.59,0.705,11,-6.183,0.0582,0.138,0.0,0.295,0.963,Cumbias de Microbusero,0
+Spanish Girl,Zona Rika,0EfZGNw0JHvoCkNfnMDYAU,00C0QqlR0vBK05aE1KSRNB,0.761,0.878,11,-7.11,0.0613,0.0746,6.08e-05,0.287,0.854,Cumbias de Microbusero,0
+El Botecito,Los Hijos Del Pueblo,0EfZGNw0JHvoCkNfnMDYAU,7GVxAP3rK73EvCoAqxk5vJ,0.841,0.86,1,-8.915,0.0394,0.173,1.84e-06,0.224,0.915,Cumbias de Microbusero,0
+Un Sueño,Los Angeles De Charly,0EfZGNw0JHvoCkNfnMDYAU,6iPDBwtiOZGlfQt9HD0jAG,0.66,0.666,9,-3.996,0.0269,0.0459,0.0,0.0518,0.737,Cumbias de Microbusero,0
+No Te Pertenece,Grupo Klaz Y Keroz,0EfZGNw0JHvoCkNfnMDYAU,0l3xSnsklPEIz9mgC4p49x,0.657,0.585,1,-5.594,0.0302,0.422,7.42e-06,0.05,0.787,Cumbias de Microbusero,0
+Un Monton De Estrellas,Polo Montañez,0EfZGNw0JHvoCkNfnMDYAU,6aRaqc6pTMrm530rf7uL0S,0.499,0.649,10,-6.828,0.0399,0.168,0.0,0.0819,0.615,Cumbias de Microbusero,0
+Cumbia De Los Monjes,Super Grupo G,0EfZGNw0JHvoCkNfnMDYAU,1fNN9x0yE5x2CBdt2DZj8q,0.871,0.634,11,-8.621,0.108,0.52,1.17e-06,0.358,0.818,Cumbias de Microbusero,0
+Agua de vida,Perla Colombiana,0EfZGNw0JHvoCkNfnMDYAU,4R6WYoefcvItKOQWbCWybg,0.763,0.513,2,-10.743,0.168,0.202,0.0,0.0325,0.86,Cumbias de Microbusero,0
+Loca,Chico Trujillo,0EfZGNw0JHvoCkNfnMDYAU,2LekureJkYmKUcUTBoHUaX,0.559,0.671,2,-5.738,0.0318,0.0558,2.96e-06,0.249,0.939,Cumbias de Microbusero,0
+Muchachita Consentida,Rayito Colombiano,0EfZGNw0JHvoCkNfnMDYAU,1zVDbrBG7zCd6AXGLmbGj4,0.778,0.612,5,-6.12,0.0601,0.288,8.98e-05,0.091,0.928,Cumbias de Microbusero,0
+Sopa De Caracol,Banda Blanca,0EfZGNw0JHvoCkNfnMDYAU,5jBMSbo3AZzsen4gCOKxKB,0.868,0.618,10,-12.588,0.0743,0.416,1.35e-05,0.327,0.956,Cumbias de Microbusero,0
+El Gran Varon,Willie Colón,0EfZGNw0JHvoCkNfnMDYAU,27n9VDbbjFnEJsgjYTnwTM,0.645,0.665,7,-5.519,0.0384,0.581,0.0,0.0391,0.369,Cumbias de Microbusero,0
+Entrega De Amor,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,3wKnUK8ii5ylKgEf82EDS5,0.627,0.553,3,-7.211,0.0431,0.203,6.21e-05,0.162,0.787,Cumbias de Microbusero,0
+Mis Sentimientos,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,12rhHadsmPUqAgO90sVNTk,0.762,0.508,5,-6.389,0.0509,0.279,0.000112,0.072,0.818,Cumbias de Microbusero,0
+Besar Tu Piel,Rayito Colombiano,0EfZGNw0JHvoCkNfnMDYAU,3sxYWCxHH0TcbPcEd6Ie0N,0.723,0.548,0,-6.243,0.0321,0.561,0.00116,0.109,0.806,Cumbias de Microbusero,0
+No Te Voy A Perdonar,Grupo Cañaveral De Humberto Pabón,0EfZGNw0JHvoCkNfnMDYAU,4LDJhbXkL9ckWAOBlBQJKG,0.826,0.658,7,-7.962,0.0423,0.303,3.09e-05,0.16,0.531,Cumbias de Microbusero,0
+Me Volví A Acordar De Ti,Los Angeles De Charly,0EfZGNw0JHvoCkNfnMDYAU,77OrXA8n0USqp0IlxgIBkp,0.664,0.579,2,-4.584,0.0268,0.153,0.0,0.384,0.73,Cumbias de Microbusero,0
+Amor Regresa,Los Askis,0EfZGNw0JHvoCkNfnMDYAU,3nbCTU4k0l68vml8nDajwU,0.641,0.746,4,-4.264,0.0381,0.48,1.77e-05,0.724,0.769,Cumbias de Microbusero,0
+El Afilador,Grupo Carabo,0EfZGNw0JHvoCkNfnMDYAU,2eP1TQKDfsfMMUdSDhMLPi,0.733,0.652,0,-5.883,0.0554,0.138,0.0038,0.114,0.905,Cumbias de Microbusero,0
+Mayonesa,Chocolate,0EfZGNw0JHvoCkNfnMDYAU,5Qjx4obghhfhsh6DiUwpNM,0.851,0.843,10,-5.204,0.0475,0.088,0.0,0.0665,0.888,Cumbias de Microbusero,0
+La Ventanita,Garibaldi,0EfZGNw0JHvoCkNfnMDYAU,36KjljlMp38jI7T7bqWlpg,0.913,0.841,2,-8.984,0.0421,0.109,0.000151,0.0385,0.953,Cumbias de Microbusero,0
+La Negra Tiene Tumbao,Celia Cruz,0EfZGNw0JHvoCkNfnMDYAU,78UZRdq9Wl3fkFoT12zA4g,0.811,0.867,11,-4.255,0.0442,0.0366,5.13e-05,0.219,0.962,Cumbias de Microbusero,0
+La Boa,La Sonora Santanera,0EfZGNw0JHvoCkNfnMDYAU,4UmKFyEKaew90RWzqbTalb,0.73,0.547,7,-5.577,0.139,0.361,0.000603,0.257,0.798,Cumbias de Microbusero,0
+Bomboro Quiñá Quiñá (with Rubén Albarrán) - En Vivo,La Sonora Santanera,0EfZGNw0JHvoCkNfnMDYAU,1rE3FOiSxAR0vmDg4Yntjy,0.967,0.727,7,-4.257,0.0554,0.684,0.00393,0.697,0.819,Cumbias de Microbusero,0
+Amigos Nada Más,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,1tx4b6Gvx5lWSasa3gqwQ3,0.663,0.41,0,-6.646,0.0479,0.645,0.0,0.0895,0.702,Cumbias de Microbusero,0
+Los Luchadores,Conjunto Africa,0EfZGNw0JHvoCkNfnMDYAU,0cfOXopZY2mzmH4P9gr0sy,0.451,0.473,9,-10.775,0.219,0.557,2.68e-05,0.148,0.948,Cumbias de Microbusero,0
+Echarme Al Olvido,Grupo Cañaveral De Humberto Pabón,0EfZGNw0JHvoCkNfnMDYAU,52Uy47FjbqbAh3WXejw7gU,0.781,0.344,0,-12.779,0.0836,0.0717,0.0,0.0628,0.558,Cumbias de Microbusero,0
+La rebelion,Joe Arroyo,0EfZGNw0JHvoCkNfnMDYAU,00Ro1lnV3V6i87aY4t8Q43,0.571,0.755,1,-7.907,0.0735,0.142,2.55e-05,0.136,0.875,Cumbias de Microbusero,0
+Gracias Amor,Matecana Orquesta,0EfZGNw0JHvoCkNfnMDYAU,5IjiNGXfuAxpsqYL54mZk3,0.723,0.808,10,-4.052,0.0442,0.714,0.0,0.362,0.733,Cumbias de Microbusero,0
+Mil Horas,La Sonora Dinamita,0EfZGNw0JHvoCkNfnMDYAU,5BLrN6hNbk2svdXov96dev,0.756,0.794,3,-5.623,0.0365,0.114,0.000511,0.0662,0.788,Cumbias de Microbusero,0
+Existe Un Corazón,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,3B68bEaEcO5tsUFjZEQ27Y,0.636,0.399,8,-8.677,0.0683,0.335,5.42e-06,0.11,0.64,Cumbias de Microbusero,0
+Chica Atrevida,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,1GnVFmDCEoTXFbYRPyrxq0,0.776,0.464,11,-9.82,0.0437,0.461,0.00122,0.0913,0.613,Cumbias de Microbusero,0
+Me Haces Falta Tú,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,7AWekvuA1C4Dez0K6Hs6Mw,0.611,0.353,2,-9.885,0.104,0.0647,0.0,0.13,0.658,Cumbias de Microbusero,0
+Tenías Que Ser Tú,Silvana Estrada,0EfZGNw0JHvoCkNfnMDYAU,2rIKsynpXAj5bHFdY6ESE1,0.603,0.675,4,-6.555,0.0637,0.399,0.0,0.124,0.82,Cumbias de Microbusero,0
+Bonita Pero Mentirosa,Alfredo Lopez La Voz de Puebla,0EfZGNw0JHvoCkNfnMDYAU,4IZJE7yzTYn05OGmyKsRV2,0.745,0.544,0,-11.456,0.0758,0.0518,0.0,0.0342,0.969,Cumbias de Microbusero,0
+Conga Y Timbal,Los Yaguarú,0EfZGNw0JHvoCkNfnMDYAU,7LXEJkLmNUCXD4WNbshFdy,0.841,0.353,7,-14.21,0.099,0.377,0.0291,0.0721,0.919,Cumbias de Microbusero,0
+Como La Flor,Selena,0EfZGNw0JHvoCkNfnMDYAU,5ubqSAc9LxUS2CsMHcA4kF,0.632,0.75,10,-7.739,0.0358,0.162,1.64e-05,0.368,0.87,Cumbias de Microbusero,0
+Pégame Tu Vicio,Eddy Herrera,0EfZGNw0JHvoCkNfnMDYAU,0DLaQPP83EMpgmbiEuzwM4,0.701,0.847,2,-7.892,0.0417,0.0858,2.6e-05,0.0816,0.817,Cumbias de Microbusero,0
+Adiós Adiós,"Daniel, Me Estás Matando",0EfZGNw0JHvoCkNfnMDYAU,243S6joPNzPJ4284gOisr4,0.761,0.539,6,-10.33,0.088,0.383,9.4e-05,0.146,0.743,Cumbias de Microbusero,0
+El Nido,La Sonora Santanera,0EfZGNw0JHvoCkNfnMDYAU,0XQ8v0GKPYrsxllc5ZRpXQ,0.557,0.401,4,-12.187,0.0392,0.785,2.72e-05,0.0548,0.963,Cumbias de Microbusero,0
+El Gil de Tu Ex,Santaferia,0EfZGNw0JHvoCkNfnMDYAU,3cUE3p7E39CzGjQoEsg7sM,0.774,0.77,7,-3.074,0.0426,0.49,1.25e-06,0.311,0.874,Cumbias de Microbusero,0
+Talento De Televisión,Willie Colón,0EfZGNw0JHvoCkNfnMDYAU,3fRIuTih8bzc0vtY9fHhvF,0.779,0.796,2,-6.675,0.0434,0.701,3.99e-05,0.0636,0.938,Cumbias de Microbusero,0
+Yo No Sé Mañana (salsa),Luis Enrique,0EfZGNw0JHvoCkNfnMDYAU,1nZziTuPRwCfJe1XvVC760,0.64,0.83,4,-3.197,0.0427,0.665,0.0,0.178,0.74,Cumbias de Microbusero,0
+Los Caminos De La Vida,La Tropa Vallenata,0EfZGNw0JHvoCkNfnMDYAU,1layZXCAmJ84fi21OmnTt5,0.624,0.698,2,-6.262,0.03,0.384,0.0,0.114,0.946,Cumbias de Microbusero,0
+Cumbia sobre el río / Interludio,Celso Piña,0EfZGNw0JHvoCkNfnMDYAU,77wwKKYeNZnXZ8xChSiSxN,0.711,0.816,1,-6.397,0.0515,0.0237,0.797,0.294,0.861,Cumbias de Microbusero,0
+Vidrio,Mxcl,0EfZGNw0JHvoCkNfnMDYAU,3fNTpfno5KCTm1MJbYRUZo,0.794,0.538,7,-7.557,0.0813,0.415,0.0,0.0582,0.895,Cumbias de Microbusero,0
+Sin Ti No Sé Vivir,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,4mAQCtKWmJxJY6MNNdv7xF,0.653,0.411,2,-5.921,0.0329,0.371,0.0,0.116,0.774,Cumbias de Microbusero,0
+Eres Mi Sueño,Septeto Acarey,0EfZGNw0JHvoCkNfnMDYAU,5ZA9ItQp7DyG6pPkSsq3Bn,0.626,0.801,3,-5.144,0.0342,0.261,2.46e-05,0.203,0.903,Cumbias de Microbusero,0
+Hechicería,La Sonora Dinamita,0EfZGNw0JHvoCkNfnMDYAU,0hDAk9lEjS44Azh7JzBaSM,0.773,0.728,7,-3.816,0.0603,0.209,0.0,0.117,0.495,Cumbias de Microbusero,0
+Pidele Perdon,Wence Y Su Grupo,0EfZGNw0JHvoCkNfnMDYAU,6WSTi191mmOIeh7CzIDjAQ,0.723,0.541,9,-12.249,0.05,0.355,0.02,0.202,0.96,Cumbias de Microbusero,0
+Hoy Tengo Ganas De Ti,Wence Y Su Grupo,0EfZGNw0JHvoCkNfnMDYAU,5RzuX5bll0Kvy90lLGvnZS,0.682,0.472,4,-11.54,0.0515,0.372,4.7e-06,0.288,0.912,Cumbias de Microbusero,0
+Me Ganaron Tu Cariño,Wence Y Su Grupo,0EfZGNw0JHvoCkNfnMDYAU,2To8hTYd1ibbMDDeLvYnVE,0.747,0.634,9,-11.314,0.0368,0.0878,0.000891,0.0406,0.962,Cumbias de Microbusero,0
+La Tortuga,Yerba Brava,0EfZGNw0JHvoCkNfnMDYAU,4lcQKkwO1AyNYwJR6AwgRe,0.791,0.808,0,-3.463,0.112,0.134,0.0,0.367,0.824,Cumbias de Microbusero,0
+Cumbia Villera,Yerba Brava,0EfZGNw0JHvoCkNfnMDYAU,2ysuQkl9VdijmxlFKHP5Ei,0.764,0.705,4,-4.517,0.0462,0.0437,0.00112,0.0526,0.962,Cumbias de Microbusero,0
+Pibe Cantina,Yerba Brava,0EfZGNw0JHvoCkNfnMDYAU,5KaHTwUkmynaHqs3GuDIVe,0.782,0.701,9,-4.777,0.0443,0.0123,0.000167,0.142,0.846,Cumbias de Microbusero,0
+El Amor,"Tito ""El Bambino""",0EfZGNw0JHvoCkNfnMDYAU,0H5mgVkVWtijaYE6jNmkff,0.621,0.76,11,-7.949,0.0487,0.185,2.32e-05,0.0791,0.62,Cumbias de Microbusero,0
+Maruja,La Sonora De Macondo,0EfZGNw0JHvoCkNfnMDYAU,1Q4YDw5MSxuITfXaIm7Ycr,0.753,0.667,2,-5.115,0.0423,0.199,0.000168,0.0894,0.905,Cumbias de Microbusero,0
+Sin Alma Y Sin Corazon,La Sonora De Macondo,0EfZGNw0JHvoCkNfnMDYAU,4p430aqYL99AnS6vdcyrw6,0.844,0.714,0,-5.241,0.0396,0.242,1.01e-06,0.355,0.867,Cumbias de Microbusero,0
+Ay Amor,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,6Yvg4TTg3VJ1xajE790MtJ,0.598,0.467,2,-7.615,0.0569,0.38,4.25e-06,0.112,0.933,Cumbias de Microbusero,0
+Tonta,Grupo Mojado,0EfZGNw0JHvoCkNfnMDYAU,46MuirMMSyr2aqbCdnPyBh,0.562,0.595,9,-12.875,0.077,0.181,0.00525,0.0472,0.871,Cumbias de Microbusero,0
+Trapeaste conmigo,Grupo Mojado,0EfZGNw0JHvoCkNfnMDYAU,4WtICkpsJ5SjhWoYzDHiBz,0.756,0.74,9,-10.341,0.0501,0.589,1.21e-06,0.122,0.904,Cumbias de Microbusero,0
+Ojitos Mentirosos,Tropicalísimo Apache,0EfZGNw0JHvoCkNfnMDYAU,1cOy0Jd1F4VO7ry3ZdixWI,0.821,0.617,10,-6.613,0.0373,0.415,6.6e-05,0.257,0.971,Cumbias de Microbusero,0
+Súbale Hay Lugares,El Chevo,0EfZGNw0JHvoCkNfnMDYAU,1qQf6w8UypCm7DNst9X9ZJ,0.8,0.797,5,-6.704,0.153,0.014,0.0,0.259,0.706,Cumbias de Microbusero,0
+Ya Se Ha Muerto Mi Abuelo,Juaneco Y Su Combo,0EfZGNw0JHvoCkNfnMDYAU,01coR52VHa06J1DnMkls29,0.585,0.533,2,-11.101,0.0417,0.11,0.00212,0.377,0.924,Cumbias de Microbusero,0
+La Última Coca del Desierto,Los Master Plus,0EfZGNw0JHvoCkNfnMDYAU,12OayVagp9stLqBbJ2rxWq,0.474,0.758,4,-4.737,0.0569,0.0569,0.0,0.772,0.892,Cumbias de Microbusero,0
+Prisionera,Villa Cariño,0EfZGNw0JHvoCkNfnMDYAU,2xrbnCU22dWCJostDEWvLl,0.546,0.673,9,-4.419,0.0323,0.0151,0.0,0.165,0.964,Cumbias de Microbusero,0
+Cumbia Sampuesana,Aniceto Molina,0EfZGNw0JHvoCkNfnMDYAU,4DT7amzC7kRipgLP0BHQhp,0.756,0.671,4,-5.399,0.0993,0.0346,0.0204,0.0225,0.967,Cumbias de Microbusero,0
+"Llorando Se Fue ""Lambada""",Cuarteto Continental de Alberto Maraví,0EfZGNw0JHvoCkNfnMDYAU,2X5nEYIzulPNs3abgszxXH,0.681,0.576,4,-7.806,0.0392,0.593,0.000256,0.117,0.967,Cumbias de Microbusero,0
+Regresa Mi Vida,Grupo Cañaveral De Humberto Pabón,0EfZGNw0JHvoCkNfnMDYAU,7xb4uczRe1aDkkfdeVl17v,0.647,0.627,0,-7.783,0.0855,0.283,0.0,0.0451,0.806,Cumbias de Microbusero,0
+El Reo Ausente,Nery Pedraza,0EfZGNw0JHvoCkNfnMDYAU,6feUE7Z9pGHfCHbh6EOA0j,0.815,0.593,8,-5.756,0.0333,0.3,0.00392,0.357,0.781,Cumbias de Microbusero,0
+Nunca Es Suficiente,Los Ángeles Azules,0EfZGNw0JHvoCkNfnMDYAU,0HlMshB5JmZjPNbOuOgFHN,0.796,0.499,2,-6.166,0.0404,0.392,0.0,0.0867,0.798,Cumbias de Microbusero,0
+¿Dónde Estarás?,Raymix,0EfZGNw0JHvoCkNfnMDYAU,55fNwvY5YPrQgndjwBywM8,0.551,0.544,7,-7.608,0.0302,0.136,0.0,0.192,0.916,Cumbias de Microbusero,0
+Que Te Vaya Bien,Grupo Jalado,0EfZGNw0JHvoCkNfnMDYAU,5IdaVuUzEDF3T56U5vS5ck,0.822,0.705,7,-3.147,0.0373,0.495,1.2e-05,0.115,0.938,Cumbias de Microbusero,0
+Vienes y Te Vas,Los Askis,0EfZGNw0JHvoCkNfnMDYAU,0sVeyTEVECTBiBdx9u7VUj,0.729,0.537,9,-7.604,0.048,0.123,0.0,0.102,0.934,Cumbias de Microbusero,0
+Tus Jefes No Me Quieren,Grupo Ensamble,0EfZGNw0JHvoCkNfnMDYAU,16OHjORdq0UoVilD02ZzXN,0.637,0.547,3,-8.43,0.097,0.174,1.68e-05,0.107,0.963,Cumbias de Microbusero,0
+Rumba Cha Cha,Grupo Kual?,0EfZGNw0JHvoCkNfnMDYAU,5OSUQtHDX5L0bW8MbLFlS7,0.778,0.728,10,-7.321,0.0328,0.00146,6.29e-05,0.102,0.892,Cumbias de Microbusero,0
+La Escandalosa,Bahia Libre,0EfZGNw0JHvoCkNfnMDYAU,6ZFSUckmRIs6U3aeUvb8Ag,0.494,0.723,10,-5.071,0.0397,0.0811,0.00173,0.129,0.873,Cumbias de Microbusero,0
+Me llamo Raquel,Banda Machos,0EfZGNw0JHvoCkNfnMDYAU,6sr4ax5EHAsAxC4jjEaZJ0,0.618,0.744,0,-5.426,0.0583,0.166,0.0,0.234,0.958,Cumbias de Microbusero,0
+Master Of Puppets,Metallica,37i9dQZF1DZ06evO1sJmec,2MuWTIM3b0YEAskbeeFE1i,0.543,0.836,4,-9.11,0.0353,0.000647,0.431,0.153,0.56,This is Metallica,1
+Enter Sandman,Metallica,37i9dQZF1DZ06evO1sJmec,5sICkBXVmaCQk5aISGR3x1,0.577,0.828,6,-8.691,0.0298,0.00213,0.0114,0.0581,0.604,This is Metallica,1
+Whiskey In The Jar,Metallica,37i9dQZF1DZ06evO1sJmec,2R6UrJ8uWbSIiHWmvRQvN8,0.511,0.97,10,-3.72,0.0414,5.6e-06,0.00136,0.18,0.566,This is Metallica,1
+For Whom The Bell Tolls - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,2dXsILW8gzkosqleHAvl0v,0.518,0.858,0,-6.147,0.0672,0.00563,0.00349,0.0598,0.249,This is Metallica,1
+One,Metallica,37i9dQZF1DZ06evO1sJmec,5IX4TbIR5mMHGE4wiWwKW0,0.437,0.695,7,-9.447,0.0617,0.00111,0.0857,0.124,0.413,This is Metallica,1
+Nothing Else Matters,Metallica,37i9dQZF1DZ06evO1sJmec,0nLiqZ6A27jJri2VCalIUs,0.553,0.362,4,-11.218,0.0263,0.0458,6.01e-06,0.075,0.158,This is Metallica,1
+Fuel,Metallica,37i9dQZF1DZ06evO1sJmec,6FUwPb4mGlUDbx42uspXaZ,0.49,0.951,1,-3.777,0.0477,2.02e-05,0.0027,0.0314,0.589,This is Metallica,1
+Fade To Black - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,5nekfiTN45vlxG0eNJQQye,0.256,0.924,7,-6.685,0.113,0.00369,0.234,0.114,0.28,This is Metallica,1
+Seek & Destroy - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,28WmNsclKsrVmdv3tDmoYU,0.445,0.964,9,-5.493,0.282,0.037,0.0132,0.0773,0.448,This is Metallica,1
+The Unforgiven,Metallica,37i9dQZF1DZ06evO1sJmec,4aYLAF6ckQ5ooGGGM7sWAa,0.54,0.584,7,-9.579,0.0254,0.0108,0.00296,0.253,0.244,This is Metallica,1
+The Unforgiven II,Metallica,37i9dQZF1DZ06evO1sJmec,6nswV1Lz3OZkaiCJfmVUOa,0.497,0.89,8,-4.559,0.0445,0.00055,0.00129,0.255,0.249,This is Metallica,1
+Battery,Metallica,37i9dQZF1DZ06evO1sJmec,6UB9mShVLbMm0W4e6vud4C,0.481,0.928,11,-8.799,0.0672,0.00022,0.558,0.106,0.427,This is Metallica,1
+The Day That Never Comes,Metallica,37i9dQZF1DZ06evO1sJmec,13Uvqll8OQDjw3wDweIK9y,0.334,0.982,4,-2.293,0.0619,9.11e-05,0.149,0.106,0.501,This is Metallica,1
+Sad But True,Metallica,37i9dQZF1DZ06evO1sJmec,1PhLYngBKbeDtdmDzCg3Pb,0.633,0.846,7,-6.347,0.0337,0.000819,0.00139,0.0762,0.448,This is Metallica,1
+Turn The Page,Metallica,37i9dQZF1DZ06evO1sJmec,1aXFBWnnPFRKUN7vuIA5h0,0.426,0.813,8,-3.963,0.0318,1.94e-05,0.022,0.0937,0.228,This is Metallica,1
+Hardwired,Metallica,37i9dQZF1DZ06evO1sJmec,0QV3swr7L8MZr72lL2izV1,0.128,0.991,11,-3.289,0.0582,1.11e-05,0.00362,0.219,0.53,This is Metallica,1
+Whiplash - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,38fIaph07Kd8ZIN6l17ZJs,0.384,0.916,4,-6.468,0.0983,0.000611,0.422,0.14,0.192,This is Metallica,1
+Wherever I May Roam,Metallica,37i9dQZF1DZ06evO1sJmec,22GbAGb80ZZNgm2yrBMnpR,0.55,0.824,9,-7.848,0.0347,0.000362,0.00115,0.0865,0.332,This is Metallica,1
+The Memory Remains,Metallica,37i9dQZF1DZ06evO1sJmec,6RbC38oDCIXD8V2AOU1Tjr,0.435,0.901,10,-3.694,0.0429,0.000303,0.0072,0.185,0.547,This is Metallica,1
+St. Anger,Metallica,37i9dQZF1DZ06evO1sJmec,5JAnXx5BBES4FEf4d4t4CC,0.396,0.947,2,-2.652,0.0477,0.00115,0.0179,0.089,0.443,This is Metallica,1
+Ride The Lightning (Remastered),Metallica,37i9dQZF1DZ06evO1sJmec,36DLF96pjKydN0MZtsahQz,0.265,0.973,9,-6.129,0.173,5.15e-05,0.0942,0.205,0.27,This is Metallica,1
+Until It Sleeps,Metallica,37i9dQZF1DZ06evO1sJmec,2Iv4HSoMX2fDeXFcOJWyWX,0.568,0.92,8,-4.434,0.0297,0.000248,0.0714,0.149,0.719,This is Metallica,1
+Fight Fire With Fire - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,6ckozbGmOusAnLT2LEbERy,0.283,0.988,0,-7.017,0.111,3.75e-05,0.728,0.0712,0.133,This is Metallica,1
+The Four Horsemen - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,2YTwVDQOSGclX2N3AKetOP,0.224,0.938,0,-6.907,0.408,0.00157,0.0765,0.106,0.327,This is Metallica,1
+All Nightmare Long,Metallica,37i9dQZF1DZ06evO1sJmec,3e7wv9TChjWrnXHrk5NyBU,0.268,0.974,9,-2.948,0.114,0.00067,0.00106,0.0772,0.342,This is Metallica,1
+Mama Said,Metallica,37i9dQZF1DZ06evO1sJmec,3dWNUqrgkQakv9fj5epwPK,0.448,0.504,8,-7.749,0.0317,0.0171,0.000849,0.38,0.391,This is Metallica,1
+Welcome Home (Sanitarium) - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,1FPSkRkDlthbAceSIIWc4C,0.306,0.766,0,-9.693,0.0329,0.000324,0.101,0.102,0.42,This is Metallica,1
+"Die, Die My Darling",Metallica,37i9dQZF1DZ06evO1sJmec,0t7LcUic4qolMCysPrKeAd,0.438,0.976,10,-2.757,0.0576,0.000369,0.0,0.194,0.791,This is Metallica,1
+The Unforgiven III,Metallica,37i9dQZF1DZ06evO1sJmec,0qbV4e18lWrTTxlswVoLbI,0.297,0.692,4,-5.625,0.0344,0.00196,3.75e-06,0.115,0.103,This is Metallica,1
+Don't Tread On Me,Metallica,37i9dQZF1DZ06evO1sJmec,2b7r6fN91KiHnp00aqHZ7x,0.677,0.835,4,-7.627,0.0411,0.00546,0.00538,0.297,0.689,This is Metallica,1
+Creeping Death (Remastered),Metallica,37i9dQZF1DZ06evO1sJmec,4q9QVIaLqjbcoqeCfM2zan,0.31,0.977,6,-5.478,0.164,0.000219,0.273,0.0785,0.179,This is Metallica,1
+Blackened,Metallica,37i9dQZF1DZ06evO1sJmec,0Tp7uSZK21LZTbZRBNb9ud,0.445,0.802,4,-8.965,0.123,6.22e-05,0.00202,0.112,0.499,This is Metallica,1
+King Nothing,Metallica,37i9dQZF1DZ06evO1sJmec,30RKGpKHqr7ytcTljw436k,0.527,0.907,8,-5.772,0.0377,8.39e-05,0.00755,0.0891,0.364,This is Metallica,1
+I Disappear,Metallica,37i9dQZF1DZ06evO1sJmec,46tSt69Xw10Ej8Rn7wJmFt,0.536,0.928,1,-3.64,0.0498,0.000213,6.56e-05,0.0411,0.46,This is Metallica,1
+The Thing That Should Not Be,Metallica,37i9dQZF1DZ06evO1sJmec,7vFC68CBMKu99p4tIz6yzx,0.679,0.719,9,-10.134,0.032,0.000116,0.354,0.128,0.445,This is Metallica,1
+Harvester Of Sorrow,Metallica,37i9dQZF1DZ06evO1sJmec,1V3wAgMB4ESaN4rStlrUNz,0.658,0.842,4,-8.851,0.0397,0.000207,0.0771,0.316,0.643,This is Metallica,1
+Orion - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,3z9e5b0P7zoIeV6I3iyX8O,0.365,0.67,9,-10.014,0.0386,0.00142,0.892,0.111,0.4,This is Metallica,1
+Tuesday's Gone,Metallica,37i9dQZF1DZ06evO1sJmec,1OX2eJLfU0SHLzcy9sv9Vj,0.457,0.594,8,-5.722,0.028,0.0116,5.11e-06,0.691,0.33,This is Metallica,1
+Leper Messiah,Metallica,37i9dQZF1DZ06evO1sJmec,6XN00D9ejjEt1cW1sY44Gu,0.379,0.808,4,-8.605,0.0684,5.23e-05,0.794,0.322,0.557,This is Metallica,1
+...And Justice For All,Metallica,37i9dQZF1DZ06evO1sJmec,0eXz8pS25MoeUguNPR9VvD,0.547,0.799,9,-7.47,0.128,0.000105,0.0955,0.0612,0.409,This is Metallica,1
+No Leaf Clover - Live,Metallica,37i9dQZF1DZ06evO1sJmec,2UIuYNBg8r5pkoG2MjdLZT,0.246,0.95,3,-5.034,0.107,0.000598,0.00166,0.959,0.359,This is Metallica,1
+Moth Into Flame,Metallica,37i9dQZF1DZ06evO1sJmec,3JjZq20Kv6UphyyirAaY9A,0.163,0.977,4,-3.585,0.0591,3.64e-05,0.0052,0.0555,0.369,This is Metallica,1
+Disposable Heroes,Metallica,37i9dQZF1DZ06evO1sJmec,4tPHBRIPsB55nssjvKDbjj,0.292,0.931,4,-7.618,0.0919,4.27e-05,0.468,0.0901,0.427,This is Metallica,1
+Motorbreath - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,6RqEJvpEzzlwj8g0wKG1ln,0.289,0.934,1,-6.085,0.157,0.000121,0.0515,0.086,0.347,This is Metallica,1
+Trapped Under Ice - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,3J8jTThxk8GtxyoupHtyrb,0.252,0.988,9,-5.291,0.203,8.81e-05,0.0451,0.0516,0.0529,This is Metallica,1
+Hit The Lights - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,2620eph8P9p5FQ1oQWcWuk,0.264,0.97,4,-5.526,0.205,4.79e-05,0.187,0.12,0.278,This is Metallica,1
+"Damage, Inc.",Metallica,37i9dQZF1DZ06evO1sJmec,3n7b078PcVbHhUaYhBWIgZ,0.326,0.848,11,-10.567,0.167,0.000467,0.466,0.134,0.143,This is Metallica,1
+Jump In The Fire - Remastered,Metallica,37i9dQZF1DZ06evO1sJmec,4fVBFyglBhMf0erfF7pBJp,0.29,0.908,5,-5.677,0.106,0.00606,0.0118,0.33,0.659,This is Metallica,1
+Eye Of The Beholder,Metallica,37i9dQZF1DZ06evO1sJmec,7p2yIOf8YXJUSmUnG3TAWr,0.65,0.798,2,-9.242,0.0434,0.00206,0.00306,0.0988,0.584,This is Metallica,1
+Devil's Dance,Metallica,37i9dQZF1DZ06evO1sJmec,3IHyDrQOASm7R0WBamMJO8,0.611,0.792,0,-4.836,0.0327,4.04e-05,0.146,0.0587,0.477,This is Metallica,1
+Deutschland,Rammstein,37i9dQZF1DZ06evO3RbzfW,2bPGTMB5sFfFYQ2YvSmup0,0.521,0.895,7,-5.242,0.0442,5.54e-05,0.349,0.0985,0.237,This is Rammstein,1
+Dicke Titten,Rammstein,37i9dQZF1DZ06evO3RbzfW,5KTBaWu8IOczQ0sPWzZ7MY,0.63,0.823,6,-4.857,0.0496,0.0205,0.00458,0.0377,0.565,This is Rammstein,1
+Du hast,Rammstein,37i9dQZF1DZ06evO3RbzfW,5awDvzxWfd53SSrsRZ8pXO,0.64,0.922,9,-6.283,0.0385,0.00369,0.055,0.332,0.716,This is Rammstein,1
+Sonne,Rammstein,37i9dQZF1DZ06evO3RbzfW,3gVhsZtseYtY1fMuyYq06F,0.51,0.917,4,-4.806,0.0854,0.0054,0.000133,0.396,0.313,This is Rammstein,1
+Ausländer,Rammstein,37i9dQZF1DZ06evO3RbzfW,7j43FohbLVulScL7S9sQZk,0.681,0.912,0,-4.159,0.0912,0.000757,0.00136,0.359,0.479,This is Rammstein,1
+Armee der Tristen,Rammstein,37i9dQZF1DZ06evO3RbzfW,514GW1c9Jn21KgZmO6mZIE,0.447,0.901,2,-5.397,0.0491,0.000415,0.000103,0.225,0.334,This is Rammstein,1
+Engel,Rammstein,37i9dQZF1DZ06evO3RbzfW,0xrkyEMkG4dVa5OMLQZOX8,0.637,0.658,2,-5.775,0.0291,0.00918,0.00229,0.295,0.328,This is Rammstein,1
+Ich will,Rammstein,37i9dQZF1DZ06evO3RbzfW,3X0K6fII7VIwL1URPrp8Ko,0.648,0.896,2,-4.254,0.041,0.00138,0.000819,0.0879,0.468,This is Rammstein,1
+Radio,Rammstein,37i9dQZF1DZ06evO3RbzfW,5vZ4IeUenK2cHub2d7yfWk,0.652,0.894,0,-5.145,0.0409,0.00404,0.00381,0.124,0.76,This is Rammstein,1
+Angst,Rammstein,37i9dQZF1DZ06evO3RbzfW,0UuNO0yYvsMPlyLF7RfQlg,0.639,0.86,11,-4.27,0.069,0.000306,0.00549,0.0507,0.328,This is Rammstein,1
+Amerika,Rammstein,37i9dQZF1DZ06evO3RbzfW,1a8JpAL3vbAdXYrEABvOtb,0.608,0.885,2,-4.296,0.0963,0.00258,1.33e-05,0.392,0.518,This is Rammstein,1
+Feuer frei!,Rammstein,37i9dQZF1DZ06evO3RbzfW,5aNH8inF5BsbThDeOLs7zs,0.491,0.966,3,-3.974,0.0463,9.12e-05,0.346,0.153,0.223,This is Rammstein,1
+Zeig dich,Rammstein,37i9dQZF1DZ06evO3RbzfW,3d3k8g4GTVx9EFIFlOZOEX,0.545,0.942,0,-4.283,0.0417,0.00108,0.0246,0.0585,0.365,This is Rammstein,1
+Zick Zack,Rammstein,37i9dQZF1DZ06evO3RbzfW,2w7Ca8DNYXBCgA6Bht7o0N,0.669,0.814,5,-5.375,0.0681,0.00118,0.00131,0.0737,0.398,This is Rammstein,1
+Du riechst so gut,Rammstein,37i9dQZF1DZ06evO3RbzfW,4yUcHLkHUwAPpKN0Uvdo8I,0.676,0.747,3,-7.732,0.0308,0.000111,0.203,0.356,0.797,This is Rammstein,1
+Mein Herz brennt,Rammstein,37i9dQZF1DZ06evO3RbzfW,5ArNGisLzrNOIVwWajRRdt,0.501,0.76,2,-5.802,0.0343,0.00268,0.0616,0.152,0.138,This is Rammstein,1
+Puppe,Rammstein,37i9dQZF1DZ06evO3RbzfW,2iFgHPoa7FNHwgLnjXzu7F,0.581,0.822,11,-7.341,0.0574,0.0229,0.0,0.126,0.3,This is Rammstein,1
+Zeit,Rammstein,37i9dQZF1DZ06evO3RbzfW,2KsHzM4L7ThhNJB6MHXkPx,0.55,0.569,7,-7.683,0.0462,0.132,1.47e-05,0.174,0.0518,This is Rammstein,1
+Asche zu Asche,Rammstein,37i9dQZF1DZ06evO3RbzfW,407eqFGqQc40KPf43YrQ44,0.563,0.906,9,-7.503,0.0734,0.00164,0.0179,0.0722,0.71,This is Rammstein,1
+Links 2 3 4,Rammstein,37i9dQZF1DZ06evO3RbzfW,52XYwQKlXp7scE7KrBBCID,0.624,0.904,4,-4.774,0.0479,0.00112,0.0231,0.604,0.649,This is Rammstein,1
+Was ich liebe,Rammstein,37i9dQZF1DZ06evO3RbzfW,4anzVbFPUuZTw0KQeZ0qnu,0.571,0.665,2,-4.953,0.044,0.001,0.0621,0.0874,0.582,This is Rammstein,1
+Giftig,Rammstein,37i9dQZF1DZ06evO3RbzfW,3Ye7vnZdrO2Gq5IyyH3cOp,0.608,0.845,2,-4.463,0.0522,0.0031,0.000133,0.0904,0.508,This is Rammstein,1
+Mein Teil,Rammstein,37i9dQZF1DZ06evO3RbzfW,39RKlCfLoqb8o2aXfpVfjW,0.47,0.959,10,-4.338,0.075,0.00535,0.0101,0.141,0.199,This is Rammstein,1
+Rammstein,Rammstein,37i9dQZF1DZ06evO3RbzfW,0Zfh4uDmJz3D44Qy9nYMqu,0.657,0.708,11,-7.69,0.0564,0.00155,0.763,0.215,0.201,This is Rammstein,1
+Mutter,Rammstein,37i9dQZF1DZ06evO3RbzfW,7jfZybgHr6yzp4iuMS2K8u,0.491,0.616,4,-6.53,0.0349,0.0152,0.00045,0.125,0.0824,This is Rammstein,1
+Ich tu dir weh,Rammstein,37i9dQZF1DZ06evO3RbzfW,7ritPWOWvsthxFDxOz1OjH,0.295,0.878,2,-5.034,0.0541,0.00112,0.191,0.113,0.295,This is Rammstein,1
+Ohne dich,Rammstein,37i9dQZF1DZ06evO3RbzfW,4aFC7Mes7CW5vHcb8ZApAx,0.424,0.59,2,-5.531,0.0294,0.00389,0.000432,0.114,0.204,This is Rammstein,1
+Rosenrot,Rammstein,37i9dQZF1DZ06evO3RbzfW,50LmbBKCBeDRKYvpR7ApjG,0.591,0.629,8,-5.584,0.0273,0.00144,0.431,0.0705,0.183,This is Rammstein,1
+Wollt ihr das Bett in Flammen sehen,Rammstein,37i9dQZF1DZ06evO3RbzfW,2MC5MLUdhrVUWGHUFHvaLF,0.673,0.766,2,-7.342,0.0394,2.37e-05,0.673,0.699,0.641,This is Rammstein,1
+Waidmanns Heil,Rammstein,37i9dQZF1DZ06evO3RbzfW,2qiNfSncVqWp4Do6D4a3Le,0.578,0.969,9,-3.894,0.0317,0.00113,0.0234,0.0579,0.684,This is Rammstein,1
+Keine Lust,Rammstein,37i9dQZF1DZ06evO3RbzfW,7eeDeUM9E7b0vkDfRz20Zt,0.534,0.892,5,-4.877,0.0537,0.000256,0.0137,0.232,0.28,This is Rammstein,1
+Sehnsucht,Rammstein,37i9dQZF1DZ06evO3RbzfW,3oWFQPp5lL5x907hCcCRa9,0.6,0.954,11,-5.463,0.0555,0.0086,0.624,0.0775,0.665,This is Rammstein,1
+Heirate mich,Rammstein,37i9dQZF1DZ06evO3RbzfW,33LTCp3HM36k7KuB7M3IHd,0.651,0.867,6,-7.88,0.103,0.000857,0.000297,0.202,0.479,This is Rammstein,1
+Haifisch,Rammstein,37i9dQZF1DZ06evO3RbzfW,5392GpKmAP3UvIAfHC8LAW,0.627,0.842,9,-4.215,0.0375,0.000832,0.898,0.115,0.309,This is Rammstein,1
+"Reise, Reise",Rammstein,37i9dQZF1DZ06evO3RbzfW,6bvTzuFABmFnAAmVZ3nlMh,0.475,0.816,6,-5.502,0.0644,0.0027,0.366,0.332,0.248,This is Rammstein,1
+Mein Land,Rammstein,37i9dQZF1DZ06evO3RbzfW,1Cssm6TMieYSFz8gQyPzxa,0.378,0.905,8,-5.025,0.0351,0.000108,0.12,0.223,0.356,This is Rammstein,1
+Halleluja,Rammstein,37i9dQZF1DZ06evO3RbzfW,5lGk2d6vYXSv5RiLMHLsCZ,0.575,0.846,9,-5.559,0.0324,8.98e-05,0.0991,0.104,0.357,This is Rammstein,1
+Pussy,Rammstein,37i9dQZF1DZ06evO3RbzfW,50AB24h51HlBrp6PqOg50k,0.573,0.773,7,-4.629,0.0442,0.00158,0.0957,0.0734,0.541,This is Rammstein,1
+Moskau,Rammstein,37i9dQZF1DZ06evO3RbzfW,4L9UGREMQBfYLmGwlACgTV,0.493,0.963,11,-3.41,0.0638,2.25e-05,0.667,0.305,0.305,This is Rammstein,1
+Benzin,Rammstein,37i9dQZF1DZ06evO3RbzfW,1XanLfYUUBB6bLbnSh1KyU,0.527,0.947,4,-4.205,0.0574,0.000393,0.00372,0.075,0.206,This is Rammstein,1
+Weisses Fleisch,Rammstein,37i9dQZF1DZ06evO3RbzfW,3c02RAbOojbCSXQebk6Sf1,0.603,0.75,10,-9.282,0.0378,9.4e-06,0.0839,0.0667,0.611,This is Rammstein,1
+Bück dich,Rammstein,37i9dQZF1DZ06evO3RbzfW,0HSVba6oa1QdUkco67C3e3,0.693,0.979,9,-5.101,0.0913,0.00655,0.291,0.0265,0.653,This is Rammstein,1
+Rammlied,Rammstein,37i9dQZF1DZ06evO3RbzfW,1jBL8PB3CqDYjR0luCpX00,0.507,0.944,0,-4.35,0.0577,0.000486,0.521,0.0733,0.0689,This is Rammstein,1
+Mann gegen Mann,Rammstein,37i9dQZF1DZ06evO3RbzfW,0GxIAMtKFYTQZpR1avO6HB,0.448,0.878,8,-5.288,0.0727,0.000703,0.193,0.063,0.579,This is Rammstein,1
+Tier,Rammstein,37i9dQZF1DZ06evO3RbzfW,0S2UfCA5A275xChEi9a6vU,0.591,0.942,7,-4.975,0.0576,0.00429,0.0558,0.18,0.456,This is Rammstein,1
+Te quiero puta!,Rammstein,37i9dQZF1DZ06evO3RbzfW,0KwqP13BnZMIycfxnqWtK1,0.496,0.934,5,-5.305,0.145,7.84e-05,0.344,0.115,0.268,This is Rammstein,1
+Cintura Pa' Abajo,Ghetto Kids,6L3dKN1gZU74cStCIgA0yS,0n8h8oHqIib4KnX5PSkJjb,0.738,0.892,9,-2.254,0.101,0.225,0.000509,0.0837,0.945,Perreo para barrer el piso con la cola,0
+No Me Conoce - Remix,Jhay Cortez,6L3dKN1gZU74cStCIgA0yS,7rknFhrVDyxzTJkPSf7LoW,0.794,0.79,10,-3.855,0.0599,0.144,0.0,0.0893,0.577,Perreo para barrer el piso con la cola,0
+Rikala,Ramses,6L3dKN1gZU74cStCIgA0yS,7aoCgZ7Kyi0TT2brQkvuve,0.826,0.671,9,-6.262,0.118,0.205,1.46e-06,0.17,0.769,Perreo para barrer el piso con la cola,0
+Mexicana (feat. El Malilla),Ghetto Kids,6L3dKN1gZU74cStCIgA0yS,73APnBn08CSe4ygy3L3Be8,0.87,0.863,1,-3.302,0.213,0.455,0.0,0.242,0.813,Perreo para barrer el piso con la cola,0
+Pa Perrear,LOOJAN,6L3dKN1gZU74cStCIgA0yS,6CRAqSjXP06jy67jdLrTyp,0.679,0.905,8,-4.082,0.185,0.26,0.00119,0.26,0.85,Perreo para barrer el piso con la cola,0
+Guatauba,Plan B,6L3dKN1gZU74cStCIgA0yS,49BRJ7mvUjmT7zYYq64Z2d,0.805,0.745,4,-5.963,0.224,0.00849,0.000942,0.0378,0.638,Perreo para barrer el piso con la cola,0
+Rompelo,DJ Pedro Fuentes,6L3dKN1gZU74cStCIgA0yS,6k2evQXcf7n9Lbc7V5XkOX,0.891,0.815,7,-6.326,0.116,0.0328,4.44e-06,0.293,0.838,Perreo para barrer el piso con la cola,0
+En Secreto,Kid Moonsta,6L3dKN1gZU74cStCIgA0yS,6h68rqoCAABbJYPYSYqtQO,0.681,0.788,8,-5.342,0.191,0.398,0.000126,0.0876,0.66,Perreo para barrer el piso con la cola,0
+Quédate Más,Malahia,6L3dKN1gZU74cStCIgA0yS,3nEQoBZWPa15jExx9mSdwZ,0.68,0.702,4,-4.137,0.115,0.165,2.16e-05,0.332,0.451,Perreo para barrer el piso con la cola,0
+Agárrala - Remix,Trebol Clan,6L3dKN1gZU74cStCIgA0yS,43yyvWNjl3yWpghcrxZYkr,0.731,0.741,9,-7.978,0.0418,0.0812,0.0245,0.0993,0.862,Perreo para barrer el piso con la cola,0
+Karma,Malahia,6L3dKN1gZU74cStCIgA0yS,73yH2VloOqWMa2nOEAOZJS,0.636,0.642,2,-6.153,0.33,0.498,0.0337,0.204,0.616,Perreo para barrer el piso con la cola,0
+Sacudelo,Mad Fuentes,6L3dKN1gZU74cStCIgA0yS,3EJ3sfAUTiZoyU8Vu0J05j,0.886,0.876,8,-3.304,0.148,0.0643,0.0003,0.261,0.884,Perreo para barrer el piso con la cola,0
+Pa Mentir Soy una Especialista,Malahia,6L3dKN1gZU74cStCIgA0yS,2QbVrj3DYS7TwBhHQp4bJi,0.697,0.817,0,-4.284,0.0766,0.5,0.0,0.32,0.782,Perreo para barrer el piso con la cola,0
+Maripilili,Bayron Fire,6L3dKN1gZU74cStCIgA0yS,49yDQnnHEJWRscoRYQrroF,0.943,0.785,1,-2.856,0.093,0.574,0.0,0.552,0.727,Perreo para barrer el piso con la cola,0
+Estrella de cine,LOW D,6L3dKN1gZU74cStCIgA0yS,6hbt4GiS6IhrYMPRXUNe9n,0.669,0.754,8,-3.326,0.117,0.563,0.0,0.107,0.555,Perreo para barrer el piso con la cola,0
+Bon Appetit,Ziklo,6L3dKN1gZU74cStCIgA0yS,6QQUBksnxXfbhdei3biVK8,0.753,0.784,1,-5.806,0.0419,0.154,0.0,0.14,0.404,Perreo para barrer el piso con la cola,0
+Lluvia De Micheladas,Bellakath,6L3dKN1gZU74cStCIgA0yS,1YAqv5QidJkRcwZo1FV6s1,0.809,0.722,0,-4.248,0.234,0.179,0.0,0.256,0.659,Perreo para barrer el piso con la cola,0
+West Love,Easy Mo,6L3dKN1gZU74cStCIgA0yS,74d3UeGaXLnkDl572Sonn6,0.644,0.816,11,-3.154,0.0566,0.44,0.0,0.0763,0.637,Perreo para barrer el piso con la cola,0
+Tu Haces,Cindy & Mei,6L3dKN1gZU74cStCIgA0yS,6299HOxKzxhku9TDODRSk3,0.856,0.558,1,-7.464,0.182,0.0071,0.0,0.0746,0.504,Perreo para barrer el piso con la cola,0
+Desnudate,Big Metra,6L3dKN1gZU74cStCIgA0yS,4BXXTruUHBXHQoSbvTDQR4,0.935,0.754,0,-6.117,0.122,0.0126,4.18e-06,0.0933,0.824,Perreo para barrer el piso con la cola,0
+Cochinae,Julianno Sosa,6L3dKN1gZU74cStCIgA0yS,01EzG8Qg7oQqYMTNV5YkOW,0.855,0.72,6,-7.953,0.0516,0.0626,0.0187,0.268,0.948,Perreo para barrer el piso con la cola,0
+Soltero,Jamsha,6L3dKN1gZU74cStCIgA0yS,64oTW6tbhpS4c3p2sUwWeC,0.874,0.779,0,-5.697,0.0837,0.00257,1.76e-06,0.0672,0.85,Perreo para barrer el piso con la cola,0
+Drama,Kid Moonsta,6L3dKN1gZU74cStCIgA0yS,6bjQPEM9iLu5Sw3FNcXblM,0.727,0.654,8,-7.425,0.124,0.23,0.000564,0.324,0.355,Perreo para barrer el piso con la cola,0
+Bailoteo,Arian El Especialista,6L3dKN1gZU74cStCIgA0yS,4SVcyLSUkXwUBpnHYCfM9v,0.631,0.629,4,-6.169,0.043,0.0795,0.0,0.181,0.439,Perreo para barrer el piso con la cola,0
+La Gata de la Agricola Oriental - Remastered,DJ Bull Blood,6L3dKN1gZU74cStCIgA0yS,6e5f1CjmA2tdIXCBPljlk9,0.736,0.899,4,-6.198,0.13,0.00155,3.13e-05,0.382,0.592,Perreo para barrer el piso con la cola,0
+Fantasías,Arian El Especialista,6L3dKN1gZU74cStCIgA0yS,6yEtTHMpImrLPmP9UgItLE,0.652,0.713,11,-5.877,0.249,0.161,3.6e-06,0.207,0.67,Perreo para barrer el piso con la cola,0
+Dioza,LOOJAN,6L3dKN1gZU74cStCIgA0yS,5Wll8fBMWCf3jeqFg0zmeR,0.754,0.901,5,-2.376,0.0562,0.275,0.0,0.357,0.828,Perreo para barrer el piso con la cola,0
+Frambuesa,Kelo wt,6L3dKN1gZU74cStCIgA0yS,6yzeMjMPEbUrCLGDGYaJxz,0.881,0.53,7,-10.07,0.124,0.628,0.000168,0.119,0.35,Perreo para barrer el piso con la cola,0
+Intro Teléfono Perreo Rkt - feat. Mister Remix,Luciano DJ,6L3dKN1gZU74cStCIgA0yS,6wGH5DubI46XGN7JoSUOZ6,0.879,0.727,6,-5.978,0.115,0.0558,4.21e-06,0.0687,0.294,Perreo para barrer el piso con la cola,0
+Mai Grita,Dj Joe,6L3dKN1gZU74cStCIgA0yS,2Rrt4t4Byalm259Ea88Q6G,0.875,0.813,4,-5.221,0.154,0.247,0.0,0.291,0.96,Perreo para barrer el piso con la cola,0
+Buyaka Rkt,Kid Moonsta,6L3dKN1gZU74cStCIgA0yS,5pVC6LKhC6xrQz4yEYfoid,0.592,0.612,3,-5.736,0.152,0.239,0.0,0.388,0.598,Perreo para barrer el piso con la cola,0
+Como Mi Nena No Hay (feat. Master Joe y O.G. Black),Sir Speedy,6L3dKN1gZU74cStCIgA0yS,733FRL9y0I7Pm1QZBeMm6X,0.751,0.83,6,-6.016,0.138,0.00782,1.55e-05,0.912,0.733,Perreo para barrer el piso con la cola,0
+Tra Tra Tra Remix - Remix,Ghetto Kids,6L3dKN1gZU74cStCIgA0yS,4YqCBC4FwzGXuhixt5cgmm,0.847,0.736,1,-4.542,0.266,0.0532,0.000142,0.0302,0.876,Perreo para barrer el piso con la cola,0
+Low Battery,Jay Morales,6L3dKN1gZU74cStCIgA0yS,6nzuq3Rils7W7l2aWtJAVe,0.795,0.604,6,-4.611,0.129,0.0456,0.000253,0.0918,0.548,Perreo para barrer el piso con la cola,0
+Frikitona,Plan B,6L3dKN1gZU74cStCIgA0yS,5JDjxO6F0RrLkzAdIOG6P3,0.947,0.874,2,-3.813,0.176,0.316,0.0,0.372,0.835,Perreo para barrer el piso con la cola,0
+A Ella Le Encanta,Jay Morales,6L3dKN1gZU74cStCIgA0yS,5AM76aZjHadbNNh4RA7lG4,0.835,0.883,4,-1.193,0.058,0.0926,0.000637,0.107,0.86,Perreo para barrer el piso con la cola,0
+Chulo Sin H (feat. De la Ghetto),Jowell & Randy,6L3dKN1gZU74cStCIgA0yS,612Koiy5VTKIzNy5hNpZfl,0.734,0.884,5,-5.232,0.289,0.0626,0.0,0.31,0.848,Perreo para barrer el piso con la cola,0
+El Funeral De La Canoa,Jowell & Randy,6L3dKN1gZU74cStCIgA0yS,6nEyuINu7igqa8lGITAUPk,0.882,0.893,7,-1.31,0.106,0.158,5.76e-05,0.0876,0.656,Perreo para barrer el piso con la cola,0
+Tu Sicaria,Ms Nina,6L3dKN1gZU74cStCIgA0yS,6fatMybX8VmHUpaxVcXzrz,0.752,0.905,0,-7.072,0.0515,0.0527,0.000242,0.173,0.689,Perreo para barrer el piso con la cola,0
+Le Encanta,Alu Mix,6L3dKN1gZU74cStCIgA0yS,2cX3Om7xlCQxKRYo1ofvOM,0.786,0.715,6,-6.802,0.0738,0.115,8.59e-05,0.382,0.688,Perreo para barrer el piso con la cola,0
+Harta Demencia,DJ Marley Mendieta,6L3dKN1gZU74cStCIgA0yS,471StZvf1vlobb5RZrdNQL,0.873,0.778,0,-5.228,0.0947,0.102,0.00963,0.0274,0.677,Perreo para barrer el piso con la cola,0
+Tu Pones la Hora y Yo Le Caigo,DJ Cobra Monterrey,6L3dKN1gZU74cStCIgA0yS,4AJzH1HTwBcfxTH5F2hO4g,0.856,0.787,6,-4.066,0.0938,0.1,0.00129,0.296,0.797,Perreo para barrer el piso con la cola,0
+Perreo Católico 1 (Abemus),DJ Liendro,6L3dKN1gZU74cStCIgA0yS,4AIHu0D1oHlq99eRYYAfWM,0.851,0.785,10,-3.387,0.144,0.115,0.0102,0.164,0.333,Perreo para barrer el piso con la cola,0
+En 20 Uñas (feat. Don Chezina),Jamsha,6L3dKN1gZU74cStCIgA0yS,0J8u0TbIYsn2Ezm6AMc4r6,0.828,0.875,0,-3.805,0.0965,0.0409,0.00773,0.252,0.926,Perreo para barrer el piso con la cola,0
+El Goloso,RD Maravilla,6L3dKN1gZU74cStCIgA0yS,68QtlyBrzD98s4phcL1fx2,0.846,0.918,10,-4.547,0.147,0.0601,0.00294,0.363,0.561,Perreo para barrer el piso con la cola,0
+Todavia,La Factoria,6L3dKN1gZU74cStCIgA0yS,5wPhERt9izm1T45aFXDWPe,0.785,0.901,7,-3.205,0.0553,0.0867,0.000271,0.0903,0.6,Perreo para barrer el piso con la cola,0
+Contacto en Cuarto,Stiv,6L3dKN1gZU74cStCIgA0yS,3Dn5aGC1wsVF71EecAh2Su,0.89,0.661,1,-6.392,0.155,0.045,0.000417,0.0676,0.665,Perreo para barrer el piso con la cola,0
+Lola,El Predicador,6L3dKN1gZU74cStCIgA0yS,0ZQEvvPjwHeASV8reFI1At,0.799,0.83,10,-4.185,0.0673,0.31,0.0,0.273,0.971,Perreo para barrer el piso con la cola,0
+Guatauba - Remastered,DJ Bull Blood,6L3dKN1gZU74cStCIgA0yS,7EgzelA4pKViZdaWfY7Zjf,0.811,0.77,2,-7.338,0.0824,0.0049,0.0356,0.23,0.572,Perreo para barrer el piso con la cola,0
+Te Lo Tiro Pa' Que Baile - Remastered,DJ Bull Blood,6L3dKN1gZU74cStCIgA0yS,0B7HZFCE7IQT9yRYuHFDPk,0.724,0.904,4,-6.416,0.0922,0.0108,0.000237,0.171,0.964,Perreo para barrer el piso con la cola,0
+Chica Ven Pa' Aca,Plan B,6L3dKN1gZU74cStCIgA0yS,5mmh6YyxJeS34vAe4M447R,0.837,0.725,1,-3.908,0.044,0.014,0.00176,0.177,0.486,Perreo para barrer el piso con la cola,0
+La Vecinita,Vico C,6L3dKN1gZU74cStCIgA0yS,0dUkdZ8oXfdDhSFGJOQz5v,0.928,0.644,11,-5.943,0.261,0.0812,0.0,0.0629,0.852,Perreo para barrer el piso con la cola,0
+Vamo a Busal,Jowell & Randy,6L3dKN1gZU74cStCIgA0yS,7Ilr05RcpAJHeT489zG0fS,0.626,0.865,2,-3.325,0.162,0.015,0.0,0.309,0.695,Perreo para barrer el piso con la cola,0
+Fin de Semana,Stiv,6L3dKN1gZU74cStCIgA0yS,6DLw8XuzlhReXiM2ZUI7m7,0.887,0.673,0,-5.735,0.232,0.162,0.0,0.0867,0.887,Perreo para barrer el piso con la cola,0
+Te Ves Buena,El General,6L3dKN1gZU74cStCIgA0yS,56vD8HM5H08hknJtMcNHOP,0.808,0.869,7,-6.971,0.0509,0.305,0.0,0.0983,0.848,Perreo para barrer el piso con la cola,0
+Papi Shampu,Papichamp,6L3dKN1gZU74cStCIgA0yS,4xFRr6JeXB0hS6XkEAvnkF,0.629,0.763,7,-5.572,0.0926,0.0831,0.00388,0.0455,0.886,Perreo para barrer el piso con la cola,0
+Hasta Abajo,Kid Moonsta,6L3dKN1gZU74cStCIgA0yS,0AKg6A1hWvC45JGw1DgHsH,0.562,0.935,2,-1.048,0.0656,0.163,0.681,0.0679,0.339,Perreo para barrer el piso con la cola,0
+Suena Perreo,Uzielito Mix,6L3dKN1gZU74cStCIgA0yS,5DizCtWxvshIngUI3SqQ86,0.749,0.843,3,-4.333,0.0318,0.0236,0.0,0.0544,0.702,Perreo para barrer el piso con la cola,0
+Ay Pablito Qué Rico! (feat. Mawe),Pablito Mix,6L3dKN1gZU74cStCIgA0yS,6v7445IeNm2rwJIeEoIGz1,0.81,0.551,11,-5.931,0.079,0.208,0.000786,0.0445,0.962,Perreo para barrer el piso con la cola,0
+Ella Fuma,Plan B,6L3dKN1gZU74cStCIgA0yS,4IYxcqhcFFJ025qfWJeulF,0.8,0.729,9,-2.897,0.144,0.101,0.0,0.316,0.836,Perreo para barrer el piso con la cola,0
+Cumbia,Mad Fuentes,6L3dKN1gZU74cStCIgA0yS,3daqXXD6WTk3dZJQRbOjRY,0.904,0.51,5,-8.802,0.31,0.069,0.0,0.133,0.876,Perreo para barrer el piso con la cola,0
+Estamos En On,Oscarr G,6L3dKN1gZU74cStCIgA0yS,6MS9NdLonjMrxmvy9szvgE,0.726,0.644,2,-7.479,0.139,0.651,5.73e-06,0.221,0.871,Perreo para barrer el piso con la cola,0
+Ella Me Levanto,Daddy Yankee,6L3dKN1gZU74cStCIgA0yS,3AZXqe3LGCFD4r6YFJgaK3,0.76,0.899,5,-4.744,0.0677,0.0743,0.0,0.212,0.767,Perreo para barrer el piso con la cola,0
+La Chinita de los Ojos Cafés,Golpe a Golpe,6L3dKN1gZU74cStCIgA0yS,6SxDyZv0icnCfTS9WBaa4j,0.88,0.74,9,-3.833,0.244,0.0966,0.0,0.158,0.858,Perreo para barrer el piso con la cola,0
+Los Angeles,Ms Nina,6L3dKN1gZU74cStCIgA0yS,2navl1YHbuMoteIz3NVRVs,0.78,0.915,10,-5.843,0.0841,0.0121,0.00181,0.031,0.866,Perreo para barrer el piso con la cola,0
+La Mona,El Habano,6L3dKN1gZU74cStCIgA0yS,6pENS44lYdpUb800IbaIJB,0.684,0.717,4,-5.843,0.353,0.00548,0.00077,0.351,0.739,Perreo para barrer el piso con la cola,0
+Dile,Don Omar,6L3dKN1gZU74cStCIgA0yS,2Nf6VvmpR3LqSLfHvsduMD,0.676,0.705,4,-7.503,0.16,0.178,7.55e-05,0.0561,0.711,Perreo para barrer el piso con la cola,0
+Pose,Mad Fuentes,6L3dKN1gZU74cStCIgA0yS,59c5gZVFtxI4dExQV6xRgB,0.886,0.706,2,-5.573,0.212,0.0245,5.31e-05,0.0596,0.675,Perreo para barrer el piso con la cola,0
+Ruleta Rusa,Kid Moonsta,6L3dKN1gZU74cStCIgA0yS,7nMTO0dHnwrqJTBla8sk4o,0.686,0.659,6,-7.042,0.041,0.162,0.00147,0.418,0.22,Perreo para barrer el piso con la cola,0
+Piropo,Noriel,6L3dKN1gZU74cStCIgA0yS,5YrjfKuFd0pMmYTGeRDV6X,0.866,0.747,9,-5.748,0.0725,0.122,0.0218,0.0403,0.772,Perreo para barrer el piso con la cola,0
+Perra,Elilluminari,6L3dKN1gZU74cStCIgA0yS,53GuGDwZqQUA9kATFaV7sS,0.938,0.619,7,-5.778,0.431,0.126,3.29e-06,0.591,0.539,Perreo para barrer el piso con la cola,0
+Anormal,LOOJAN,6L3dKN1gZU74cStCIgA0yS,0eBUUgZfjPeuY9djJ5o5t4,0.817,0.891,11,-3.121,0.0735,0.0729,1.9e-06,0.263,0.282,Perreo para barrer el piso con la cola,0
++ Calma :(,C. Román,6L3dKN1gZU74cStCIgA0yS,49apcCIBNZRyZamk8tInNj,0.633,0.63,2,-5.076,0.0418,0.288,4.31e-05,0.147,0.615,Perreo para barrer el piso con la cola,0
+Yo Perreo Sola,Bad Bunny,6L3dKN1gZU74cStCIgA0yS,0SqqAgdovOE24BzxIClpjw,0.86,0.758,11,-5.16,0.0695,0.021,6.54e-05,0.344,0.453,Perreo para barrer el piso con la cola,0
+Safaera,Bad Bunny,6L3dKN1gZU74cStCIgA0yS,2DEZmgHKAvm41k4J3R2E9Y,0.607,0.829,2,-4.074,0.379,0.0103,0.0,0.107,0.685,Perreo para barrer el piso con la cola,0
+Te Encojona,Bootyzilla,6L3dKN1gZU74cStCIgA0yS,4YVxHj6E8UpY9RfM20RyUG,0.832,0.708,11,-6.5,0.257,0.156,0.00142,0.403,0.702,Perreo para barrer el piso con la cola,0
+Culo,Pitbull,6L3dKN1gZU74cStCIgA0yS,5lYX9tp6KxYwPfnNGZpEE6,0.858,0.656,6,-4.96,0.358,0.114,0.0,0.141,0.969,Perreo para barrer el piso con la cola,0
+Morado,J Balvin,6L3dKN1gZU74cStCIgA0yS,3mQ6SLdxxaL52Yte7KF2Ks,0.881,0.696,11,-3.838,0.0797,0.137,4.13e-05,0.0927,0.781,Perreo para barrer el piso con la cola,0
+Se Preparó,Kid Moonsta,6L3dKN1gZU74cStCIgA0yS,50QKzgxB4Xxvltj3z4cEV5,0.878,0.688,2,-6.522,0.0794,0.163,0.000943,0.106,0.384,Perreo para barrer el piso con la cola,0
+Tibiri Tabara - feat. Uzielito Mix,Michael G,6L3dKN1gZU74cStCIgA0yS,2Ulyr7Y5DFPnH7Qo3qxvFL,0.703,0.809,5,-2.62,0.0542,0.267,0.0,0.288,0.925,Perreo para barrer el piso con la cola,0
+Brrr,DJ Pedro Fuentes,6L3dKN1gZU74cStCIgA0yS,3bG0JTjnwsE2zVkkvtQY0U,0.912,0.742,1,-6.2,0.106,0.00777,5.17e-05,0.164,0.464,Perreo para barrer el piso con la cola,0
+Arabe Slug,DJ Yayo,6L3dKN1gZU74cStCIgA0yS,5OhzbBg1cTvHXPwWdJnMcW,0.867,0.844,0,-3.775,0.0724,0.0291,0.0076,0.0876,0.136,Perreo para barrer el piso con la cola,0
+Gata Fiera (feat. Joan),Trebol Clan,6L3dKN1gZU74cStCIgA0yS,3UnbRNCJlDzSKz5Yq0dIOs,0.739,0.797,6,-9.92,0.0458,0.266,0.341,0.15,0.836,Perreo para barrer el piso con la cola,0
+Jala,Mad Fuentes,6L3dKN1gZU74cStCIgA0yS,6YTCFgpzW3er5Jby5bbzxL,0.817,0.735,2,-4.04,0.0742,0.0113,0.00438,0.0582,0.722,Perreo para barrer el piso con la cola,0
+La Calle es de Nosotros - Remix,El Fother,6L3dKN1gZU74cStCIgA0yS,2jBlDIG1zQwF9XBQqxAv5O,0.878,0.853,11,-3.287,0.143,0.0255,0.000645,0.566,0.832,Perreo para barrer el piso con la cola,0
+Culo Arabe,DJ Tona,6L3dKN1gZU74cStCIgA0yS,78ubyirAnt5zMoULwGfwRB,0.832,0.731,1,-5.15,0.0416,0.0385,0.0291,0.537,0.483,Perreo para barrer el piso con la cola,0
+Son las Doce,Daddy Yankee,6L3dKN1gZU74cStCIgA0yS,34mPyKcAeoNPpBxfIBMVer,0.816,0.853,0,-7.05,0.167,0.303,4.46e-06,0.267,0.869,Perreo para barrer el piso con la cola,0
+Golosa,Isabella Lovestory,6L3dKN1gZU74cStCIgA0yS,1uzlm6uA89AY1FYJ5dZRfp,0.793,0.805,6,-3.318,0.087,0.0851,0.000113,0.118,0.356,Perreo para barrer el piso con la cola,0
+te pongo mal(prendelo),Kali Uchis,6L3dKN1gZU74cStCIgA0yS,36Qi2bHMzLMQIHApHFytgv,0.686,0.71,1,-7.884,0.0731,0.00299,0.000182,0.167,0.846,Perreo para barrer el piso con la cola,0
+Intro Telefono Perreo,Dam Dam,6L3dKN1gZU74cStCIgA0yS,2plgCBmfVrKZyqcTJ2IQ45,0.855,0.746,6,-3.93,0.105,0.0853,0.443,0.0819,0.239,Perreo para barrer el piso con la cola,0
+Buyaka,Kid Moonsta,6L3dKN1gZU74cStCIgA0yS,6Uh1xFi8PE2mQVteyiaYUI,0.744,0.734,10,-5.563,0.29,0.188,0.0,0.09,0.858,Perreo para barrer el piso con la cola,0
+Perreo Como Antes,Dj Bekman,6L3dKN1gZU74cStCIgA0yS,5InIuRBCKBEiSboJnliVQo,0.813,0.769,9,-5.16,0.0677,0.184,0.000496,0.0757,0.377,Perreo para barrer el piso con la cola,0
+"Lo Que Pasó, Pasó",Daddy Yankee,6L3dKN1gZU74cStCIgA0yS,6z5Xrx58p5Bs18RIe6KXbI,0.816,0.747,8,-6.468,0.0411,0.102,0.0,0.263,0.848,Perreo para barrer el piso con la cola,0
+El Phillie,Dj Joe,6L3dKN1gZU74cStCIgA0yS,7HHWEL0E0rnw0sZoIAlJq1,0.841,0.728,11,-5.789,0.0463,0.156,8.37e-05,0.113,0.703,Perreo para barrer el piso con la cola,0
+Intro Pablo Escobar - Guaracha Zapateo & Aleteo,Reggaeton bachata Hit,6L3dKN1gZU74cStCIgA0yS,67uiFFAdGM0n9FAfj0Wmee,0.861,0.806,4,-5.034,0.103,0.298,0.0111,0.148,0.65,Perreo para barrer el piso con la cola,0
+Lento Pa Arriba Lento Pa Bajo,Nfasis,6L3dKN1gZU74cStCIgA0yS,5oNCEOGlRkL5LUaUqjI21G,0.565,0.876,11,-3.816,0.259,0.216,0.0109,0.247,0.605,Perreo para barrer el piso con la cola,0
+Los Bellacos (feat. El Bellaco),Pablito Mix,6L3dKN1gZU74cStCIgA0yS,1ZG8xuyVnlM5U2uMdu70nP,0.737,0.837,1,-6.281,0.0448,0.179,0.00194,0.125,0.539,Perreo para barrer el piso con la cola,0
+Mi Egipcia (Dale Movimiento),Tony Warrior,6L3dKN1gZU74cStCIgA0yS,3CFo1gkjvKI8I3LBZehA2c,0.734,0.871,9,-4.662,0.0423,0.288,0.0,0.113,0.964,Perreo para barrer el piso con la cola,0
+Mega Ñengo Flow,Mister Remix,6L3dKN1gZU74cStCIgA0yS,0YwwLaqTTIERZDb6C62PZR,0.755,0.928,11,-2.317,0.319,0.124,0.0,0.402,0.88,Perreo para barrer el piso con la cola,0
+Yamilette,Daddy Yankee,6L3dKN1gZU74cStCIgA0yS,3huQBVRw4WCttRmU37UqSj,0.931,0.544,10,-8.78,0.327,0.00828,0.0,0.102,0.669,Perreo para barrer el piso con la cola,0
+Take Me to Church,Hozier,37i9dQZF1DZ06evO1xnOx2,0aOluBqXYd0rFSCsgDyAWX,0.575,0.664,4,-5.303,0.0481,0.637,0.0,0.116,0.437,This is Hozier,1
+Cherry Wine - Live,Hozier,37i9dQZF1DZ06evO1xnOx2,0bZ52QzCCKfrfOqs7za6lI,0.415,0.11,1,-14.901,0.0388,0.951,0.00234,0.0962,0.234,This is Hozier,1
+Someone New,Hozier,37i9dQZF1DZ06evO1xnOx2,0efT4YKQLQx2YHbp6vgRX8,0.446,0.533,7,-5.955,0.046,0.427,3.26e-06,0.332,0.58,This is Hozier,1
+Work Song,Hozier,37i9dQZF1DZ06evO1xnOx2,4Vc3bzFxXdrABa2DxgyCMT,0.531,0.359,10,-7.672,0.0619,0.749,0.0,0.112,0.254,This is Hozier,1
+Better Love - From The Legend of Tarzan - Single version,Hozier,37i9dQZF1DZ06evO1xnOx2,6LOGgSwHUaBp9MESQxbVBJ,0.389,0.802,0,-3.438,0.0616,0.0307,2.63e-06,0.0862,0.4,This is Hozier,1
+From Eden,Hozier,37i9dQZF1DZ06evO1xnOx2,2XRCxFtPqSsnY94jZCFuYu,0.399,0.672,0,-5.506,0.05,0.584,2.45e-05,0.118,0.285,This is Hozier,1
+Sedated,Hozier,37i9dQZF1DZ06evO1xnOx2,2YRJxFhJQQvUsf14rXpvBD,0.661,0.592,9,-5.215,0.027,0.184,1.88e-05,0.102,0.256,This is Hozier,1
+Like Real People Do,Hozier,37i9dQZF1DZ06evO1xnOx2,7K6LFPfjdnN6QqvGzhvpRO,0.54,0.178,7,-14.33,0.0308,0.921,0.377,0.106,0.145,This is Hozier,1
+It Will Come Back,Hozier,37i9dQZF1DZ06evO1xnOx2,13CyXxYgWD9N5KwWqRYU1U,0.501,0.446,0,-7.7,0.0338,0.379,4.83e-06,0.159,0.154,This is Hozier,1
+Foreigner's God,Hozier,37i9dQZF1DZ06evO1xnOx2,3kR1DF3AAFCzOtzMIErJ4H,0.503,0.445,8,-7.624,0.0292,0.163,0.000475,0.111,0.382,This is Hozier,1
+In a Week - Live From Spotify London,Hozier,37i9dQZF1DZ06evO1xnOx2,2b7aqGkXjVARTFcA0ivbjZ,0.476,0.313,9,-9.725,0.0569,0.927,2.03e-06,0.663,0.306,This is Hozier,1
+"To Be Alone - Live at the Pepper Canister Church, Dublin, Ireland - December 2013",Hozier,37i9dQZF1DZ06evO1xnOx2,41JqWkBv5VC8bBP4I1uPDN,0.516,0.126,0,-13.132,0.0448,0.861,1.37e-05,0.709,0.275,This is Hozier,1
+To Be Alone - Live from Spotify SXSW 2014,Hozier,37i9dQZF1DZ06evO1xnOx2,1GFQ9s7JF1odIlOCCQ5re0,0.637,0.184,0,-8.182,0.0347,0.557,5.65e-06,0.633,0.176,This is Hozier,1
+Arsonist's Lullabye,Hozier,37i9dQZF1DZ06evO1xnOx2,1UWhx0pFZccP4jdCIZsj7U,0.463,0.373,6,-10.666,0.0362,0.673,0.0745,0.118,0.184,This is Hozier,1
+Angel of Small Death and the Codeine Scene,Hozier,37i9dQZF1DZ06evO1xnOx2,3wT3WDdQrsST19f1I08Z1N,0.311,0.656,4,-6.752,0.0952,0.163,7.05e-06,0.126,0.297,This is Hozier,1
+Jackie and Wilson,Hozier,37i9dQZF1DZ06evO1xnOx2,0PywzrV955BnXDC8FHAf0n,0.563,0.727,6,-4.202,0.036,0.0579,7.59e-06,0.0937,0.745,This is Hozier,1
+Jackie And Wilson - Live,Hozier,37i9dQZF1DZ06evO1xnOx2,3zG2g8c51Rkqs55kVwbEFa,0.254,0.799,6,-5.076,0.043,0.212,6.27e-06,0.953,0.766,This is Hozier,1
+Take Me to Church - Live From Spotify London,Hozier,37i9dQZF1DZ06evO1xnOx2,6d0wEqM0jJTNv1asKflGGi,0.624,0.217,2,-9.54,0.0481,0.859,0.0,0.7,0.287,This is Hozier,1
+Tell It To My Heart,MEDUZA,37i9dQZF1DZ06evO1xnOx2,46nvQpUDsxpS08UTFOeKTA,0.539,0.715,11,-6.639,0.0595,0.0265,0.0,0.609,0.489,This is Hozier,1
+The Bones - with Hozier,Maren Morris,37i9dQZF1DZ06evO1xnOx2,1yTTMcUhL7rtz08Dsgb7Qb,0.561,0.597,11,-6.0,0.0405,0.286,0.0,0.0979,0.355,This is Hozier,1
+Almost (Sweet Music),Hozier,37i9dQZF1DZ06evO1xnOx2,5Apvsk0suoivI1H8CmBglv,0.523,0.687,7,-5.601,0.105,0.0215,2.86e-06,0.203,0.711,This is Hozier,1
+Say My Name - Recorded at Spotify Studios NYC,Hozier,37i9dQZF1DZ06evO1xnOx2,2xbuycY0MolcTZGENc4PuK,0.607,0.462,0,-8.383,0.0551,0.52,1.83e-05,0.229,0.376,This is Hozier,1
+NFWMB,Hozier,37i9dQZF1DZ06evO1xnOx2,2iQYqdalv245vrCEM4W9N9,0.379,0.373,3,-12.176,0.0309,0.895,0.0718,0.115,0.352,This is Hozier,1
+The Parting Glass - Live from the Late Late Show,Hozier,37i9dQZF1DZ06evO1xnOx2,0WxxSbsSHMoUK1uvWuMEbT,0.266,0.0956,6,-10.047,0.0439,0.96,0.0,0.34,0.472,This is Hozier,1
+Would That I,Hozier,37i9dQZF1DZ06evO1xnOx2,37zuIvk4KBkAxxLJsxJaHq,0.521,0.526,5,-6.032,0.0281,0.243,0.00537,0.108,0.502,This is Hozier,1
+Moment's Silence (Common Tongue),Hozier,37i9dQZF1DZ06evO1xnOx2,6F980QL4axcqjJDMaV7Ew8,0.516,0.593,0,-5.09,0.0252,0.055,0.0401,0.111,0.53,This is Hozier,1
+Shrike,Hozier,37i9dQZF1DZ06evO1xnOx2,3ieUtb4ecQgEYxae8dzEUi,0.506,0.275,7,-8.464,0.0292,0.494,0.00377,0.101,0.0639,This is Hozier,1
+"Wasteland, Baby!",Hozier,37i9dQZF1DZ06evO1xnOx2,1HYnjKqSSHh1tdl2Hi57zH,0.427,0.407,2,-9.665,0.0382,0.612,0.386,0.109,0.244,This is Hozier,1
+Movement,Hozier,37i9dQZF1DZ06evO1xnOx2,1djzKW3eYLyzjjHXazEWWh,0.381,0.502,1,-5.505,0.0368,0.16,6.98e-05,0.0842,0.147,This is Hozier,1
+Sunlight,Hozier,37i9dQZF1DZ06evO1xnOx2,4zvvvHm0b5CBl37tocxm7n,0.464,0.559,7,-4.209,0.0287,0.368,0.000176,0.106,0.368,This is Hozier,1
+Ahora Te Puedes Marchar,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,1uKjQoh8JZj9ryuYRhpd7E,0.78,0.877,6,-3.683,0.0427,0.148,2.36e-06,0.0627,0.909,This is Luis Miguel,0
+La Incondicional,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,6F9yAYUaNbUhdlQyt5uZ3b,0.374,0.727,10,-4.352,0.0309,0.237,0.0,0.134,0.283,This is Luis Miguel,0
+Hasta Que Me Olvides,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,6vPAmoERUMRoTZaCCSWQ12,0.641,0.593,3,-7.884,0.0264,0.46,0.0,0.169,0.437,This is Luis Miguel,0
+La Media Vuelta,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,1lKI9y1DL6QnYTZguVmACX,0.631,0.683,7,-8.788,0.0344,0.291,0.0,0.0994,0.708,This is Luis Miguel,0
+La bikina - En vivo,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,1jxO9AwMqYynDsuMWKrPvi,0.389,0.71,5,-6.265,0.0351,0.161,0.0,0.918,0.666,This is Luis Miguel,0
+Culpable O No - Miénteme Como Siempre,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,7BwxbmYFy0l3ROHDjV2c14,0.54,0.367,0,-14.238,0.0277,0.0367,0.0,0.0433,0.252,This is Luis Miguel,0
+Por Debajo De La Mesa,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,4FqfHVML025cwjfhAOFbfa,0.401,0.499,0,-7.643,0.0272,0.217,0.0,0.149,0.262,This is Luis Miguel,0
+Sabes Una Cosa,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,21Ullb4TU8qMsQd0Iselng,0.437,0.522,0,-7.048,0.031,0.268,0.0,0.126,0.72,This is Luis Miguel,0
+Tengo Todo Excepto a Ti,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,27XboT5Wb8VOn7A0heo3Ei,0.542,0.665,0,-8.121,0.0297,0.522,0.0,0.177,0.417,This is Luis Miguel,0
+No Sé Tú,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,2DAsLftcRKP3iarCPmI1RY,0.389,0.443,10,-8.546,0.0304,0.571,0.00178,0.114,0.0888,This is Luis Miguel,0
+Suave,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,4p7XH4NhQ25iGYrrbg93gt,0.61,0.677,4,-9.813,0.0325,0.0614,0.0,0.232,0.444,This is Luis Miguel,0
+México En La Piel,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,5BPq1UQa1NSN647R6IzD3n,0.483,0.53,0,-6.989,0.0295,0.43,0.0,0.222,0.676,This is Luis Miguel,0
+Entrégate,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,5fj3zNkXfOlrJGVcZBId6D,0.516,0.675,8,-7.355,0.0323,0.492,1.29e-05,0.0902,0.381,This is Luis Miguel,0
+Sabor a Mi,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,68zSzKkU28AfZvr5FkAUWT,0.663,0.579,10,-6.982,0.0269,0.645,0.0,0.189,0.48,This is Luis Miguel,0
+Usted,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,0MHSnVk2CrGP8hIkxpxwMJ,0.493,0.452,10,-10.841,0.0374,0.491,0.00023,0.155,0.474,This is Luis Miguel,0
+Échame a Mi La Culpa,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,2TOBMDqbtPP6sAQtWc2Br9,0.571,0.5,7,-5.178,0.028,0.143,0.0,0.303,0.633,This is Luis Miguel,0
+Fría Como El Viento,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,2J4qy8RyfwgXHt73cWOE6P,0.559,0.429,0,-13.995,0.0289,0.269,0.0,0.0306,0.3,This is Luis Miguel,0
+Amarte es un placer,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,4lQWZGUrquRfH9se6nlmp3,0.242,0.334,10,-9.375,0.0344,0.343,0.0,0.0703,0.0851,This is Luis Miguel,0
+Inolvidable,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,2pSZjEpbXwlocV8js7MNmu,0.686,0.672,5,-7.338,0.0372,0.42,0.000359,0.0508,0.85,This is Luis Miguel,0
+Cuando Calienta El Sol,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,3hVaK0zn3sVWWY8TvN1Te5,0.686,0.868,0,-3.889,0.0504,0.0738,0.0,0.287,0.557,This is Luis Miguel,0
+Te necesito,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,0svWUjefj6RBlIQxA3VCvx,0.557,0.759,10,-6.404,0.0794,0.654,0.0,0.109,0.736,This is Luis Miguel,0
+Si tú te atreves,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,4tljir1112UOLjqP2lXn4J,0.478,0.661,2,-5.535,0.0445,0.364,0.0,0.131,0.131,This is Luis Miguel,0
+La Barca,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,2MkeDQiyZ8MV45IjLhCPSF,0.491,0.698,0,-6.724,0.0357,0.504,1.81e-06,0.235,0.543,This is Luis Miguel,0
+La Gloria Eres Tu,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,5SPUsNcUtRUpAPj7rJq7CD,0.626,0.623,4,-6.888,0.0236,0.397,6.87e-06,0.0777,0.516,This is Luis Miguel,0
+Historia De Un Amor,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,6av3uLAacGG7c9fjshWmuH,0.438,0.71,9,-7.607,0.0345,0.342,0.0,0.0881,0.275,This is Luis Miguel,0
+Llamarada,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,6JEgMLyMEqFTaoQyMg4vhQ,0.544,0.707,7,-3.568,0.0305,0.118,0.0,0.506,0.631,This is Luis Miguel,0
+No Me Platiques Más,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,1kS5xIvvytkr5Ut1JkQ9SM,0.488,0.61,0,-7.646,0.0289,0.382,3.24e-05,0.14,0.237,This is Luis Miguel,0
+El Reloj,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,6BTte0lvV5phb00xaxseC4,0.387,0.549,2,-7.74,0.0306,0.301,0.0,0.352,0.667,This is Luis Miguel,0
+Palabra De Honor,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,3WY8ecMJJjdepU2k2NoFv1,0.486,0.663,7,-6.28,0.0346,0.443,0.0,0.0984,0.332,This is Luis Miguel,0
+Un Hombre Busca a Una Mujer,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,3ZRUhvuUE2lwZF19puKM8P,0.624,0.695,9,-12.47,0.0461,0.385,0.0,0.0637,0.775,This is Luis Miguel,0
+Te Extraño,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,1uSRXFGgEkukRZIa9WsX52,0.263,0.402,2,-11.748,0.0308,0.671,0.00149,0.112,0.085,This is Luis Miguel,0
+O Tu O Ninguna,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,7u5wdRqlAC4qeRp47e7hce,0.302,0.428,5,-8.814,0.0338,0.479,0.0,0.105,0.119,This is Luis Miguel,0
+De Qué Manera Te Olvido,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,0j0ntQup1Wp9ZiQTUvgnhm,0.594,0.462,0,-5.834,0.0272,0.209,0.0,0.257,0.663,This is Luis Miguel,0
+La Chica Del Bikini Azul,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,6Ucocvd2YaEJRPmbT4SFgu,0.638,0.794,0,-6.29,0.0316,0.0443,0.000523,0.141,0.749,This is Luis Miguel,0
+Soy lo prohibido,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,3zceb1fYe5jdwEmuGvJINO,0.286,0.495,0,-5.671,0.0329,0.496,0.0,0.143,0.475,This is Luis Miguel,0
+Oro De Ley,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,2PZtKB8fDoDGLot27oUnWH,0.664,0.866,2,-7.658,0.0588,0.399,0.000126,0.177,0.751,This is Luis Miguel,0
+Yo Que No Vivo Sin Ti,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,5SnH7xubfdfvHomShSjiIe,0.458,0.57,2,-9.902,0.0279,0.366,1.41e-06,0.196,0.496,This is Luis Miguel,0
+Motivos,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,4yEJ1SNpgfK5GPx3Y0YhIU,0.234,0.409,0,-7.478,0.0301,0.703,0.0,0.355,0.329,This is Luis Miguel,0
+Si Nos Dejan - En Vivo,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,04kdbkyXKEGnbRxqLKjchb,0.501,0.685,5,-7.349,0.0325,0.5,0.0,0.953,0.382,This is Luis Miguel,0
+Voy a Apagar La Luz / Contigo Aprendí,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,4BCiucu42W0U9Y1eqPaQDx,0.371,0.547,4,-6.89,0.0292,0.139,0.0,0.37,0.204,This is Luis Miguel,0
+Todo Y Nada,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,1FJSXlDrgr9AS37w67CPHP,0.358,0.643,2,-7.105,0.037,0.414,4.24e-05,0.0965,0.506,This is Luis Miguel,0
+Qué Nivel De Mujer,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,4yakD6EKEjeMezENNCSlcc,0.751,0.911,10,-6.274,0.0619,0.163,1.34e-06,0.304,0.841,This is Luis Miguel,0
+No discutamos,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,4LOoLsXcPdAHzPwSznpq3Y,0.485,0.455,7,-5.957,0.0301,0.62,1.42e-06,0.109,0.378,This is Luis Miguel,0
+Besame Mucho,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,3llKUN9le04V1enu8MHudF,0.613,0.633,7,-8.636,0.0307,0.384,2.58e-06,0.201,0.591,This is Luis Miguel,0
+El Día Que Me Quieras,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,3NKIbFFAioTfznWbnjAMXX,0.215,0.666,8,-6.442,0.0364,0.368,1.88e-06,0.0891,0.244,This is Luis Miguel,0
+El Viajero,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,4qb8QUWJCrW3hHuUcSSvmC,0.585,0.547,0,-5.496,0.0293,0.113,0.0,0.0768,0.591,This is Luis Miguel,0
+Cómo duele,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,2inyRCfWB1ey6vNX43TTCl,0.451,0.553,11,-5.462,0.0265,0.121,0.0,0.218,0.124,This is Luis Miguel,0
+Ayer,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,3PoR4LhD7Y74bPpk8lZ6f7,0.288,0.312,5,-11.31,0.0332,0.777,2.28e-06,0.0865,0.204,This is Luis Miguel,0
+Sueña,Luis Miguel,37i9dQZF1DZ06evO1mfBM4,7e3mCGbRFSsYmnGuQf9rMk,0.2,0.628,6,-5.263,0.034,0.542,0.0,0.144,0.132,This is Luis Miguel,0
+Rata De Dos Patas,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,2okIVxq5V9JDpATsGA3t36,0.716,0.403,0,-6.325,0.0261,0.55,5.74e-06,0.22,0.685,This is Paquita la del Barrio,0
+Cheque En Blanco,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,2aqarSktx1bU8WrZE9lW1X,0.627,0.669,4,-3.807,0.0375,0.544,1.63e-06,0.743,0.723,This is Paquita la del Barrio,0
+Tres Veces Te Engañe,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,6M2koULBQ62nB9I3Jn65pT,0.596,0.436,0,-5.841,0.0432,0.411,0.0,0.174,0.595,This is Paquita la del Barrio,0
+No Hay Quinto Malo,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,7tsW0yrg4oUGtjmg1FWsCl,0.591,0.318,2,-8.267,0.0442,0.393,0.0,0.295,0.634,This is Paquita la del Barrio,0
+Me Saludas A La Tuya,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,17hGgn86Ir7YYtuTnOaKPy,0.546,0.503,10,-5.032,0.0325,0.228,4.1e-05,0.0671,0.839,This is Paquita la del Barrio,0
+Romeo Y Su Nieta,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,45q7Y91RaCuQAOk2pCSMGM,0.752,0.67,10,-4.298,0.046,0.457,1.13e-06,0.159,0.781,This is Paquita la del Barrio,0
+Azul Celeste,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,3w7qdBBWZFAMIQWpwcTZYj,0.806,0.545,7,-6.383,0.0447,0.382,1.62e-06,0.0834,0.905,This is Paquita la del Barrio,0
+Pobre Pistolita,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,7L0IFmQdVsZYwYZjhWFMON,0.754,0.493,0,-5.146,0.0309,0.634,0.0,0.309,0.885,This is Paquita la del Barrio,0
+Vivo Contenta,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,0k03oiNaT5Q8RSgYVFangV,0.632,0.62,10,-3.8,0.0315,0.726,1.39e-06,0.325,0.557,This is Paquita la del Barrio,0
+Taco Placero,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,4ZnlLJNLuSfy8kcD8fzcCf,0.775,0.456,0,-6.057,0.0299,0.278,3.69e-05,0.0544,0.866,This is Paquita la del Barrio,0
+Tu Última Parada,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,2cq4KCN5crkAExksIxbY1x,0.655,0.522,0,-3.639,0.0312,0.603,0.0,0.0947,0.83,This is Paquita la del Barrio,0
+Ni Tú Ni Yo (feat. Paquita la del Barrio),Ricardo Arjona,37i9dQZF1DZ06evO0Mu9Si,02JbTH4sGnaUWp11vCR9yI,0.546,0.339,4,-6.479,0.036,0.222,0.0,0.184,0.332,This is Paquita la del Barrio,0
+Qué Te Ha Dado Esa Mujer,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,6Id7vopLLiYM3Ay0G1ogK3,0.577,0.479,2,-4.625,0.0272,0.537,1.77e-06,0.294,0.529,This is Paquita la del Barrio,0
+Invitame A Pecar,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,7MSO3A4OpN8gJuSP3A0GHK,0.652,0.489,2,-7.86,0.0271,0.601,9.33e-06,0.241,0.842,This is Paquita la del Barrio,0
+Al Cuarto Vaso,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,4f5OVJY8AzaIZQWhU49GyE,0.714,0.436,7,-5.544,0.0263,0.359,4.92e-06,0.123,0.68,This is Paquita la del Barrio,0
+Hombres Malvados,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,27RnhlWFiG1f5CIQQ0jBEu,0.459,0.565,10,-2.595,0.0367,0.71,3.18e-06,0.0445,0.743,This is Paquita la del Barrio,0
+Aquellos Ojos Verdes,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,2oAyvVcDq4an6Ua4EKI4aZ,0.613,0.485,4,-4.63,0.0243,0.614,1.38e-05,0.184,0.463,This is Paquita la del Barrio,0
+El Consejo,Ana Bárbara,37i9dQZF1DZ06evO0Mu9Si,0l2TR5bQDGeMdozWEA0YOy,0.732,0.582,2,-4.783,0.0342,0.544,0.0,0.396,0.77,This is Paquita la del Barrio,0
+Cancionera De Mi Barrio,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,6Smm0PiTkVwKn9D3e0Py5l,0.498,0.51,0,-4.507,0.0293,0.302,3.18e-06,0.165,0.825,This is Paquita la del Barrio,0
+Las Rodilleras,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,6yHsw4b6nyRtf2hBMTSPqm,0.839,0.577,4,-4.103,0.0399,0.671,4.37e-06,0.154,0.923,This is Paquita la del Barrio,0
+Abrázame,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,5YHPGr0QtJKcQVc5Oiby5o,0.635,0.523,2,-3.937,0.0244,0.698,0.0,0.383,0.683,This is Paquita la del Barrio,0
+Seis Pies Abajo,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,6vToApx4MX31wLOxuKXElW,0.839,0.541,7,-3.007,0.0376,0.419,1.02e-05,0.0305,0.849,This is Paquita la del Barrio,0
+Piérdeme El Respeto,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,6dV7WqbLSpTvoF7WjJ18F5,0.402,0.493,0,-5.921,0.0348,0.333,3.78e-06,0.0544,0.742,This is Paquita la del Barrio,0
+No Hay Mujeres Feas (Mi Vecinita),Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,1q2TDH6vvl9yWnerXjDFTP,0.911,0.69,3,-5.153,0.0331,0.471,4.09e-06,0.201,0.893,This is Paquita la del Barrio,0
+Qué Manera De Perder,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,0gwdKjIEW9hGHWF4ydYfAC,0.568,0.406,7,-4.808,0.0289,0.421,0.0,0.0506,0.618,This is Paquita la del Barrio,0
+Anillo De Compromiso,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,1XxEh9Dqk1TYKuUw2aEx9A,0.583,0.377,2,-4.091,0.0282,0.368,2.4e-06,0.0782,0.596,This is Paquita la del Barrio,0
+Que Me Perdone Tu Perro,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,6y2UxsOatR4sJ5EU50efyV,0.46,0.51,0,-4.895,0.0318,0.416,1.36e-05,0.0833,0.702,This is Paquita la del Barrio,0
+La Bella Lola,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,2ztE0PMxDeodNfEbOhpgO7,0.422,0.485,9,-3.814,0.0272,0.495,2.48e-06,0.0636,0.531,This is Paquita la del Barrio,0
+El Peor De Los Caminos,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,1dQl2UEHD7OmehlpbvY2ht,0.518,0.416,2,-4.553,0.0303,0.46,0.0,0.111,0.732,This is Paquita la del Barrio,0
+Amor Perdido - En Vivo,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,5eXFtE5Ev8ML1g7q4GkC56,0.696,0.583,4,-3.107,0.036,0.318,0.000161,0.889,0.502,This is Paquita la del Barrio,0
+Si Yo Fuera Varón,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,2w04wyxj7qA3FQDCMloExM,0.552,0.452,0,-4.588,0.0458,0.576,0.0,0.0941,0.681,This is Paquita la del Barrio,0
+Chango Viejo,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,3KpYi7yoPOW54lWWI0Hlvm,0.695,0.636,9,-3.214,0.0321,0.658,0.0,0.235,0.938,This is Paquita la del Barrio,0
+Acá Entre Nos,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,2VueBSzm6AJzAMPwWVigOj,0.515,0.409,0,-4.382,0.031,0.348,3.58e-06,0.0939,0.392,This is Paquita la del Barrio,0
+Caminos De Michoacán,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,5lPQD13zjFcgys0Egm08up,0.754,0.457,9,-5.388,0.0328,0.509,6.73e-06,0.0567,0.835,This is Paquita la del Barrio,0
+Viejo Rabo Verde,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,2o4nL2zNNn5AQ0jHO9O8Z1,0.722,0.477,10,-5.507,0.0555,0.625,0.0,0.0688,0.949,This is Paquita la del Barrio,0
+La Maestra,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,2Ut7MkcbPC4oZEnbp5ExFB,0.492,0.618,0,-3.632,0.0372,0.69,0.0,0.0832,0.816,This is Paquita la del Barrio,0
+Exceso De Calcio,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,5IFz8y6hqbZCoDyjrb7vfR,0.695,0.529,10,-3.839,0.0357,0.27,1.03e-06,0.106,0.792,This is Paquita la del Barrio,0
+Gracias,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,7zwgbwzK7ZFVmRUDdxFxSL,0.467,0.444,2,-5.34,0.0332,0.397,0.0,0.331,0.73,This is Paquita la del Barrio,0
+Camino De Guanajuato,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,4vCAYoQ87KJfEZaRRYeIo2,0.463,0.422,7,-5.6,0.0385,0.258,0.0,0.281,0.739,This is Paquita la del Barrio,0
+Mi Razón (with Paquita la del Barrio),La Sonora Santanera,37i9dQZF1DZ06evO0Mu9Si,1qMpZYhcb5ABRkxpKpxFTb,0.867,0.527,0,-5.994,0.0371,0.657,0.000217,0.691,0.842,This is Paquita la del Barrio,0
+Paloma Negra,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,1o40aNovMght9klGKTDG9s,0.553,0.332,2,-6.958,0.0307,0.458,4.62e-05,0.295,0.676,This is Paquita la del Barrio,0
+No Me Vuelvo A Enamorar,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,2KgbsDLZt3TllBRtFCwrx2,0.606,0.564,2,-5.205,0.0323,0.318,2.08e-05,0.0892,0.625,This is Paquita la del Barrio,0
+Las Mujeres Mandan (Mariachi),Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,4tn3MwyXEIc3myrtOGg3Li,0.827,0.468,9,-4.481,0.0536,0.612,0.0,0.0923,0.643,This is Paquita la del Barrio,0
+Mi Único Camino,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,0K9DEliKYCyljWztB8WyJY,0.528,0.482,2,-5.284,0.0398,0.551,0.0,0.289,0.75,This is Paquita la del Barrio,0
+Y Si Tomo Que,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,6Jl9NjsxKVvoFm30sqA2aA,0.526,0.294,7,-7.794,0.0385,0.604,2.06e-06,0.0963,0.57,This is Paquita la del Barrio,0
+Cobarde,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,55Rrm4f7pI4YSTh4a8VYSR,0.818,0.505,9,-5.927,0.0298,0.867,8.59e-05,0.0529,0.676,This is Paquita la del Barrio,0
+Juro Que Nunca Volveré,Natalia Jiménez,37i9dQZF1DZ06evO0Mu9Si,4ZGiRo6BxnRTwoSG4Z1dlU,0.457,0.566,5,-5.661,0.0375,0.21,0.0,0.94,0.385,This is Paquita la del Barrio,0
+Paloma Querida,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,7LP8uXfunxAJTZmBfjAdwE,0.5,0.412,4,-6.117,0.0457,0.391,1.48e-06,0.153,0.785,This is Paquita la del Barrio,0
+Te Voy A Olvidar,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,5gdJADBzAYUTSfmuopimIM,0.553,0.538,10,-3.994,0.039,0.364,4.14e-06,0.084,0.656,This is Paquita la del Barrio,0
+Los Bigotones,Paquita La Del Barrio,37i9dQZF1DZ06evO0Mu9Si,5OVcr54TcUQCQr7KhGiWyb,0.72,0.512,0,-4.05,0.0349,0.598,0.0,0.116,0.797,This is Paquita la del Barrio,0
+Ya No Somos Ni Seremos,Christian Nodal,3IyNJEsknaSFoUIn8qf1Lr,0UXlu64mDLvfzR8IXMz06J,0.588,0.452,7,-4.75,0.0268,0.437,0.0,0.344,0.734,Banda 2022,0
+Chale,Eden Muñoz,3IyNJEsknaSFoUIn8qf1Lr,74WROFXsox6wkeUrEK2DS6,0.551,0.436,8,-8.029,0.0428,0.395,0.0,0.0719,0.862,Banda 2022,0
+Pongámonos De Acuerdo,Julión Álvarez y su Norteño Banda,3IyNJEsknaSFoUIn8qf1Lr,1OZpgVRQKkxcoeEocqTMRZ,0.758,0.525,8,-5.913,0.0611,0.43,0.0,0.0747,0.976,Banda 2022,0
+Siempre Pendientes,Peso Pluma,3IyNJEsknaSFoUIn8qf1Lr,5PfFHceiEv61KldMOuVrv8,0.774,0.748,0,-7.086,0.0352,0.331,0.0057,0.126,0.714,Banda 2022,0
+Si Fuera Fácil,Grupo Marca Registrada,3IyNJEsknaSFoUIn8qf1Lr,7Jph6HJbfURt4Fea19IED3,0.794,0.677,10,-9.969,0.0713,0.446,0.0313,0.076,0.611,Banda 2022,0
+Vamos Aclarando Muchas Cosas - En Vivo,Codiciado,3IyNJEsknaSFoUIn8qf1Lr,5gZOpqxK3J5b5BSjzG1PkM,0.718,0.55,10,-5.743,0.0381,0.761,0.0,0.105,0.824,Banda 2022,0
+JGL,La Adictiva Banda San José de Mesillas,3IyNJEsknaSFoUIn8qf1Lr,5kpxVMDvYGRmNqawPqDTYR,0.702,0.586,8,-5.317,0.118,0.55,0.0,0.27,0.965,Banda 2022,0
+Borracho de Amor,Edwin Luna y La Trakalosa de Monterrey,3IyNJEsknaSFoUIn8qf1Lr,4fYNJdS986IYQWxVoZjY3A,0.646,0.478,7,-5.61,0.0403,0.698,0.0,0.0885,0.94,Banda 2022,0
+Ya Supérame (En Vivo),Grupo Firme,3IyNJEsknaSFoUIn8qf1Lr,6HIIuuUIEzH1meVdGbMXyf,0.436,0.4,0,-6.521,0.11,0.463,0.0,0.76,0.568,Banda 2022,0
+Te Hubieras Ido Antes,Julión Álvarez y su Norteño Banda,3IyNJEsknaSFoUIn8qf1Lr,2jPufybqAAmiF16Jirt9Ez,0.723,0.476,3,-5.692,0.0474,0.653,0.0,0.059,0.966,Banda 2022,0
+Después de Ti ¿Quién?,La Adictiva,3IyNJEsknaSFoUIn8qf1Lr,1UpX5ptkVw2axgCbWWXbvk,0.688,0.529,2,-3.858,0.0316,0.532,2.04e-06,0.158,0.61,Banda 2022,0
+Si Te Pudiera Mentir,Calibre 50,3IyNJEsknaSFoUIn8qf1Lr,3p6eieHX6oEOzJStPtEsLu,0.764,0.585,2,-7.796,0.0305,0.348,0.00294,0.369,0.89,Banda 2022,0
+El Rescate,Grupo Marca Registrada,3IyNJEsknaSFoUIn8qf1Lr,4w273WCBXwM4P3jTX5HkB2,0.794,0.594,7,-8.698,0.139,0.283,0.000381,0.109,0.637,Banda 2022,0
+Haciendo Ruido,Indalfer Ochoa,3IyNJEsknaSFoUIn8qf1Lr,72SNGFw7z4RZrFnQsZI6JZ,0.792,0.541,5,-5.162,0.0359,0.733,0.0,0.0687,0.912,Banda 2022,0
+Si Fuera Fácil,Grupo Marca Registrada,3IyNJEsknaSFoUIn8qf1Lr,7Jph6HJbfURt4Fea19IED3,0.794,0.677,10,-9.969,0.0713,0.446,0.0313,0.076,0.611,Banda 2022,0
+Se Amerita,Junior H,3IyNJEsknaSFoUIn8qf1Lr,3pQYf90V5idOGrXzosm9rt,0.752,0.719,6,-4.399,0.0285,0.264,7.96e-05,0.126,0.544,Banda 2022,0
+Borracho de Amor,Edwin Luna y La Trakalosa de Monterrey,3IyNJEsknaSFoUIn8qf1Lr,57LD3gU4Gte3o0GltricFP,0.644,0.483,7,-5.614,0.0418,0.708,0.0,0.088,0.946,Banda 2022,0
+Los Botones Azules,Junior H,3IyNJEsknaSFoUIn8qf1Lr,3ZGkdrigbWXLgHungXfZkt,0.784,0.737,5,-2.174,0.0758,0.0877,0.0,0.1,0.623,Banda 2022,0
+A La Antigüita,Calibre 50,3IyNJEsknaSFoUIn8qf1Lr,798ahLNEcoFER7Vywg1FMT,0.651,0.726,8,-4.144,0.0539,0.382,0.0,0.0535,0.963,Banda 2022,0
+Quién Es Usted,"Sergio Vega ""El Shaka""",3IyNJEsknaSFoUIn8qf1Lr,4lac6b0JIjh4hQiW9IGKea,0.576,0.563,0,-2.819,0.0291,0.161,3.84e-06,0.144,0.485,Banda 2022,0
+Como Lo Hice Yo,Matisse,3IyNJEsknaSFoUIn8qf1Lr,64JzNzcoSZOh3RWeoghVfk,0.689,0.663,2,-4.538,0.0432,0.378,1.17e-06,0.0994,0.486,Banda 2022,0
+Ojos Verdes,Julión Álvarez y su Norteño Banda,3IyNJEsknaSFoUIn8qf1Lr,6981hdSOqG8tP6xTqaySa1,0.787,0.469,5,-5.503,0.039,0.653,0.0,0.0612,0.923,Banda 2022,0
+Cada Quien,Grupo Firme,3IyNJEsknaSFoUIn8qf1Lr,5BE9B2FiFWBbBdoIQ1m1UP,0.707,0.833,3,-2.498,0.0517,0.137,0.0,0.115,0.788,Banda 2022,0
+En El Radio Un Cochinero,Victor Cibrian,3IyNJEsknaSFoUIn8qf1Lr,2NWaWZZLFMcr5P4uI2KvWy,0.696,0.623,6,-8.738,0.0438,0.466,8.61e-06,0.0983,0.965,Banda 2022,0
+En Tu Perra Vida,Grupo Firme,3IyNJEsknaSFoUIn8qf1Lr,0ldT3gl7aGNzrJyd4b1CA4,0.546,0.438,5,-4.748,0.0669,0.353,0.0,0.261,0.568,Banda 2022,0
+Fuga Pa Cali 2,Grupo Los de la O,3IyNJEsknaSFoUIn8qf1Lr,5IdyvWCaUa7AgTxMsFj0wB,0.743,0.89,7,-5.451,0.0837,0.366,0.0,0.0966,0.809,Banda 2022,0
+En Peligro de Extinción,La Adictiva,3IyNJEsknaSFoUIn8qf1Lr,4wZqjBJCs2tD7AV3c2UUh5,0.699,0.442,0,-5.144,0.0277,0.0966,1.77e-06,0.274,0.816,Banda 2022,0
+Tranquilito,Gerardo Ortiz,3IyNJEsknaSFoUIn8qf1Lr,2LJRoFOtMGLnSxJqlJuhge,0.858,0.634,0,-4.058,0.0286,0.518,0.0,0.236,0.909,Banda 2022,0
+La Sinvergüenza,Christian Nodal,3IyNJEsknaSFoUIn8qf1Lr,1xO7tp4J5Wj0NeKrzIpd1V,0.704,0.482,9,-5.352,0.0349,0.211,0.0,0.3,0.604,Banda 2022,0
+El Tóxico,Grupo Firme,3IyNJEsknaSFoUIn8qf1Lr,7E9GeFGfjXw9LAI4ay6rsw,0.626,0.503,10,-5.087,0.141,0.407,0.0,0.234,0.821,Banda 2022,0
+Ya Acabo,Marca MP,3IyNJEsknaSFoUIn8qf1Lr,4H3t8C59tXjKf1R2iKtc5M,0.673,0.326,0,-7.481,0.0348,0.696,3.73e-06,0.103,0.672,Banda 2022,0
+Háblame De Ti,Banda MS de Sergio Lizárraga,3IyNJEsknaSFoUIn8qf1Lr,1O18MtSAMUk7JfAVB8gGzs,0.781,0.553,5,-4.598,0.0454,0.622,1.61e-06,0.0832,0.832,Banda 2022,0
+Simplemente Gracias,Calibre 50,3IyNJEsknaSFoUIn8qf1Lr,3K6noLeoPTQJ5jUErC8jT5,0.755,0.557,3,-5.982,0.0302,0.691,0.0,0.104,0.743,Banda 2022,0
+De Rancho en Rancho,Indalfer Ochoa,3IyNJEsknaSFoUIn8qf1Lr,67Qgtn35C7pANjy0ZypyRA,0.801,0.633,9,-4.245,0.0383,0.565,3.12e-06,0.0588,0.965,Banda 2022,0
+Botella Tras Botella,Gera MX,3IyNJEsknaSFoUIn8qf1Lr,2MnLkFqY9Rpg9s3Zv6ZJdK,0.727,0.546,0,-4.572,0.0437,0.656,0.0,0.122,0.69,Banda 2022,0
+Te Presumo,Banda El Recodo,3IyNJEsknaSFoUIn8qf1Lr,3EjuEvxoNgHV6urIdPA4cl,0.597,0.469,8,-6.143,0.0293,0.684,0.000416,0.166,0.696,Banda 2022,0
+Mi Último Deseo,Banda Los Recoditos,3IyNJEsknaSFoUIn8qf1Lr,01ksPzu3Bw8Lsf9o6xIk8C,0.844,0.639,11,-4.461,0.0437,0.62,0.0,0.46,0.974,Banda 2022,0
+El Final de Nuestra Historia,Jovanny Cadena Y Su Estilo Privado,3IyNJEsknaSFoUIn8qf1Lr,73aNc2V32NpepB8lLhnDjW,0.725,0.447,9,-5.693,0.0273,0.716,0.0,0.117,0.768,Banda 2022,0
+Yo Ya No Vuelvo Contigo - En Vivo,Lenin Ramírez,3IyNJEsknaSFoUIn8qf1Lr,1s59X35jDULAyOGmBuTAnd,0.643,0.35,4,-5.924,0.0783,0.784,0.0,0.102,0.541,Banda 2022,0
+Ojos Cerrados,Banda MS de Sergio Lizárraga,3IyNJEsknaSFoUIn8qf1Lr,4OVpyR6yhYyVoRj9D7CERz,0.513,0.345,7,-7.579,0.0691,0.336,0.0,0.0584,0.68,Banda 2022,0
+Adiós Amor,Christian Nodal,3IyNJEsknaSFoUIn8qf1Lr,63bmZnBN1CiJ9sA4qTEe8y,0.433,0.431,2,-6.422,0.0367,0.169,0.0,0.307,0.722,Banda 2022,0
+El Amor de Mi Vida,La Adictiva Banda San José de Mesillas,3IyNJEsknaSFoUIn8qf1Lr,3kZADzbBCSKzWyjKDwOIEb,0.689,0.556,10,-4.776,0.0305,0.0254,0.0,0.0942,0.795,Banda 2022,0
+Ya Me Enteré,Chayín Rubio,3IyNJEsknaSFoUIn8qf1Lr,4ggabbjjuHrG06SsYnqvEs,0.657,0.591,10,-3.505,0.0297,0.835,0.0,0.248,0.687,Banda 2022,0
+Mi Enemigo El Amor,Pancho Barraza,3IyNJEsknaSFoUIn8qf1Lr,3gYgHcEBcuySZwZ2dcTPXV,0.591,0.579,4,-5.904,0.0495,0.197,0.0,0.141,0.633,Banda 2022,0
+Tú,Carin Leon,3IyNJEsknaSFoUIn8qf1Lr,1nLs8r6K4YN0avBwUmmTnr,0.669,0.476,9,-6.635,0.0395,0.382,9.85e-06,0.21,0.905,Banda 2022,0
+Ojitos de Miel,T3R Elemento,3IyNJEsknaSFoUIn8qf1Lr,3V1jBnDI3zCn25ONFiqwN8,0.473,0.448,9,-9.35,0.0378,0.709,0.0,0.104,0.6,Banda 2022,0
+El Comienzo del Final,Leonardo Aguilar,3IyNJEsknaSFoUIn8qf1Lr,3MWYxx33qIGH4ShVmAltW6,0.677,0.664,0,-4.491,0.0306,0.519,0.0,0.114,0.905,Banda 2022,0
+Jugaste y Sufrí,Eslabon Armado,3IyNJEsknaSFoUIn8qf1Lr,3NqBxTOMCJ3zW9CIP51td4,0.39,0.499,7,-7.778,0.0381,0.632,0.000497,0.115,0.34,Banda 2022,0
+Porte Exuberante,Natanael Cano,3IyNJEsknaSFoUIn8qf1Lr,4DdnffqoFr9wDRlCACNmGf,0.685,0.831,4,-4.38,0.0858,0.398,0.0,0.177,0.486,Banda 2022,0
+Aerolínea Carrillo,T3R Elemento,3IyNJEsknaSFoUIn8qf1Lr,0xYTyyfV767E2Vn3hz56kL,0.669,0.561,1,-6.613,0.0318,0.337,0.0,0.198,0.867,Banda 2022,0
+Soy El Unico,Yahritza Y Su Esencia,3IyNJEsknaSFoUIn8qf1Lr,6HJIZUOiZDE814XMhRGSZN,0.708,0.449,4,-4.369,0.0286,0.451,0.0,0.111,0.63,Banda 2022,0
+De Los Besos Que Te Di,Christian Nodal,3IyNJEsknaSFoUIn8qf1Lr,1qfoq1qvZT7VwDVeekCJ97,0.504,0.503,7,-3.313,0.0422,0.388,0.0,0.0608,0.709,Banda 2022,0
+En Peligro de Extinción,La Adictiva Banda San José de Mesillas,3IyNJEsknaSFoUIn8qf1Lr,45sVRPegWSGpIcsrDoaaCY,0.709,0.483,0,-3.734,0.0281,0.219,2.33e-06,0.241,0.834,Banda 2022,0
+Aquí Abajo,Christian Nodal,3IyNJEsknaSFoUIn8qf1Lr,16ONd70tvWAaLIc6hcLzaG,0.638,0.437,4,-3.857,0.0332,0.282,0.0,0.0894,0.618,Banda 2022,0
+Como Duele Equivocarse,Carin Leon,3IyNJEsknaSFoUIn8qf1Lr,01Bb7kIu9BRyWE0G5A7AmI,0.641,0.334,10,-5.961,0.0333,0.39,0.0,0.247,0.681,Banda 2022,0
+Cerrando Ciclos,Banda MS de Sergio Lizárraga,3IyNJEsknaSFoUIn8qf1Lr,3fBJNawfhtgCmo58trRK2z,0.74,0.417,2,-5.713,0.038,0.192,8.43e-06,0.225,0.607,Banda 2022,0
+No Lo Hice Bien,Los Plebes del Rancho de Ariel Camacho,3IyNJEsknaSFoUIn8qf1Lr,211mktDmIq7g2Q4gBTXphj,0.607,0.51,9,-5.146,0.0298,0.653,2.87e-06,0.0698,0.781,Banda 2022,0
+El Güero (Feat. Marca MP),Grupo Firme,3IyNJEsknaSFoUIn8qf1Lr,2MeEuwplwbbjZ7hxRI6viw,0.625,0.554,10,-5.531,0.0618,0.417,0.0,0.305,0.846,Banda 2022,0
+A Través Del Vaso,Grupo Arranke,3IyNJEsknaSFoUIn8qf1Lr,0oCSitNlzsQfuIapF9tXRQ,0.62,0.695,5,-2.979,0.0298,0.36,1.5e-05,0.347,0.921,Banda 2022,0
+Ella,Junior H,3IyNJEsknaSFoUIn8qf1Lr,0tKl8ZVM6xJkhznvJAS3Nq,0.478,0.732,4,-4.342,0.0779,0.363,3.34e-06,0.0768,0.664,Banda 2022,0
+El Color de Tus Ojos,Banda MS de Sergio Lizárraga,3IyNJEsknaSFoUIn8qf1Lr,1l77YWrGUp3qX3NS1rz7lq,0.765,0.339,8,-8.965,0.0365,0.278,0.0,0.131,0.864,Banda 2022,0
+En Peligro de Extinción,La Adictiva Banda San José de Mesillas,3IyNJEsknaSFoUIn8qf1Lr,1Utd9DbmWNHWjEuzItBmRX,0.699,0.442,0,-5.144,0.0277,0.0966,1.77e-06,0.274,0.816,Banda 2022,0
+Ya Solo Eres Mi Ex,La Adictiva Banda San José de Mesillas,3IyNJEsknaSFoUIn8qf1Lr,0QBinvGHLoIFTICmySWvXG,0.455,0.324,7,-7.033,0.042,0.537,0.0,0.125,0.626,Banda 2022,0
+No Me Queda Más,3 Del Norte,3IyNJEsknaSFoUIn8qf1Lr,4ZZrsj6jRvV36kO0xCxxth,0.457,0.901,2,-1.81,0.0775,0.496,0.0,0.14,0.545,Banda 2022,0
+Está Dañada,Ivan Cornejo,3IyNJEsknaSFoUIn8qf1Lr,6G2xXQRSZlEzYsUEb3uvuR,0.405,0.565,1,-9.266,0.0372,0.38,0.0195,0.107,0.166,Banda 2022,0
+Cabrón y Vago - En Vivo,El Fantasma,3IyNJEsknaSFoUIn8qf1Lr,4nbWX2HzrOEnX4xxvYRCyU,0.547,0.638,8,-2.99,0.124,0.697,0.0,0.074,0.876,Banda 2022,0
+La Casita,Banda MS de Sergio Lizárraga,3IyNJEsknaSFoUIn8qf1Lr,0vtYnEw1eJwW26BrBnOAYJ,0.832,0.525,10,-6.806,0.0412,0.277,1.77e-05,0.142,0.967,Banda 2022,0
+Que Fuimos,Banda MS de Sergio Lizárraga,3IyNJEsknaSFoUIn8qf1Lr,56OTBUIn4xlmDhtPowlA2d,0.723,0.443,0,-5.736,0.0298,0.303,3.85e-06,0.246,0.712,Banda 2022,0
+El Final De Nuestra Historia,La Arrolladora Banda El Limón De Rene Camacho,3IyNJEsknaSFoUIn8qf1Lr,31REg67eoHJSvMLUcEmGNj,0.735,0.502,10,-8.154,0.0344,0.48,0.0,0.199,0.947,Banda 2022,0
+Calidad,Grupo Firme,3IyNJEsknaSFoUIn8qf1Lr,0uBcoM4zxRXk7kmsmxoiFS,0.731,0.491,0,-3.116,0.029,0.609,0.0,0.262,0.781,Banda 2022,0
+2 Veces,Los Plebes del Rancho de Ariel Camacho,3IyNJEsknaSFoUIn8qf1Lr,4cV6ld7uIs906zOwNscoBM,0.525,0.505,7,-4.199,0.032,0.538,0.0,0.101,0.79,Banda 2022,0
+Palabra de Hombre,El Fantasma,3IyNJEsknaSFoUIn8qf1Lr,4UiaP0wBuy9N9voD91OZOg,0.575,0.374,8,-2.707,0.0346,0.535,0.0,0.178,0.563,Banda 2022,0
+Se Fue La Pantera (En Vivo),Grupo Firme,3IyNJEsknaSFoUIn8qf1Lr,6Yard5LK4aXEn0kBKtHSob,0.557,0.66,3,-4.467,0.0768,0.118,0.0,0.085,0.907,Banda 2022,0
+Te Apuesto - En vivo,Marca MP,3IyNJEsknaSFoUIn8qf1Lr,7wnO6pBzcWWT8zT4vFx7hM,0.724,0.357,8,-8.197,0.0715,0.432,0.0,0.12,0.69,Banda 2022,0
+Me Sobrabas Tú,Banda Los Recoditos,3IyNJEsknaSFoUIn8qf1Lr,33XISWpHJRbAvFSMW1y44A,0.729,0.507,0,-4.94,0.0486,0.698,0.0,0.26,0.961,Banda 2022,0
+El Bélico,El Fantasma,3IyNJEsknaSFoUIn8qf1Lr,50pkO56KXHoH53sVPRSbZ3,0.707,0.567,10,-4.091,0.0492,0.597,1.28e-06,0.0668,0.964,Banda 2022,0
+No Es Por Acá,Carin Leon,3IyNJEsknaSFoUIn8qf1Lr,3bvJftZKZe5QKz433NczyV,0.746,0.37,2,-6.309,0.0306,0.456,0.0,0.106,0.595,Banda 2022,0
+Solo Un Dia (Ahora Te Amo),Adan Romero,3IyNJEsknaSFoUIn8qf1Lr,51RcAoNIqe0G3284yxT8G0,0.692,0.377,5,-7.128,0.0497,0.522,0.0,0.0965,0.939,Banda 2022,0
+La Buena y la Mala,Banda Tierra Sagrada,3IyNJEsknaSFoUIn8qf1Lr,4y0n8xKuEKE0J2sThzswhg,0.805,0.716,0,-4.498,0.039,0.527,0.0,0.247,0.905,Banda 2022,0
+Que Te Vaya Bien,Julión Álvarez y su Norteño Banda,3IyNJEsknaSFoUIn8qf1Lr,1kJXYVVUu7o3B9gaJpoxjm,0.665,0.469,4,-5.809,0.028,0.23,0.0,0.234,0.383,Banda 2022,0
+Dueño de Ti,"Sergio Vega ""El Shaka""",3IyNJEsknaSFoUIn8qf1Lr,7j9iuJvGg8Ve2O20CO8Oho,0.734,0.676,10,-0.007,0.047,0.314,0.0,0.0646,0.774,Banda 2022,0
